@@ -256,9 +256,15 @@ elif predictions == ["Key"]:
             ],
         )
     with col3:
-        ALTER = st.radio(label="Altered?", options=["#5", "b5"])
+        ALTERSHARP5 = st.checkbox(label="#5")
+        ALTERFLAT5 = st.checkbox(label="b5")
+    if ALTERSHARP5:
+        ROMAN += "#5"
+    elif ALTERFLAT5:
+        ROMAN += "b5"
 
-    ROMAN += ALTER
+    print(ROMAN)
+
     key_y = pd.DataFrame({"Notes": [NOTES], "RomanNumeral": [ROMAN]})
 
     f"""

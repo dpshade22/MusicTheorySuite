@@ -1,3 +1,4 @@
+from re import A
 import sklearn
 from sklearn.neighbors import KNeighborsRegressor
 
@@ -65,7 +66,7 @@ intervalsList = ["m2", "M2", "m3", "M3", "P4", "P5", "TT"]
 triadChordTypes = {
     "m2": {"TT": "Sus b2"},
     "M2": {"P4": "Sus 2"},
-    "m3": {"M2": "Dim b5", "m3": "Dim", "M3": "Minor"},
+    "m3": {"M2": "Dim b5", "m3": "Dim", "M3": "Minor", "P4": "Minor Augmented"},
     "M3": {"m3": "Major", "M3": "Aug"},
     "P4": {"M2": "Sus 4", "P4": "Quartal"},
     "TT": {"m2": "Sus #4"},
@@ -74,9 +75,13 @@ triadChordTypes = {
 
 seventhChordTypes = {
     "m3": {
-        "m3": {"m3": "Dim 7", "M3": "Half Dim 7", "P5": "Dim Add 9"},
-        "M3": {"P5": "Minor Add 9"},
-        "M3": {"M3": "Minor Major 7th", "m3": "Minor 7th"},
+        "m3": {
+            "m3": "Diminished 7",
+            "M3": "Half diminished 7",
+            "P5": "Diminished add 9",
+        },
+        "M3": {"P5": "Minor add 9"},
+        "M3": {"M3": "Minor major 7th", "m3": "Minor 7th"},
     },
     "M3": {
         "m3": {
@@ -148,8 +153,12 @@ class Chord:
         self.ninth = None
         self.chord = []
 
-    def createTriad(self):
-        chordName = triadChordTypes.get(self.bottom).get(self.top)
+    def createTriad(self, root, third, fifth):
+        self.root = root
+        try:
+            chordName = triadChordTypes.get(self.bottom).get(self.top)
+        except:
+            chordName = None
 
         while chordName is None:
             self.bottom, self.top, self.tiptop = (
@@ -158,12 +167,21 @@ class Chord:
                 random.choice(intervalsList),
             )
             try:
+                self.bottom = distOfNotes(self.root, third)
                 chordName = triadChordTypes.get(self.bottom).get(self.top)
             except:
+                third = random.choice(allNotes)
+
                 self.bottom, self.top = (
                     random.choice(intervalsList),
                     random.choice(intervalsList),
                 )
+
+            try:
+                self.top = distOfNotes(self.third, fifth)
+                chordName = triadChordTypes.get(self.bottom).get(self.top)
+            except:
+                fifth = random.choice(allNotes)
 
         self.chord.append(self.root)
 
@@ -198,7 +216,7 @@ class Chord:
         self.top = distOfNotes(third, fifth)
         self.seventh = distOfNotes(fifth, seventh)
 
-        chordName = seventhChordTypes.get(self.bottom).get(self.top).get(self.tiptop)
+        chordName = seventhChordTypes.get(self.bottom).get(self.top).get(self.seventh)
         chord = f"{root.title()} {chordName}"
 
         return chord
