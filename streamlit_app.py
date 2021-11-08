@@ -17,7 +17,7 @@ romanPipe, romanScore = romanPredictionDF()
 keyPipe, keyScore = keyPredictionDF()
 notesPipe, notesScore = notesPredictionDF()
 
-st.image("./musicToolSuite.png", use_column_width=True)
+st.image("./Assets/musicToolSuite.png", use_column_width=True)
 
 f"""
     # Chord Solver 2.0 (ML)
@@ -43,6 +43,8 @@ predictions = st.selectbox(
     options=["Chord & Roman Numeral", "Key", "Notes"],
     index=2,
 )
+
+"---"
 
 col1, col2, col3 = st.columns(3)
 col4, col5 = st.columns(2)
@@ -91,13 +93,13 @@ elif predictions in ["Chord & Roman Numeral"]:
             f"""
             ---
             ### Predictions Accuracy: {round(chordScore*100, 2)}% & {round(romanScore*100, 2)}%
-            > ### Chord Name: {chordPipe.predict(y)[0]}
-            > ### Roman Numeral: {romanPipe.predict(y)[0]}
+            > ### Chord Name: {chordPipe.predict(y)[0]} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Roman Numeral: {romanPipe.predict(y)[0]}
             """
         else:
             f"""
-            ### Chord Name: {chordPipe.predict(y)[0]}
-            ### Roman Numeral: {romanPipe.predict(y)[0]}
+            ---
+            ### Chord Name: {chordPipe.predict(y)[0]} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Roman Numeral: {romanPipe.predict(y)[0]}
+            ###
             """
 
 elif predictions == "Key":
@@ -126,15 +128,15 @@ elif predictions == "Key":
             ],
         )
     with col3:
-        ALTERSHARP5 = st.checkbox(label="#5")
-        ALTERFLAT5 = st.checkbox(label="b5")
-        SEVENTH = st.checkbox(label="7")
-    if ALTERSHARP5:
-        ROMAN += "^{#5}"
-    elif ALTERFLAT5:
-        ROMAN += "^{b5}"
-    elif SEVENTH:
-        ROMAN += "^7"
+        altered = st.radio("Altered", ["#5", "b5", "7"])
+    if altered:
+        ROMAN += "#5"
+    elif altered:
+        ROMAN += "b5"
+    elif altered:
+        ROMAN += "7"
+
+    print(ROMAN)
 
     key_y = pd.DataFrame({"Notes": [NOTES], "RomanNumeral": [ROMAN]})
     key_prediction = keyPipe.predict(key_y)[0]
@@ -176,7 +178,7 @@ elif predictions == "Notes":
 
     KEY = "C"
 
-    colX, colY = st.columns(2)
+    colX, colY, colZ = st.columns(3)
 
     with colX:
         KEY = st.selectbox("Key", keys, index=0)
@@ -202,6 +204,17 @@ elif predictions == "Notes":
             ],
             index=0,
         )
+    with colZ:
+        altered = st.radio("Altered", ["#5", "b5", "7"])
+
+    if altered == "#5":
+        ROMAN += "#5"
+    elif altered == "b5":
+        ROMAN += "b5"
+    elif altered == "7":
+        ROMAN += "7"
+
+    print(ROMAN)
 
     notes_y = pd.DataFrame(
         {

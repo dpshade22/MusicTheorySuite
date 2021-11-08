@@ -15,7 +15,7 @@ from PIL import Image
 
 
 dtreeModel = DecisionTreeClassifier()
-joblib.dump(dtreeModel, "dtreeModel.joblib")
+
 # Build pandas dataframe
 @st.cache
 def loadData(vars):
@@ -23,28 +23,18 @@ def loadData(vars):
         df = pd.read_csv("./DataAndModels/data10000", usecols=["Key", "Notes", "Chord"])
     if vars == "Roman":
         df = pd.read_csv(
-            "./DataAndModels/data10000",
+            "./DataAndModels/data50000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Key":
         df = pd.read_csv(
-            "./DataAndModels/data10000",
+            "./DataAndModels/data50000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Notes":
         df = pd.read_csv(
-            "./DataAndModels/data10000",
+            "./DataAndModels/data50000",
             usecols=["Key", "Notes", "RomanNumeral"],
-        )
-    if vars == "ChordNotes":
-        df = pd.read_csv(
-            "./DataAndModels/data10000",
-            usecols=["Chord", "Notes"],
-        )
-    if vars == "Quality":
-        df = pd.read_csv(
-            "./DataAndModels/data10000",
-            usecols=["Notes", "Quality"],
         )
 
     return df
@@ -54,12 +44,11 @@ def loadData(vars):
 # Scikit Learn Classification
 ohe = OneHotEncoder(sparse=False, handle_unknown="ignore")
 # model = neighbors.KNeighborsClassifier(15)
-chordModel = load("./DataAndModels/dtreeModel.joblib")
-romanModel = load("./DataAndModels/dtreeModel.joblib")
-keyModel = load("./DataAndModels/dtreeModel.joblib")
-notesModel = load("./DataAndModels/dtreeModel.joblib")
-chordNotesModel = load("./DataAndModels/dtreeModel.joblib")
-qualityModel = load("./DataAndModels/dtreeModel.joblib")
+chordModel = load("./DataAndModels/model.joblib")
+romanModel = load("./DataAndModels/model.joblib")
+keyModel = load("./DataAndModels/model.joblib")
+notesModel = load("./DataAndModels/model.joblib")
+
 ## Column Transformation and Model
 
 
