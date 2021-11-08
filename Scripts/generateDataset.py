@@ -407,6 +407,14 @@ def generateDataset(num):
             except:
                 continue
 
+            chordStripped = chordName.replace(" ", "")
+
+            if (
+                chordStripped[:1] == chordStripped[2:3]
+                or chordStripped[0] == chordStripped[1]
+            ):
+                continue
+
             df["Key"].append(tempKey.root)
             df["Quality"].append(tempKey.quality)
             df["Notes"].append(notesStr)
@@ -423,6 +431,6 @@ def generateDataset(num):
     return df
 
 
-df = pd.DataFrame(generateDataset(50000))
+df = pd.DataFrame(generateDataset(10000))
 
-df.to_csv("./DataAndModels/data50000", index=False)
+df.to_csv("./DataAndModels/data10000", index=False)

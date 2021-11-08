@@ -64,30 +64,30 @@ intervalsList = ["m2", "M2", "m3", "M3", "P4", "P5", "TT"]
 
 
 triadChordTypes = {
-    "m2": {"TT": "Sus b2"},
-    "M2": {"P4": "Sus 2"},
-    "m3": {"M2": "Dim b5", "m3": "Dim", "M3": "Minor", "P4": "Minor Augmented"},
-    "M3": {"m3": "Major", "M3": "Aug"},
-    "P4": {"M2": "Sus 4", "P4": "Quartal"},
-    "TT": {"m2": "Sus #4"},
-    "P5": {"P5": "Quintal"},
+    "m2": {"TT": "sus b2"},
+    "M2": {"P4": "sus 2"},
+    "m3": {"M2": "dim b5", "m3": "dim", "M3": "minor", "P4": "minor augmented"},
+    "M3": {"m3": "major", "M3": "aug"},
+    "P4": {"M2": "sus 4", "P4": "quartal"},
+    "TT": {"m2": "sus #4"},
+    "P5": {"P5": "quintal"},
 }
 
 seventhChordTypes = {
     "m3": {
         "m3": {
-            "m3": "Diminished 7",
-            "M3": "Half diminished 7",
-            "P5": "Diminished add 9",
+            "m3": "diminished 7th",
+            "M3": "half diminished 7th",
+            "P5": "diminished add 9",
         },
-        "M3": {"P5": "Minor add 9"},
-        "M3": {"M3": "Minor major 7th", "m3": "Minor 7th"},
+        "M3": {"P5": "minor add 9th"},
+        "M3": {"M3": "minor major 7th", "m3": "minor 7th"},
     },
     "M3": {
         "m3": {
-            "M3": "Major major 7th",
-            "m3": "Major minor 7th",
-            "M2": "Major Dimimished 7",
+            "M3": "major major 7th",
+            "m3": "major minor 7th",
+            "M2": "major dimimished 7",
         }
     },
 }

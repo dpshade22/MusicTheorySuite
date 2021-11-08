@@ -15,25 +15,25 @@ from streamlit.proto.Radio_pb2 import Radio
 @st.cache
 def loadData(vars):
     if vars == "Chord":
-        df = pd.read_csv("./DataAndModels/data50000", usecols=["Key", "Notes", "Chord"])
+        df = pd.read_csv("./DataAndModels/data10000", usecols=["Key", "Notes", "Chord"])
     if vars == "Roman":
         df = pd.read_csv(
-            "./DataAndModels/data50000",
+            "./DataAndModels/data10000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Key":
         df = pd.read_csv(
-            "./DataAndModels/data50000",
+            "./DataAndModels/data10000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Notes":
         df = pd.read_csv(
-            "./DataAndModels/data50000",
+            "./DataAndModels/data10000",
             usecols=["Chord", "Key", "Quality", "Notes", "RomanNumeral"],
         )
     if vars == "Quality":
         df = pd.read_csv(
-            "./DataAndModels/data5000",
+            "./DataAndModels/data10000",
             usecols=["Key", "Quality", "Chord", "RomanNumeral"],
         )
 
@@ -48,7 +48,7 @@ chordModel = load("./DataAndModels/model.joblib")
 romanModel = load("./DataAndModels/model.joblib")
 keyModel = load("./DataAndModels/model.joblib")
 notesModel = load("./DataAndModels/model.joblib")
-
+qualityModel = load("./DataAndModels/model.joblib")
 ## Column Transformation and Model
 
 
@@ -163,9 +163,9 @@ def notesPredictionDF():
 
 @st.cache
 def qualityPredictionDF():
-    df = loadData("Notes")
-    X = df.drop(columns=["Notes"])
-    y = df["Notes"]
+    df = loadData("Quality")
+    X = df.drop(columns=["Quality"])
+    y = df["Quality"]
 
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, random_state=4, shuffle=True
@@ -173,7 +173,7 @@ def qualityPredictionDF():
 
     pipe = make_pipeline(
         getCategoircalDataTransformed(["Key", "Quality", "Chord", "RomanNumeral"]),
-        notesModel,
+        qualityModel,
     )
 
     pipe.fit(X_train, y_train)
@@ -327,18 +327,24 @@ elif predictions == "Notes":
 
     method = st.radio(label="Method", options=["Chord Name", "Key & Roman Numeral"])
 
-    CHORD = "C Major"
-    ROMAN = "I"
-    KEY = "C Major"
-    QUALITY = "Major"
+    CHORD: str
+    KEY: str
+    QUALITY: str
 
     if method == "Chord Name":
+
         CHORD = st.text_input("Enter Chord Name", value="C Major")
         CHORD = CHORD.title()
+
     else:
-        with col4:
+        KEY = "C Major"
+        QUALITY = "Major"
+
+        colX, colY = st.columns(2)
+
+        with colX:
             KEY = st.selectbox("Key", keys, index=0)
-        with col5:
+        with colY:
             ROMAN = st.selectbox(
                 label="Roman Numeral",
                 options=[
@@ -392,6 +398,19 @@ elif predictions == "Notes":
     ### Prediction Accuracy: {round(notesScore*100, 2)}%
     > ### Chord Name: {chord_prediction}
     > ### Notes: {notes_prediction}
+    """
+if predictions == "Quality":
+
+    quality_y = pd.DataFrame(
+        {"Key": [], "Quality": [], "Chord": [], "RomanNumeral": []}
+    )
+
+    quality_prediction = qualityPipe.predict(quality_y)
+
+    f"""
+    ---
+    ### Prediction Accuracy: {round(chordScore*100, 2)}%
+    > ### Chord Name: {chord_prediction}
     """
 
 # with col3:

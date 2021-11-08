@@ -1,0 +1,4998 @@
+Key,Quality,Notes,Chord,RomanNumeral
+A,major,A C# E,A Major,I
+A,major,BDF#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,F# A B,F# Dim b5,vi
+A,minor,A D E,A Sus 4,i
+A,minor,B D# F#,B Major,V/V
+A,minor,C E G,C Major,III
+A,minor,C E G B,C Major major 7th,III7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,F A C,F Major,VI
+A,minor,F A C Eb,F Major minor 7th,VI7
+C#,major,D# F# A# C#,D# Minor 7th,ii7
+C#,major,F#A#C#E,F# Major minor 7th,IV7
+C#,major,G# B# D# F#,G# Major minor 7th,V7
+C#,major,D# F# A# C#,D# Minor 7th,ii7
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,C Eb G B,C Minor major 7th,vi7
+Eb,major,Bb D F,Bb Major,V
+Eb,major,C Eb G,C Minor,vi
+G,major,GBD,G Major,I
+G,major,A C E G,A Minor 7th,ii7
+G,major,B D F#,B Minor,iii
+G,major,D F# A,D Major,V
+G,major,C E G Bb,C Major minor 7th,IV7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,F# A C,F# Dim,ii°
+E,minor,E G B D#,E Minor major 7th,i7
+E,minor,B D# F#,B Major,V
+E,minor,C E G,C Major,VI
+E,minor,D F# A C#,D Major major 7th,VII7
+E,major,E G B,E Minor,I
+E,major,F# A C#,F# Minor,ii
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,A C# E,A Major,IV
+E,major,F# A C# E#,F# Minor major 7th,ii7
+D,minor,A C E G,A Minor 7th,v7
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,Bb D F Ab,Bb Major minor 7th,VI7
+D,minor,E G Bb Db,E Diminished 7,ii°7
+D,minor,C E G,C Major,VII
+G,major,G B D,G Major,I
+G,major,A C E,A Minor,ii
+G,major,B D F#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,G B D F#,G Major major 7th,I7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,G Bb Db F,G Half diminished 7,ii°7
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,C# E G#,C# Minor,vi
+E,minor,B D# F# A#,B Major major 7th,V7
+E,minor,D F# A C#,D Major major 7th,VII7
+E,minor,BD#F##,B Aug,V
+E,minor,F#ACE,F# Half diminished 7,ii°7
+C,major,E G B,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,ACEG#,A Minor major 7th,vi7
+C,major,A C E,A Minor,vi
+D,minor,D F A,D Minor,i
+D,minor,EGBb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,A C E,A Minor,v
+D,minor,D F A C#,D Minor major 7th,i7
+D,minor,C E G,C Major,VII
+Cb,major,Bb Db Fb Abb,Bb Diminished 7,vii°7
+Cb,major,Eb Gb Bb,Eb Minor,iii
+Cb,major,Bb Db Fb Abb,Bb Diminished 7,vii°7
+Cb,major,Gb Bb Db,Gb Major,V
+Cb,major,BbDbFbAb,Bb Half diminished 7,vii°7
+E,minor,F#AC,F# Dim,ii°
+E,minor,F# A C E,F# Half diminished 7,ii°7
+E,minor,C E G Bb,C Major minor 7th,VI7
+E,minor,A C E G#,A Minor major 7th,iv7
+F,major,F A C,F Major,I
+F,major,G Bb Db,G Dim,iib5
+F,major,A C E,A Minor,iii
+F,major,C E G,C Major,V
+F,major,DFA,D Minor,vi
+F,major,E G Bb,E Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,BD#F#,B Major,V
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G#CD#,G# Major,iii
+E,major,B D# F# A#,B Major major 7th,V7
+F,minor,F Ab C,F Minor,i
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,B D# F# A#,B Major major 7th,V7
+E,major,C#EG#B#,C# Minor major 7th,vi7
+E,major,BD#F#,B Major,V
+E,major,D# F# A C#,D# Half diminished 7,vii°7
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,Bb D F,Bb Major,VI
+D,minor,D F A C#,D Minor major 7th,i7
+C,major,C E G,C Major,I
+C,major,D F A,D Minor,ii
+C,major,B D F Ab,B Diminished 7,vii°7
+C,major,G B D,G Major,V
+C,major,G B D F,G Major minor 7th,V7
+B,minor,A C# E Gb,A Major Dimimished 7,VII7
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C# E,F# Major minor 7th,V7
+B,minor,G B D,G Major,VI
+B,minor,E G B D,E Minor 7th,iv7
+Db,major,C Eb Gb Bbb,C Diminished 7,vii°7
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,F Ab C,F Minor,iii
+Db,major,F Ab C Eb,F Minor 7th,iii7
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+C,minor,C Eb G,C Minor,i
+C,minor,D F A,D Minor,ii°#5
+C,minor,Eb G Bb,Eb Major,III
+A,major,B D F#,B Minor,ii
+A,major,G# B D F,G# Diminished 7,vii°7
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,G# B D F#,G# Half diminished 7,vii°7
+D,minor,C E G Bbb,C Major Dimimished 7,VII7
+D,minor,F A C,F Major,III
+D,minor,D F A C,D Minor 7th,i7
+D,minor,C E G Bbb,C Major Dimimished 7,VII7
+E,major,E G B,E Minor,I
+E,major,EG#BD,E Major minor 7th,I7
+E,major,G# B D# F##,G# Minor major 7th,iii7
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,D F# A C,D Major minor 7th,VII7
+E,minor,BD#F#,B Major,V
+E,minor,DF#ACb,D Major Dimimished 7,VII7
+E,minor,C E G Bb,C Major minor 7th,VI7
+F#,major,G# B D#,G# Minor,ii
+F#,major,A# C# E#,A# Minor,iii
+F#,major,G# B D# F##,G# Minor major 7th,ii7
+F#,major,C#E#G#,C# Major,V
+F#,major,D# F# A#,D# Minor,vi
+F#,major,E# G# C,E# Minor,vii°
+F,minor,F Ab C,F Minor,i
+F,minor,GBbDb,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+D,major,A C# E Gb,A Major Dimimished 7,V7
+D,major,E G# B,E Major,V/V
+D,major,F# A C#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,C# E G,C# Dim,vii°
+E,minor,D F# A C,D Major minor 7th,VII7
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+C,major,C E G,C Major,I
+C,major,D F A,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,F A C Eb,F Major minor 7th,IV7
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C E,A Minor,iv
+E,minor,D F# A,D Major,VII
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,G# B D F#,G# Half diminished 7,vii°7
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D F#,G# Half diminished 7,vii°7
+D,minor,E G Bb,E Dim,ii°
+D,minor,Bb D F Ab,Bb Major minor 7th,VI7
+D,minor,G Bb D,G Minor,iv
+A,major,A D E,A Sus 4,I
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,D F# A,D Major,IV
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,BbDbF,Bb Minor,iv
+F,minor,C E G,C Major,V
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+Eb,major,G Bb D,G Minor,iii
+Eb,major,G Bb D F#,G Minor major 7th,iii7
+Eb,major,Ab C Eb Gb,Ab Major minor 7th,IV7
+D,minor,D F A#,D Minor Augmented,i#5
+D,minor,C E G B,C Major major 7th,VII7
+D,minor,F A C E,F Major major 7th,III7
+F,major,F A C,F Major,I
+F,major,A C E,A Minor,iii
+F,major,B D F,B Dim,vii°/V
+F,major,C E G Bbb,C Major Dimimished 7,V7
+F,major,G Bb D F,G Minor 7th,ii7
+F,major,F A C E,F Major major 7th,I7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C E G,C Major,V
+F,minor,Db F Ab,Db Major,VI
+F,minor,Ab C Eb G,Ab Major major 7th,III7
+D,major,D F# A,D Major,I
+D,major,E G# B,E Major,V/V
+D,major,F# A C#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,A C# E,A Major,V
+D,major,B D F#,B Minor,vi
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,G Bb C,G Dim b5,v
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,C# E# G# B,C# Major minor 7th,V/V7
+B,major,E G# B D#,E Major major 7th,IV7
+B,major,F# A# C##,F# Aug,V#5
+B,major,A# C# E,A# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,C E G,C Major,VI
+C,major,C E G,C Major,I
+C,major,D F# A,D Major,V/V
+C,major,E G B,E Minor,iii
+C,major,D F A C,D Minor 7th,ii7
+C,major,G B D#,G Aug,V#5
+C,major,D F A C,D Minor 7th,ii7
+C,major,B D F,B Dim,vii°
+Gb,minor,Ab Cb Eb,Ab Minor,ii°
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Ab Cb Eb Gb,Ab Minor 7th,ii°7
+C,major,C E G,C Major,I
+C,major,D F A,D Minor,ii
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+E,minor,E F B,E Sus b2,i
+E,minor,G B D,G Major,III
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,C E G,C Major,VI
+E,minor,C E G Bb,C Major minor 7th,VI7
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,D# F# A#,D# Minor,iii
+B,major,EG#B,E Major,IV
+B,major,F# A# C#,F# Major,V
+B,major,D# F# A# C#,D# Minor 7th,iii7
+Gb,minor,Bb Db F A,Bb Minor major 7th,III7
+Gb,minor,Ab Cb E,Ab Minor Augmented,ii°
+Gb,minor,Bb Db F,Bb Minor,III
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Db F Ab,Db Major,v
+Gb,minor,Eb Gb Bb,Eb Minor,VI
+Gb,minor,F Ab C,F Minor,VII#5
+G,major,B D F,B Dim,iii
+G,major,D F# A C#,D Major major 7th,V7
+G,major,F# A C,F# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C E G#,A Minor major 7th,iv7
+E,minor,BD#F#,B Major,V
+E,minor,A C E G,A Minor 7th,iv7
+F,major,F A C,F Major,I
+F,major,G Bb D F#,G Minor major 7th,ii7
+F,major,ACE,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,D F A,D Minor,vi
+E,minor,E G A,E Dim b5,i
+E,minor,F#AC#,F# Minor,ii°#5
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+E,minor,B D F# A,B Minor 7th,v7
+C#,major,E# G# B# D##,E# Minor major 7th,iii7
+C#,major,F# A# C# E,F# Major minor 7th,IV7
+C#,major,E# G# B# D#,E# Minor 7th,iii7
+C#,major,C# E# G# B,C# Major minor 7th,I7
+C#,major,B# D# F#,B# Dim,vii°
+Ab,major,F Ab C E,F Minor major 7th,vi7
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Ab C Eb Gb,Ab Major minor 7th,I7
+Ab,major,C Eb G B,C Minor major 7th,iii7
+E,major,A C# E G#,A Major major 7th,IV7
+E,major,G# B D# F#,G# Minor 7th,iii7
+E,major,G# B D#,G# Minor,iii
+E,major,C# E G,C# Dim,vib5
+D,minor,F A C Eb,F Major minor 7th,III7
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,BbDF,Bb Major,VI
+D,minor,C E G,C Major,VII
+A,major,B D F# A,B Minor 7th,ii7
+A,major,C#EG#,C# Minor,iii
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,C E G Bb,C Major minor 7th,III7
+A,minor,C E G,C Major,III
+A,minor,EG#B,E Major,V
+A,minor,F A C,F Major,VI
+A,minor,B D F Ab,B Diminished 7,ii°7
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb D F Ab,Bb Major minor 7th,V/V7
+B,minor,C# E G Bb,C# Diminished 7,ii°7
+B,minor,DF#A,D Major,III
+B,minor,B D F# A#,B Minor major 7th,i7
+B,minor,E G Bb D,E Half diminished 7,ivb57
+B,major,B D# F#,B Major,I
+B,major,G#BD#F#,G# Minor 7th,vi7
+B,major,D# F# A#,D# Minor,iii
+B,major,F# A# C# Eb,F# Major Dimimished 7,V7
+B,major,A# C# E,A# Dim,vii°
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,BbDbF,Bb Minor,ii
+Ab,major,C Eb G,C Minor,iii
+Ab,major,AbCEbGb,Ab Major minor 7th,I7
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,C Eb G B,C Minor major 7th,iii7
+Ab,major,G Bb D,G Minor,vii°#5
+C,major,D F A,D Minor,ii
+C,major,D F A C#,D Minor major 7th,ii7
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,A C# E G#,A Major major 7th,VII7
+B,minor,G B D F,G Major minor 7th,VI7
+E,major,E G# B,E Major,I
+E,major,C# E G# B,C# Minor 7th,vi7
+E,major,C# E G# B,C# Minor 7th,vi7
+E,major,A C# E,A Major,IV
+E,major,D# F# A C#,D# Half diminished 7,vii°7
+D,minor,F A C Eb,F Major minor 7th,III7
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,Bb D F,Bb Major,VI
+D,minor,C E G,C Major,VII
+G,major,G B D,G Major,I
+G,major,CEG,C Major,IV
+G,major,C E G Bb,C Major minor 7th,IV7
+G,major,C E G Bb,C Major minor 7th,IV7
+G,major,F# A C,F# Dim,vii°
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,Bb D F,Bb Major,V
+Eb,major,C Eb G#,C Minor Augmented,vi#5
+C,major,DFA,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,C E G Bb,C Major minor 7th,I7
+C,major,A C Eb G,A Half diminished 7,vib57
+F#,minor,G# B D##,G# Minor Augmented,ii°#5
+F#,minor,A#C#E#,A# Minor,III
+F#,minor,BFF#,B Sus #4,iv
+F#,minor,C# E# G#,C# Major,v
+F#,minor,D# F# A#,D# Minor,VI
+F#,minor,B D# F# A#,B Major major 7th,iv7
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,B D# F# Ab,B Major Dimimished 7,V/V7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb D,G Minor,ii°#5
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C E G,C Major,V
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+E,major,G# B D##,G# Minor Augmented,iii#5
+E,major,F# A# C# E#,F# Major major 7th,V/V7
+E,major,B D# F#,B Major,V
+E,major,B D# F# A,B Major minor 7th,V7
+E,minor,E A B,E Sus 4,i
+E,minor,F# A# C#,F# Major,V/V
+E,minor,B D# F# A#,B Major major 7th,V7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,G# B D,G# Dim,vii°
+F#,minor,F# A# C#,F# Major,i
+F#,minor,G# C D#,G# Major,ii°
+F#,minor,E# G# B D#,E# Half diminished 7,VII7
+F#,minor,B D# F#,B Major,iv
+F#,minor,G# B D# F##,G# Minor major 7th,ii°7
+F#,minor,F# A# C# E,F# Major minor 7th,i7
+B,major,B D# F##,B Aug,I#5
+B,major,A# C# E G,A# Diminished 7,vii°7
+B,major,B D# F# A#,B Major major 7th,I7
+B,major,G# B D#,G# Minor,vi
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,AbCEb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,Ab C Eb G,Ab Major major 7th,III7
+F,minor,Db F Ab,Db Major,VI
+D,major,D F# A C#,D Major major 7th,I7
+D,major,E G B,E Minor,ii
+D,major,F#AC##,F# Minor Augmented,iii#5
+D,major,G B D,G Major,IV
+D,major,B D F#,B Minor,vi
+D,major,C#EG,C# Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,A C E G,A Minor 7th,i7
+A,minor,C E G,C Major,III
+A,minor,G B D F,G Major minor 7th,VII7
+A,minor,E G B,E Minor,v
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,G# B D,G# Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,CEG,C Major,III
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+A,minor,F A C,F Major,VI
+F,major,GBbD,G Minor,ii
+F,major,A C E,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,C E G B,C Major major 7th,V7
+F,major,EGBb,E Dim,vii°
+Eb,major,F Ab C,F Minor,ii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,Bb D F,Bb Major,V
+Eb,major,Bb D F Abb,Bb Major Dimimished 7,V7
+Eb,major,F Ab C E,F Minor major 7th,ii7
+F#,major,F# A# C#,F# Major,I
+F#,major,G# B D#,G# Minor,ii
+F#,major,G# B# D# F#,G# Major minor 7th,V/V7
+F#,major,D# F# A#,D# Minor,vi
+F#,major,E# G# B,E# Dim,vii°
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C E,A Minor,iv
+E,minor,BD#F#,B Major,V
+E,minor,D F# A C,D Major minor 7th,VII7
+Cb,major,CbEbGb,Cb Major,I
+Cb,major,GbBbDbFb,Gb Major minor 7th,V7
+Cb,major,Ab Cb Eb G,Ab Minor major 7th,vi7
+A,minor,A C E,A Minor,i
+A,minor,G B D F,G Major minor 7th,VII7
+A,minor,A C E G#,A Minor major 7th,i7
+A,minor,E G B,E Minor,v
+A,minor,D F A C#,D Minor major 7th,iv7
+E,major,D# F# A C#,D# Half diminished 7,vii°7
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,C# E G# B,C# Minor 7th,vi7
+E,major,C# E G#,C# Minor,vi
+E,major,A C# E G#,A Major major 7th,IV7
+C,minor,C Eb G,C Minor,i
+C,minor,D F# A,D Major,V/V
+C,minor,Eb G Bb,Eb Major,III
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,G Bb Db,G Dim,vii°
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,F A C Ebb,F Major Dimimished 7,VII7
+G,minor,EbGBbD,Eb Major major 7th,VI7
+G,minor,A C Eb G,A Half diminished 7,ii°7
+G,minor,D F# A Cb,D Major Dimimished 7,V7
+G,minor,F A C Eb,F Major minor 7th,VII7
+F#,major,F# A# C#,F# Major,I
+F#,major,A# C# E#,A# Minor,iii
+F#,major,C# E# G# B#,C# Major major 7th,V7
+F#,major,D# F# A#,D# Minor,vi
+E,minor,F#AC,F# Dim,ii°
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,C E G,C Major,VI
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,F# A C#,F# Minor,ii
+E,major,BD#F#A#,B Major major 7th,V7
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,B D# F# A,B Major minor 7th,V7
+E,minor,E G B,E Minor,i
+E,minor,G B D,G Major,III
+E,minor,EGBD#,E Minor major 7th,i7
+E,minor,B D# F#,B Major,V
+E,minor,C E G,C Major,VI
+C,major,C E G,C Major,I
+C,major,D F A,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,G B D F#,G Major major 7th,V7
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,A C E,A Minor,iv
+E,minor,E G B D,E Minor 7th,i7
+E,minor,B D# F# Ab,B Major Dimimished 7,V7
+E,minor,E G B D#,E Minor major 7th,i7
+E,major,E G# B,E Major,I
+E,major,B D# F# A#,B Major major 7th,V7
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F#,B Major,V
+C,minor,F Ab C,F Minor,iv
+D,major,E F B,E Sus b2,ii
+D,major,F# A C#,F# Minor,iii
+D,major,F# A C E,F# Half diminished 7,iiib57
+D,major,E G B D#,E Minor major 7th,ii7
+D,major,AC#EG,A Major minor 7th,V7
+D,major,C# E G,C# Dim,vii°
+F#,minor,F# A# C#,F# Major,i
+F#,minor,G# B# D##,G# Aug,V/V
+F#,minor,A# C# E#,A# Minor,III
+F#,minor,B D# F#,B Major,iv
+F#,minor,D# F# A#,D# Minor,VI
+F#,minor,G# B D# F#,G# Minor 7th,ii°7
+Eb,major,C Eb G B,C Minor major 7th,vi7
+Eb,major,F Ab C,F Minor,ii
+Eb,major,C Eb G Bb,C Minor 7th,vi7
+Eb,major,Bb D F,Bb Major,V
+A,minor,A C E#,A Minor Augmented,i#5
+A,minor,C E G,C Major,III
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+F,major,F A C,F Major,I
+F,major,A C E G#,A Minor major 7th,iii7
+F,major,A C E,A Minor,iii
+F,major,E G Bb D,E Half diminished 7,vii°7
+F,major,G Bb D F#,G Minor major 7th,ii7
+F,major,E G Bb,E Dim,vii°
+G,minor,A C Eb,A Dim,ii°
+G,minor,BbDF,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,D F# A,D Major,V
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,Eb G Bb Db,Eb Major minor 7th,VI7
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,Ab Cb Eb,Ab Minor,ii
+Gb,major,F Ab Cb Ebb,F Diminished 7,vii°7
+Gb,major,Cb Eb Gb,Cb Major,IV
+Gb,major,Db F Ab,Db Major,V
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Gb,major,FAbCb,F Dim,vii°
+D,minor,E G Bb Db,E Diminished 7,ii°7
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,EG#BDb,E Major Dimimished 7,V/V7
+D,minor,AC#E,A Major,V
+D,minor,Bb D F,Bb Major,VI
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,F# A C,F# Dim,iii
+D,major,G B D,G Major,IV
+D,major,A C# E,A Major,V
+D,major,D F# A C#,D Major major 7th,I7
+D,major,A C# E Gb,A Major Dimimished 7,V7
+Gb,minor,Bb Db F,Bb Minor,III
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,DbFAb,Db Major,v
+Gb,minor,EbGbBb,Eb Minor,VI
+Gb,minor,F Ab Cb,F Dim,VII
+Db,major,Db F Ab C,Db Major major 7th,I7
+Db,major,Gb Bb Db Fb,Gb Major minor 7th,IV7
+Db,major,Gb Bb D,Gb Aug,IV#5
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+A,minor,A C E,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+D,major,F# A C# E,F# Minor 7th,iii7
+E,minor,E G B,E Minor,i
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,A C E G#,A Minor major 7th,iv7
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,C E G B,C Major major 7th,VI7
+C,major,C E G,C Major,I
+C,major,G B D F#,G Major major 7th,V7
+C,major,E G B,E Minor,iii
+C,major,C E G Bb,C Major minor 7th,I7
+C,major,G B D,G Major,V
+C,major,B D F Ab,B Diminished 7,vii°7
+B,minor,BDF#,B Minor,i
+B,minor,E G B D#,E Minor major 7th,iv7
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C#,F# Major,V
+B,minor,G B D,G Major,VI
+Bb,major,FACE,F Major major 7th,V7
+Bb,major,F A C Ebb,F Major Dimimished 7,V7
+Bb,major,G Bb D F,G Minor 7th,vi7
+Bb,major,Eb G Bb D,Eb Major major 7th,IV7
+Bb,major,C Eb G B,C Minor major 7th,ii7
+Bb,major,A C Eb,A Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,C E G Bb,C Major minor 7th,III7
+A,minor,A C E G#,A Minor major 7th,i7
+A,minor,B D F Ab,B Diminished 7,ii°7
+A,minor,A C E G,A Minor 7th,i7
+A,major,A C E,A Minor,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,G#BD,G# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,D F# A C,D Major minor 7th,VII7
+E,minor,E G B D,E Minor 7th,i7
+E,minor,C E G,C Major,VI
+B,major,B D# F#,B Major,I
+B,major,E G# B D#,E Major major 7th,IV7
+B,major,EG#B,E Major,IV
+B,major,B D# F# A,B Major minor 7th,I7
+B,major,A# C# E,A# Dim,vii°
+G,minor,F A C Eb,F Major minor 7th,VII7
+G,minor,D F# A C#,D Major major 7th,V7
+G,minor,Bb D F,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,F A C E,F Major major 7th,VII7
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,D F A C,D Minor 7th,v7
+C#,major,C# E# G#,C# Major,I
+C#,major,D# F# A#,D# Minor,ii
+C#,major,E# G# B#,E# Minor,iii
+C#,major,F# A# C#,F# Major,IV
+C#,major,G# B# D#,G# Major,V
+C#,major,A# C# E#,A# Minor,vi
+C#,major,B# D# F#,B# Dim,vii°
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,F# A# C# Eb,F# Major Dimimished 7,V7
+B,minor,A C# E Gb,A Major Dimimished 7,VII7
+B,minor,G B D,G Major,VI
+B,minor,AC#E,A Major,VII
+E,major,D# F# A C#,D# Half diminished 7,vii°7
+E,major,BD#F#A,B Major minor 7th,V7
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,B D F# A,B Minor 7th,v7
+E,minor,B D F#,B Minor,v
+E,minor,C E G#,C Aug,VI#5
+E,minor,D F# A,D Major,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,C# E G#,C# Minor,vi
+E,major,B D# F# A,B Major minor 7th,V7
+A,minor,C E G,C Major,III
+A,minor,C E G B,C Major major 7th,III7
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,C# E G Bb,C# Diminished 7,vii°7
+D,major,A C# E,A Major,V
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,Ab C D# F,Ab Major Dimimished 7,VI#57
+C,minor,Eb G Bb C#,Eb Major minor 7th,III7
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,F A C Eb,F Major minor 7th,VI7
+A,minor,C E G,C Major,III
+A,minor,E G# B,E Major,V
+A,minor,D F A C#,D Minor major 7th,iv7
+E,major,G# B D# F##,G# Minor major 7th,iii7
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,A C# E,A Major,IV
+E,major,C# E G#,C# Minor,vi
+Bb,major,Bb D F,Bb Major,I
+Bb,major,C Eb G,C Minor,ii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,F A C,F Major,V
+Bb,major,G Bb D,G Minor,vi
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,F Ab C,F Minor,vi
+Ab,major,Db F Ab C,Db Major major 7th,IV7
+Gb,minor,Gb Bb Db,Gb Major,i
+Gb,minor,Ab Cb Eb,Ab Minor,ii°
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,F Ab Cb,F Dim,VII
+C#,major,C# E# G#,C# Major,I
+C#,major,D# F# A#,D# Minor,ii
+C#,major,F# A# C#,F# Major,IV
+C#,major,D#F#A#C##,D# Minor major 7th,ii7
+C#,major,B# D# F# A#,B# Half diminished 7,vii°7
+C#,major,C# E# G# B,C# Major minor 7th,I7
+F#,minor,F# A# C#,F# Major,i
+F#,minor,G# B D#,G# Minor,ii°
+F#,minor,C# E# G# B,C# Major minor 7th,v7
+F#,minor,B D# F#,B Major,iv
+F#,minor,E# G# B,E# Dim,VII
+D,major,E G B,E Minor,ii
+D,major,F# A B,F# Dim b5,iii
+D,major,G B D,G Major,IV
+D,major,A C# E,A Major,V
+D,major,BDF#,B Minor,vi
+D,major,C# E G,C# Dim,vii°
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,A C F,A Minor Augmented,ii°
+G,minor,C Eb G,C Minor,iv
+G,minor,D F# A,D Major,V
+G,minor,F A C Eb,F Major minor 7th,VII7
+C,major,D F A C,D Minor 7th,ii7
+C,major,F A C Eb,F Major minor 7th,IV7
+C,major,G B D#,G Aug,V#5
+C,major,A C E G#,A Minor major 7th,vi7
+C,major,B D F,B Dim,vii°
+B,minor,B D F#,B Minor,i
+B,minor,F# A# C# E,F# Major minor 7th,V7
+B,minor,A C# E G#,A Major major 7th,VII7
+B,minor,F#A#C#,F# Major,V
+B,minor,F# A# C# E#,F# Major major 7th,V7
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,D F# A,D Major,IV
+A,major,C# E G# B#,C# Minor major 7th,iii7
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F A,Bb Minor major 7th,ii7
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G B,Eb Aug,V#5
+Ab,major,F Ab C,F Minor,vi
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,F Ab C,F Minor,vi
+E,minor,EGB,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,BD#F#,B Major,V
+E,minor,B D F# A#,B Minor major 7th,v7
+E,minor,D G A,D Sus 4,VII
+Eb,major,Eb G Bb Db,Eb Major minor 7th,I7
+Eb,major,Eb G Bb Db,Eb Major minor 7th,I7
+Eb,major,C Eb G Bb,C Minor 7th,vi7
+Eb,major,G Bb D F,G Minor 7th,iii7
+Eb,major,Bb D F,Bb Major,V
+Eb,major,Ab C Eb Gb,Ab Major minor 7th,IV7
+Bb,major,F A C Eb,F Major minor 7th,V7
+Bb,major,C Eb G,C Minor,ii
+Bb,major,Eb G Bb D,Eb Major major 7th,IV7
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,A C Eb,A Dim,vii°
+Gb,major,Ab Cb Eb G,Ab Minor major 7th,ii7
+Gb,major,Eb Gb Bb Db,Eb Minor 7th,vi7
+Gb,major,Eb Gb Bb Db,Eb Minor 7th,vi7
+Gb,major,Ab Cb Eb Gb,Ab Minor 7th,ii7
+Gb,minor,Gb Bb Db,Gb Major,i
+Gb,minor,Ab Cb Eb,Ab Minor,ii°
+Gb,minor,Bb Db F,Bb Minor,III
+Gb,minor,F Ab Cb Ebb,F Diminished 7,VII7
+Gb,minor,Gb Bb Db Fb,Gb Major minor 7th,i7
+Gb,minor,Bb Db F A,Bb Minor major 7th,III7
+E,major,E G# B,E Major,I
+E,major,G# B D# F#,G# Minor 7th,iii7
+E,major,A C# E,A Major,IV
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,minor,EGB,E Minor,i
+E,minor,B D# F# Ab,B Major Dimimished 7,V7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,B D# F#,B Major,V
+E,minor,D F# A,D Major,VII
+C,major,E G B D#,E Minor major 7th,iii7
+C,major,F# A C,F# Dim,vii°/V
+C,major,BDFA,B Half diminished 7,vii°7
+C,major,E G B D#,E Minor major 7th,iii7
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,C Eb G B,C Minor major 7th,iii7
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,F Ab C,F Minor,vi
+Ab,major,G Bb Db,G Dim,vii°
+E,major,E G# B,E Major,I
+E,major,F# A C# E,F# Minor 7th,ii7
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F# A#,B Major major 7th,V7
+E,major,B D# F# A#,B Major major 7th,V7
+E,major,C#EG#,C# Minor,vi
+Eb,major,Eb G Bb Db,Eb Major minor 7th,I7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,BbDF,Bb Major,V
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,Eb G Bb Db,Eb Major minor 7th,V7
+Ab,major,G Bb Db,G Dim,vii°
+B,minor,C# E G B,C# Half diminished 7,ii°7
+B,minor,D F# A C,D Major minor 7th,III7
+B,minor,G B D,G Major,VI
+E,major,E G# B D,E Major minor 7th,I7
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,B D# F# A#,B Major major 7th,V7
+F,minor,G Bb C,G Dim b5,ii°
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C E G,C Major,V
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+Db,major,Db F Ab,Db Major,I
+Db,major,Eb Gb Bbb,Eb Dim,iib5
+Db,major,Gb Bb Db,Gb Major,IV
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,C Eb Gb,C Dim,vii°
+C#,minor,C# E# G#,C# Major,i
+C#,minor,D#F#A#,D# Minor,ii°
+C#,minor,E# G# B#,E# Minor,III
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,C# E# G# B,C# Major minor 7th,i7
+C#,minor,B# D# F# A,B# Diminished 7,VII7
+Db,major,Db F Ab,Db Major,I
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Gb Bb Db Fb,Gb Major minor 7th,IV7
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,F A C E,F Major major 7th,VI7
+A,minor,F A C#,F Aug,VI#5
+E,major,E G# B,E Major,I
+E,major,E G# B D,E Major minor 7th,I7
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+B,minor,BDF#,B Minor,i
+B,minor,C# E# G#,C# Major,V/V
+B,minor,DF#A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C#,F# Major,V
+B,minor,G B D,G Major,VI
+C#,major,C#E#G#,C# Major,I
+C#,major,D F# A,D Major,bII
+C#,major,F# A# C# E,F# Major minor 7th,IV7
+C#,major,F# A# C#,F# Major,IV
+C#,major,G# B# D# F##,G# Major major 7th,V7
+C#,major,B#D#F#,B# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D#,G Aug,III#5
+E,minor,CEGBb,C Major minor 7th,VI7
+E,minor,E G B D#,E Minor major 7th,i7
+E,minor,C E G,C Major,VI
+E,minor,B D F# A#,B Minor major 7th,v7
+Db,major,Db F Ab,Db Major,I
+Db,major,FAbCE,F Minor major 7th,iii7
+Db,major,F Ab C,F Minor,iii
+Db,major,Gb Bb Db,Gb Major,IV
+Db,major,Ab C Eb,Ab Major,V
+Db,major,C Eb Gb,C Dim,vii°
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,AC#EG,A Major minor 7th,VII7
+B,minor,F# A C#,F# Minor,v
+B,minor,E G B D,E Minor 7th,iv7
+E,major,E G# B,E Major,I
+E,major,E G# B D,E Major minor 7th,I7
+E,major,A C E,A Minor,IV
+E,major,C# E G# B,C# Minor 7th,vi7
+E,major,BD#F#A,B Major minor 7th,V7
+E,major,A C# E G#,A Major major 7th,IV7
+D,minor,A C# E Gb,A Major Dimimished 7,V7
+D,minor,C E G Bbb,C Major Dimimished 7,VII7
+D,minor,E G# B D,E Major minor 7th,V/V7
+D,minor,A C E G,A Minor 7th,v7
+D,minor,Bb D F,Bb Major,VI
+D,minor,C E G B,C Major major 7th,VII7
+Cb,major,Bb Db Fb Ab,Bb Half diminished 7,vii°7
+Cb,major,CbEbGbBbb,Cb Major minor 7th,I7
+Cb,major,FbAbCbEb,Fb Major major 7th,IV7
+C,minor,EbGBb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,Eb G Bb C#,Eb Major minor 7th,III7
+Db,major,Gb Bb Db Fb,Gb Major minor 7th,IV7
+Db,major,Db F Ab C,Db Major major 7th,I7
+Db,major,F Ab C Eb,F Minor 7th,iii7
+Db,major,Gb Bb Db F,Gb Major major 7th,IV7
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,C Eb Gb,C Dim,vii°
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,E G B,E Minor,v
+A,minor,F A C,F Major,VI
+A,major,A C# E,A Major,I
+A,major,B D F,B Dim,iib5
+A,major,C# E G#,C# Minor,iii
+A,major,F# A C# E,F# Minor 7th,vi7
+A,major,G# B D,G# Dim,vii°
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,G Bb C,G Dim b5,v
+E,major,E F B,E Sus b2,I
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+E,major,D# F# A#,D# Minor,vii°#5
+Cb,minor,CbEbGb,Cb Major,i
+Cb,minor,Db F A,Db Aug,V/V
+Cb,minor,Fb Ab Cb,Fb Major,iv
+Cb,minor,Gb Bb Db,Gb Major,v
+Cb,minor,Ab Cb Eb,Ab Minor,VI
+Cb,minor,Bb Db Fb,Bb Dim,VII
+E,major,EG#BD,E Major minor 7th,I7
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,C# E G#,C# Minor,vi
+E,major,C# E G# B#,C# Minor major 7th,vi7
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,A C E G#,A Minor major 7th,iv7
+E,minor,C E G Bb,C Major minor 7th,VI7
+E,minor,D F# A,D Major,VII
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,F# A C,F# Dim,vib5
+A,major,G# B D,G# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,BDF#A,B Minor 7th,v7
+E,minor,A C E G#,A Minor major 7th,iv7
+C,major,D F A,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,C E G B,C Major major 7th,I7
+F,minor,F Ab C,F Minor,i
+F,minor,GBbDb,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C E G,C Major,V
+F,minor,DbFA,Db Aug,VI#5
+F,minor,Eb G Bb,Eb Major,VII
+C,major,E G B,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,B D F,B Dim,vii°
+F,minor,F Ab C E,F Minor major 7th,i7
+F,minor,Eb G Bb D,Eb Major major 7th,VII7
+F,minor,Bb Db F#,Bb Minor Augmented,iv#5
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F#,major,F# A# C#,F# Major,I
+F#,major,C# E# G# Bb,C# Major Dimimished 7,V7
+F#,major,A# C# E#,A# Minor,iii
+F#,major,B C F#,B Sus b2,IV
+F#,major,C# E# G#,C# Major,V
+F#,major,D# F# A#,D# Minor,vi
+F#,major,D# F# A# C#,D# Minor 7th,vi7
+D,minor,DFA,D Minor,i
+D,minor,F A C,F Major,III
+D,minor,C E G Bb,C Major minor 7th,VII7
+D,minor,D F A C#,D Minor major 7th,i7
+D,minor,CEG,C Major,VII
+A,major,A C# E,A Major,I
+A,major,E G# B Db,E Major Dimimished 7,V7
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A C#,D Major major 7th,IV7
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Db F Ab C,Db Major major 7th,v7
+B,major,C# E G# B,C# Minor 7th,ii7
+B,major,D# F# A#,D# Minor,iii
+B,major,D# F# A# C#,D# Minor 7th,iii7
+B,major,F# A# C#,F# Major,V
+B,major,F#A#C#E,F# Major minor 7th,V7
+B,major,F# A# C# E,F# Major minor 7th,V7
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,C# E# G# B,C# Major minor 7th,V/V7
+B,minor,F# A C#,F# Minor,v
+B,minor,G B D,G Major,VI
+B,minor,C# E# G# Bb,C# Major Dimimished 7,V/V7
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,B D F# A#,B Minor major 7th,vi7
+D,major,G B D,G Major,IV
+D,major,B D F# A#,B Minor major 7th,vi7
+D,major,C# E Gb,C# Dim b5,vii°b5
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,BbDF,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,FACEb,F Major minor 7th,VII7
+G,minor,F A C,F Major,VII
+C#,major,E# G# B#,E# Minor,iii
+C#,major,G# B# D#,G# Major,V
+C#,major,A# C# E#,A# Minor,vi
+C#,major,B# D# F#,B# Dim,vii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,C E G Bbb,C Major Dimimished 7,V7
+F,minor,C Eb G,C Minor,v
+F,minor,C E G Bbb,C Major Dimimished 7,V7
+C#,major,C# E# G#,C# Major,I
+C#,major,D# F# A#,D# Minor,ii
+C#,major,G# B# D# F,G# Major Dimimished 7,V7
+C#,major,C# E# G# B,C# Major minor 7th,I7
+C#,major,A# C# E#,A# Minor,vi
+C#,major,B# D# F#,B# Dim,vii°
+E,minor,F# A C,F# Dim,ii°
+E,minor,GBD,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,B D# F#,B Major,V
+E,minor,F# A C E,F# Half diminished 7,ii°7
+D,major,C# E G Bb,C# Diminished 7,vii°7
+D,major,E G B,E Minor,ii
+D,major,C# E G B,C# Half diminished 7,vii°7
+D,major,A C# E Gb,A Major Dimimished 7,V7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G B,C Major major 7th,III7
+A,minor,B D F Ab,B Diminished 7,ii°7
+A,minor,G B D F,G Major minor 7th,VII7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,G# B D,G# Dim,vii°
+C#,minor,C# E# G#,C# Major,i
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,A# C# E# G##,A# Minor major 7th,VI7
+C#,minor,B# D# F#,B# Dim,VII
+C,major,C E G,C Major,I
+C,major,F A C Eb,F Major minor 7th,IV7
+C,major,E G B,E Minor,iii
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,F A C Eb,F Major minor 7th,IV7
+E,minor,E G B,E Minor,i
+E,minor,G B D,G Major,III
+E,minor,C E G Bb,C Major minor 7th,VI7
+E,minor,B D F#,B Minor,v
+E,minor,C E G Bb,C Major minor 7th,VI7
+E,minor,D F# A,D Major,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,AC#E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,A C# E G,A Major minor 7th,IV7
+B,minor,B D F A,B Half diminished 7,ib57
+B,minor,A C# E Gb,A Major Dimimished 7,VII7
+B,minor,A C# E G#,A Major major 7th,VII7
+B,minor,A C# E G,A Major minor 7th,VII7
+D,major,D F# A,D Major,I
+D,major,C# E G B,C# Half diminished 7,vii°7
+D,major,F# A C# E,F# Minor 7th,iii7
+D,major,G B D F#,G Major major 7th,IV7
+D,major,B D F#,B Minor,vi
+E,minor,E G B,E Minor,i
+E,minor,F# A# C#,F# Major,V/V
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,D F# A,D Major,VII
+G,major,ACE,A Minor,ii
+G,major,B D F#,B Minor,iii
+G,major,BDF#A#,B Minor major 7th,iii7
+G,major,E G B,E Minor,vi
+D,minor,D F A,D Minor,i
+D,minor,E G Bbb,E Dim b5,ii°b5
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,C E G,C Major,VII
+C,major,D F A C#,D Minor major 7th,ii7
+C,major,F A C,F Major,IV
+C,major,ACE,A Minor,vi
+C,major,B D F,B Dim,vii°
+F,minor,F Ab C,F Minor,i
+F,minor,Eb G Bb D,Eb Major major 7th,VII7
+F,minor,G Bb Db Fb,G Diminished 7,ii°7
+F,minor,C E G,C Major,V
+F,minor,C E G Bb,C Major minor 7th,V7
+D,major,B D F# A#,B Minor major 7th,vi7
+D,major,E G B,E Minor,ii
+D,major,G# B D,G# Dim,vii°/V
+D,major,A C# E,A Major,V
+C#,minor,C# E# G#,C# Major,i
+C#,minor,D# F# A#,D# Minor,ii°
+C#,minor,E# G# B#,E# Minor,III
+C#,minor,C# E# G# B,C# Major minor 7th,i7
+C#,minor,A# C# E#,A# Minor,VI
+C#,minor,D# F# A# C##,D# Minor major 7th,ii°7
+E,major,E G# B,E Major,I
+E,major,A C# E G,A Major minor 7th,IV7
+E,major,A C# E,A Major,IV
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,C# E G#,C# Minor,vi
+E,minor,E G B D,E Minor 7th,i7
+E,minor,A C E,A Minor,iv
+E,minor,E G B D#,E Minor major 7th,i7
+E,minor,C E G,C Major,VI
+E,minor,E G B D#,E Minor major 7th,i7
+C#,major,C# E# G# B#,C# Major major 7th,I7
+C#,major,E# G# B#,E# Minor,iii
+C#,major,F# A# C#,F# Major,IV
+C#,major,G# B# D#,G# Major,V
+C#,major,B# D# F#,B# Dim,vii°
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,Bb D F,Bb Major,III
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,D F# A C,D Major minor 7th,V7
+E,major,D# F# A C#,D# Half diminished 7,vii°7
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,A C# E,A Major,IV
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,C# E G# B,C# Minor 7th,vi7
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+Gb,major,GbBbDb,Gb Major,I
+Gb,major,AbCbEb,Ab Minor,ii
+Gb,major,Db F Ab,Db Major,V
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Gb,major,F Ab Cb Eb,F Half diminished 7,vii°7
+Bb,major,Bb D F,Bb Major,I
+Bb,major,C Eb G,C Minor,ii
+Bb,major,F A C,F Major,V
+Bb,major,G Bb D,G Minor,vi
+F,major,F A C,F Major,I
+F,major,Bb D F,Bb Major,IV
+F,major,C E G B,C Major major 7th,V7
+F,major,C E G B,C Major major 7th,V7
+F,major,F A C Eb,F Major minor 7th,I7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,B D F Ab,B Diminished 7,ii°7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,G B D,G Major,VII
+F#,major,D# F# A# C##,D# Minor major 7th,vi7
+F#,major,G# B D#,G# Minor,ii
+F#,major,A# C# E#,A# Minor,iii
+F#,major,BD#F#,B Major,IV
+F#,major,C# E# G#,C# Major,V
+C,minor,G Bb C,G Dim b5,v
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,B D F#,B Minor,ii
+A,major,D F# A,D Major,IV
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,F# A C# E,F# Minor 7th,vi7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,E G# B D#,E Major major 7th,V7
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+D,major,D F# A,D Major,I
+D,major,E G# B,E Major,V/V
+D,major,F# A C#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,B D F# A,B Minor 7th,vi7
+D,major,F# A C# E,F# Minor 7th,iii7
+D,major,F# A C# E,F# Minor 7th,iii7
+B,minor,C# E G,C# Dim,ii°
+B,minor,DF#A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,A C# E G,A Major minor 7th,VII7
+C,major,C E G,C Major,I
+C,major,E G B,E Minor,iii
+C,major,B D F,B Dim,vii°
+B,minor,A C# E G#,A Major major 7th,VII7
+B,minor,C# E# G# Bb,C# Major Dimimished 7,V/V7
+B,minor,D F# A,D Major,III
+B,minor,E G A,E Dim b5,iv
+B,minor,F# A C# E,F# Minor 7th,v7
+B,minor,G B D#,G Aug,VI#5
+B,minor,D F# A C,D Major minor 7th,III7
+E,major,E G# C,E Aug,I
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+G,minor,G Bb D,G Minor,i
+G,minor,F A C E,F Major major 7th,VII7
+G,minor,Bb D F,Bb Major,III
+G,minor,A C Eb Gb,A Diminished 7,ii°7
+G,minor,D F A,D Minor,v
+F#,major,F# A# C#,F# Major,I
+F#,major,A#C#E#,A# Minor,iii
+F#,major,A# C# E# G##,A# Minor major 7th,iii7
+F#,major,C# E# G#,C# Major,V
+F#,major,BD#F#A,B Major minor 7th,IV7
+F#,major,A# C# E# G#,A# Minor 7th,iii7
+Cb,minor,Cb Eb Gb,Cb Major,i
+Cb,minor,Db Fb Ab,Db Minor,ii°
+Cb,minor,Cb Eb Gb Bb,Cb Major major 7th,i7
+Cb,minor,FbAbCb,Fb Major,iv
+Cb,minor,Ab Cb Eb,Ab Minor,VI
+Cb,minor,Bb Db Fb,Bb Dim,VII
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,EG#BD,E Major minor 7th,V7
+F#,minor,F# A# C#,F# Major,i
+F#,minor,G# B# D##,G# Aug,V/V
+F#,minor,A#C#E#,A# Minor,III
+F#,minor,B D# F#,B Major,iv
+F#,minor,D# F# A#,D# Minor,VI
+F#,minor,E#G#Bb,E# Dim b5,VIIb5
+A,major,A C# E,A Major,I
+A,major,B D E,B Dim b5,iib5
+A,major,C#EG#,C# Minor,iii
+A,major,C#EG#B,C# Minor 7th,iii7
+A,major,C# E G# B,C# Minor 7th,iii7
+Gb,minor,Gb Bb Db,Gb Major,i
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Eb Gb Bb,Eb Minor,VI
+Gb,minor,FAbCb,F Dim,VII
+E,major,E G# B D#,E Major major 7th,I7
+E,major,G# B D#,G# Minor,iii
+E,major,A#C#E,A# Dim,vii°/V
+E,major,B D# F#,B Major,V
+E,major,C#EG#,C# Minor,vi
+G,minor,G Bb Db,G Dim,ib5
+G,minor,A C Eb,A Dim,ii°
+G,minor,F A C Eb,F Major minor 7th,VII7
+G,minor,GBbDbF,G Half diminished 7,ib57
+G,minor,F A C E,F Major major 7th,VII7
+F#,major,F# A# C#,F# Major,I
+F#,major,G B D,G Major,bII
+F#,major,A# C# E#,A# Minor,iii
+F#,major,B D# F#,B Major,IV
+F#,major,C# E# G#,C# Major,V
+F#,major,D# F# A#,D# Minor,vi
+A,minor,G B D F,G Major minor 7th,VII7
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,E G B,E Minor,v
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# C C#,F# Sus #4,vi
+A,major,G# B D,G# Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,B D F A,B Half diminished 7,ii°7
+A,minor,E G# B#,E Aug,V
+A,minor,G B D F#,G Major major 7th,VII7
+A,major,C# E G#,C# Minor,iii
+A,major,E G# B#,E Aug,V#5
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,G# B D,G# Dim,vii°
+G,minor,A C Eb G,A Half diminished 7,ii°7
+G,minor,C Eb G Bb,C Minor 7th,iv7
+G,minor,Bb D F,Bb Major,III
+G,minor,A C Eb Gb,A Diminished 7,ii°7
+G,minor,D F A,D Minor,v
+G,minor,F A C,F Major,VII
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,G Bb Db F,G Half diminished 7,vii°7
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,EbGBbDb,Eb Major minor 7th,V7
+G,minor,A C Eb,A Dim,ii°
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,BbDFA,Bb Major major 7th,III7
+G,minor,D F A,D Minor,v
+G,minor,Bb D F Ab,Bb Major minor 7th,III7
+B,major,B D# F#,B Major,I
+B,major,C# E# G#,C# Major,V/V
+B,major,A# C# E# G#,A# Minor 7th,vii°#57
+B,major,E G# B,E Major,IV
+B,major,A# C# E G#,A# Half diminished 7,vii°7
+B,major,C# E# G# Bb,C# Major Dimimished 7,V/V7
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,F Ab C,F Minor,ii
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Bb D F Ab,Bb Major minor 7th,V7
+Eb,major,BbDF,Bb Major,V
+Eb,major,F A C Eb,F Major minor 7th,V/V7
+Db,major,Db F Ab,Db Major,I
+Db,major,Ebb Gb Bb,Ebb Aug,bII
+Db,major,F Ab C,F Minor,iii
+Db,major,Gb Bb Db,Gb Major,IV
+Db,major,Ab C Eb,Ab Major,V
+Db,major,C Eb Gb,C Dim,vii°
+B,minor,B D F# A,B Minor 7th,i7
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,G B D,G Major,VI
+D,major,D F# A,D Major,I
+D,major,A C# E G,A Major minor 7th,V7
+D,major,C# E G Bb,C# Diminished 7,vii°7
+D,major,C# E G Bb,C# Diminished 7,vii°7
+D,major,A C# E,A Major,V
+D,major,G B D F#,G Major major 7th,IV7
+D,major,C# E G,C# Dim,vii°
+F,minor,G B D,G Major,V/V
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+A,major,EG#BDb,E Major Dimimished 7,V7
+A,major,G# B D F,G# Diminished 7,vii°7
+A,major,G# B D# F##,G# Minor major 7th,vii°#57
+A,major,F# A C#,F# Minor,vi
+A,minor,A C E,A Minor,i
+A,minor,C E G#,C Aug,III#5
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+F,major,F A C,F Major,I
+F,major,G B D,G Major,V/V
+F,major,C E G B,C Major major 7th,V7
+F,major,E G Bb Db,E Diminished 7,vii°7
+F,major,D F A,D Minor,vi
+F,major,E G Bb D,E Half diminished 7,vii°7
+D,minor,G Bb D F#,G Minor major 7th,iv7
+D,minor,FAC,F Major,III
+D,minor,D F A C#,D Minor major 7th,i7
+D,minor,EGBD#,E Minor major 7th,ii°#57
+D,minor,C E G,C Major,VII
+Ab,major,Ab C Eb G,Ab Major major 7th,I7
+Ab,major,Bb Db F A,Bb Minor major 7th,ii7
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,F Ab C,F Minor,vi
+Ab,major,GBbDb,G Dim,vii°
+Gb,minor,Gb Bb D,Gb Aug,i#5
+Gb,minor,Db F Ab C,Db Major major 7th,v7
+Gb,minor,Db F# Ab,Db Sus 4,V
+Gb,minor,Eb Gb Bb,Eb Minor,VI
+Gb,minor,Eb Gb Bb Db,Eb Minor 7th,VI7
+Cb,major,Fb Ab Cb,Fb Major,IV
+Cb,major,Ab Cb Eb,Ab Minor,vi
+D,minor,E G Bb Db,E Diminished 7,ii°7
+D,minor,G Bb D F,G Minor 7th,iv7
+D,minor,A C E G#,A Minor major 7th,v7
+C,major,B D F Ab,B Diminished 7,vii°7
+C,major,G B D F,G Major minor 7th,V7
+C,major,F A C,F Major,IV
+C,major,A C E,A Minor,vi
+C#,minor,A# C# E# G##,A# Minor major 7th,VI7
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,B# D# F#,B# Dim,VII
+F#,major,B D# F# A#,B Major major 7th,IV7
+F#,major,G#B#D#,G# Major,V/V
+F#,major,A# C# E#,A# Minor,iii
+F#,major,G# B D# F#,G# Minor 7th,ii7
+F#,major,B D# F# A#,B Major major 7th,IV7
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,F# A C#,F# Minor,v
+B,minor,G B D,G Major,VI
+B,minor,D F# A C#,D Major major 7th,III7
+E,major,E G# B,E Major,I
+E,major,G# B D# F##,G# Minor major 7th,iii7
+E,major,D#F#AC#,D# Half diminished 7,vii°7
+E,major,AC#E,A Major,IV
+E,major,E G# B D#,E Major major 7th,I7
+E,major,A C# E G#,A Major major 7th,IV7
+E,minor,F# A C,F# Dim,ii°
+E,minor,B D F#,B Minor,v
+E,minor,D F# A,D Major,VII
+Db,major,DbFAb,Db Major,I
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,F Ab C,F Minor,iii
+Db,major,AbCEb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,C Eb Gb,C Dim,vii°
+Gb,minor,Gb Bb Db,Gb Major,i
+Gb,minor,Gb Bb Db F,Gb Major major 7th,i7
+Gb,minor,Cb Eb Gb Bb,Cb Major major 7th,iv7
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Ab Cb Eb G,Ab Minor major 7th,ii°7
+Gb,minor,Ab Cb Eb G,Ab Minor major 7th,ii°7
+Gb,minor,F Ab Cb,F Dim,VII
+C,major,C E G,C Major,I
+C,major,A C E G,A Minor 7th,vi7
+C,major,GBDFb,G Major Dimimished 7,V7
+C,major,GBD,G Major,V
+C,major,E G B D,E Minor 7th,iii7
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,F# A C# E#,F# Minor major 7th,v7
+B,minor,GBD,G Major,VI
+B,minor,AC#EG#,A Major major 7th,VII7
+C#,major,C# E# G#,C# Major,I
+C#,major,D# F# A#,D# Minor,ii
+C#,major,E# G# B#,E# Minor,iii
+C#,major,G# B# D# F##,G# Major major 7th,V7
+C#,major,G# B# D#,G# Major,V
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,A C# E G,A Major minor 7th,VII7
+B,minor,F# A# C#,F# Major,V
+B,minor,G B D,G Major,VI
+B,minor,A C# E G,A Major minor 7th,VII7
+C#,major,C# E# G#,C# Major,I
+C#,major,E# G# B#,E# Minor,iii
+C#,major,G# B# D# F,G# Major Dimimished 7,V7
+C#,major,G# B# D#,G# Major,V
+C#,major,E# G# B# D#,E# Minor 7th,iii7
+C#,major,B# D# F# A,B# Diminished 7,vii°7
+D,minor,E G# B Db,E Major Dimimished 7,V/V7
+D,minor,F A C,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,A C# E,A Major,V
+D,minor,Bb D F,Bb Major,VI
+Bb,major,Bb D F,Bb Major,I
+Bb,major,CEbG,C Minor,ii
+Bb,major,Bb D F A,Bb Major major 7th,I7
+Bb,major,F A C,F Major,V
+Bb,major,G Bb D,G Minor,vi
+C,minor,C Eb G,C Minor,i
+E,major,EG#B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,C# E G# B,C# Minor 7th,vi7
+E,major,C# E G#,C# Minor,vi
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+A,major,B D F# A,B Minor 7th,ii7
+A,major,F# A C# E,F# Minor 7th,vi7
+A,major,D F# A,D Major,IV
+A,major,C# E G# B,C# Minor 7th,iii7
+F,minor,Bb Db F A,Bb Minor major 7th,iv7
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C E G,C Major,V
+F,minor,Eb G Bb Db,Eb Major minor 7th,VII7
+F,minor,FAbCE,F Minor major 7th,i7
+Bb,major,F A C E,F Major major 7th,V7
+Bb,major,DFA,D Minor,iii
+Bb,major,Eb G Bb,Eb Major,IV
+C,minor,D F Ab C,D Half diminished 7,ii°7
+C,minor,C Eb G B,C Minor major 7th,i7
+C,minor,F Ab C,F Minor,iv
+C,major,C E G,C Major,I
+C,major,E G B,E Minor,iii
+C,major,F# A C,F# Dim,vii°/V
+C,major,B D F A,B Half diminished 7,vii°7
+C,major,B D E,B Dim b5,vii°
+F#,minor,B D# F# A,B Major minor 7th,iv7
+F#,minor,D# F# A# C##,D# Minor major 7th,VI7
+F#,minor,A# C# E#,A# Minor,III
+F#,minor,E# G# B D,E# Diminished 7,VII7
+Bb,major,FACEb,F Major minor 7th,V7
+Bb,major,C Eb G,C Minor,ii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,F A C Ebb,F Major Dimimished 7,V7
+Bb,major,A C Eb G,A Half diminished 7,vii°7
+A,minor,A C E,A Minor,i
+A,minor,F A C Eb,F Major minor 7th,VI7
+A,minor,EG#BD,E Major minor 7th,V7
+A,minor,B D F A,B Half diminished 7,ii°7
+C,major,G B D F,G Major minor 7th,V7
+C,major,D F A C,D Minor 7th,ii7
+C,major,E G B#,E Minor Augmented,iii#5
+C,major,D F A C#,D Minor major 7th,ii7
+C,major,B D F,B Dim,vii°
+A,minor,F A C Eb,F Major minor 7th,VI7
+A,minor,D F A,D Minor,iv
+A,minor,EGB,E Minor,v
+A,minor,G B D,G Major,VII
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,E G# B Db,E Major Dimimished 7,V7
+F#,minor,G# B D#,G# Minor,ii°
+F#,minor,A#C#E#,A# Minor,III
+F#,minor,B D# F#,B Major,iv
+F#,minor,E#G#B#,E# Minor,VII#5
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,C# E G# B,C# Minor 7th,vi7
+E,major,B D# F#,B Major,V
+E,major,F# A C# E,F# Minor 7th,ii7
+B,minor,B D F#,B Minor,i
+B,minor,C# E G#,C# Minor,ii°#5
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C#,F# Major,V
+B,minor,A C# E,A Major,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G#BD#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+E,major,AC#EG#,A Major major 7th,IV7
+Ab,major,Db F Ab C,Db Major major 7th,IV7
+Ab,major,CEbGBb,C Minor 7th,iii7
+Ab,major,Db F Ab C,Db Major major 7th,IV7
+Ab,major,Ab C Eb G,Ab Major major 7th,I7
+Ab,major,F Ab C,F Minor,vi
+Ab,major,G Bb Db,G Dim,vii°
+A,major,AC#E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,D F# A,D Major,IV
+A,major,F# A C# E,F# Minor 7th,vi7
+A,major,E G# B D#,E Major major 7th,V7
+Cb,minor,CbEbGb,Cb Major,i
+Cb,minor,Fb Ab Cb Eb,Fb Major major 7th,iv7
+Cb,minor,Fb Ab Cb Ebb,Fb Major minor 7th,iv7
+Cb,minor,Cb Eb Gb Bb,Cb Major major 7th,i7
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,E G# B,E Major,IV
+B,major,D# F# A# C##,D# Minor major 7th,iii7
+E,minor,E G C,E Minor Augmented,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,D F# A,D Major,VII
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,EG#B,E Major,V
+A,major,F#AC#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+B,minor,F# A C# E#,F# Minor major 7th,v7
+B,minor,C# E G,C# Dim,ii°
+B,minor,DF#A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,E G Bb Db,E Diminished 7,ivb57
+B,minor,A C# E,A Major,VII
+E,major,E G# B,E Major,I
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,G# B D# F#,G# Minor 7th,iii7
+E,major,C# E G# B,C# Minor 7th,vi7
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,GBDF,G Major minor 7th,III7
+E,minor,D F# A,D Major,VII
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,B D F#,B Minor,ii
+A,major,C#EG#,C# Minor,iii
+A,major,E G# B,E Major,V
+A,major,B D F# A,B Minor 7th,ii7
+A,major,E G# B Db,E Major Dimimished 7,V7
+C,minor,C Eb G,C Minor,i
+C,minor,C Eb G Bb,C Minor 7th,i7
+C,minor,F Ab C,F Minor,iv
+A,major,G# B D F,G# Diminished 7,vii°7
+A,major,BDE,B Dim b5,ii
+A,major,C# E G#,C# Minor,iii
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,minor,A C E,A Minor,i
+A,minor,B D# F#,B Major,V/V
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,EGB,E Minor,v
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+C,major,C E G,C Major,I
+C,major,D F# A,D Major,V/V
+C,major,E G B,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,A C E,A Minor,vi
+C,major,BDF,B Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,D F A,D Minor,iv
+A,minor,C E G B,C Major major 7th,III7
+A,minor,B D F A,B Half diminished 7,ii°7
+A,minor,C E G Bb,C Major minor 7th,III7
+A,major,C# E G#,C# Minor,iii
+A,major,F# A C# E,F# Minor 7th,vi7
+A,major,A C# E G#,A Major major 7th,I7
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,C# E G# B#,C# Minor major 7th,iii7
+G,minor,GBbD,G Minor,i
+G,minor,Bb D F,Bb Major,III
+G,minor,Bb D F Ab,Bb Major minor 7th,III7
+G,minor,D F# A,D Major,V
+G,minor,D F# A C,D Major minor 7th,V7
+G,minor,F A C,F Major,VII
+C,major,C E G,C Major,I
+C,major,G B D Fb,G Major Dimimished 7,V7
+C,major,G B D Fb,G Major Dimimished 7,V7
+C,major,B D F A,B Half diminished 7,vii°7
+C,major,GBD,G Major,V
+C,major,B D F,B Dim,vii°
+F#,minor,F# A# C#,F# Major,i
+F#,minor,G# B D#,G# Minor,ii°
+F#,minor,A# C# E#,A# Minor,III
+F#,minor,BD#F#,B Major,iv
+F#,minor,E# G# B D#,E# Half diminished 7,VII7
+F#,minor,D# F# A#,D# Minor,VI
+F#,minor,E#G#B,E# Dim,VII
+F,major,F A C E,F Major major 7th,I7
+F,major,Bb D F A,Bb Major major 7th,IV7
+F,major,C E G,C Major,V
+F,major,D F A,D Minor,vi
+F,major,E G Bb,E Dim,vii°
+G,minor,C Eb G Bb,C Minor 7th,iv7
+G,minor,D F A C,D Minor 7th,v7
+G,minor,Bb D F,Bb Major,III
+G,minor,A C Eb G,A Half diminished 7,ii°7
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F# A#,B Major major 7th,V7
+E,major,BD#F#A,B Major minor 7th,V7
+G,minor,G Bb D F#,G Minor major 7th,i7
+G,minor,C Eb G,C Minor,iv
+G,minor,FAC,F Major,VII
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D##,G# Minor Augmented,iii#5
+E,major,A C# E,A Major,IV
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,C# E G#,C# Minor,vi
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,F# A C,F# Dim,ii°
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+A,major,B D F# A,B Minor 7th,ii7
+A,major,D F# A C#,D Major major 7th,IV7
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+Bb,major,Bb D F Ab,Bb Major minor 7th,I7
+Bb,major,G Bb D,G Minor,vi
+Bb,major,F A C E,F Major major 7th,V7
+D,major,E G B D,E Minor 7th,ii7
+D,major,F# A C,F# Dim,iii
+D,major,G B D F,G Major minor 7th,IV7
+D,major,DF#AC#,D Major major 7th,I7
+D,major,B D F##,B Minor Augmented,vi#5
+D,major,C# E G,C# Dim,vii°
+Cb,minor,Cb Eb Gb,Cb Major,i
+Cb,minor,Db Fb Ab,Db Minor,ii°
+Cb,minor,Bb Db Fb Ab,Bb Half diminished 7,VII7
+Cb,minor,Ab Cb Eb,Ab Minor,VI
+Cb,minor,Bb Db Fb,Bb Dim,VII
+E,major,A C# E G#,A Major major 7th,IV7
+E,major,E G# B D#,E Major major 7th,I7
+E,major,A C# E,A Major,IV
+E,major,C# E G#,C# Minor,vi
+A,minor,A C E,A Minor,i
+A,minor,B D# F#,B Major,V/V
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,E G# B D#,E Major major 7th,V7
+A,minor,F A C,F Major,VI
+A,minor,G B D F,G Major minor 7th,VII7
+F,major,A C E G,A Minor 7th,iii7
+F,major,G Bb D,G Minor,ii
+F,major,A C Eb,A Dim,iiib5
+F,major,BbDF,Bb Major,IV
+F,major,C E G,C Major,V
+F,major,E G Bb,E Dim,vii°
+F,minor,Eb G Bb D,Eb Major major 7th,VII7
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Ab C Eb Gb,Ab Major minor 7th,III7
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+E,major,G# B D# F#,G# Minor 7th,iii7
+E,major,G# B D# F#,G# Minor 7th,iii7
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,B D# F# A,B Major minor 7th,V7
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,A C E G,A Minor 7th,iv7
+E,minor,D F# A,D Major,VII
+A,major,A C# E,A Major,I
+A,major,Bb D F,Bb Major,bII
+A,major,E G# B Db,E Major Dimimished 7,V7
+A,major,D F# A,D Major,IV
+A,major,EG#B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,G#BD,G# Dim,vii°
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb C#,Eb Major minor 7th,III7
+B,major,C# E G# B#,C# Minor major 7th,ii7
+B,major,D# F# A#,D# Minor,iii
+B,major,F# A# C#,F# Major,V
+B,major,C# E G# B#,C# Minor major 7th,ii7
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,A C E,A Minor,iv
+E,minor,B D# F#,B Major,V
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+C#,major,C# E# G#,C# Major,I
+C#,major,C# E# G# B,C# Major minor 7th,I7
+C#,major,E#G#B#,E# Minor,iii
+C#,major,F# A# C#,F# Major,IV
+C#,major,G# B# D#,G# Major,V
+C#,major,B# D# F##,B# Minor,vii°#5
+D,minor,E G Bb,E Dim,ii°
+D,minor,FAC,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,D F A C,D Minor 7th,i7
+D,minor,A C# E G,A Major minor 7th,V7
+D,minor,C E G,C Major,VII
+E,major,F# A# C#,F# Major,V/V
+E,major,BD#F#Ab,B Major Dimimished 7,V7
+E,major,C# E G#,C# Minor,vi
+E,major,F#AC#E,F# Minor 7th,ii7
+Ab,major,AbCEb,Ab Major,I
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db G Ab,Db Sus #4,IV
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,F Ab C,F Minor,vi
+Ab,major,G Bb Db,G Dim,vii°
+F#,major,C# E# G# Bb,C# Major Dimimished 7,V7
+F#,major,A# C# E#,A# Minor,iii
+F#,major,D# F# A# C##,D# Minor major 7th,vi7
+F#,major,E# G# B,E# Dim,vii°
+Bb,major,Bb D F,Bb Major,I
+Bb,major,C Eb G,C Minor,ii
+Bb,major,DFA,D Minor,iii
+Bb,major,Eb A Bb,Eb Sus #4,IV
+Bb,major,FAC,F Major,V
+Bb,major,G Bb D,G Minor,vi
+Bb,major,F A C Ebb,F Major Dimimished 7,V7
+F#,major,F# A# C#,F# Major,I
+F#,major,G# B D#,G# Minor,ii
+F#,major,D# F# A# C##,D# Minor major 7th,vi7
+F#,major,E# G# B D#,E# Half diminished 7,vii°7
+F#,major,E#G#BD#,E# Half diminished 7,vii°7
+F#,major,A# C# E# G##,A# Minor major 7th,iii7
+F#,major,B D# F# A,B Major minor 7th,IV7
+Bb,major,GBbDF,G Minor 7th,vi7
+Bb,major,CEbGb,C Dim,iib5
+Bb,major,G Bb D F#,G Minor major 7th,vi7
+Bb,major,G Bb D,G Minor,vi
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,F Ab C,F Minor,ii
+Eb,major,GBbD,G Minor,iii
+Eb,major,AbCEb,Ab Major,IV
+Eb,major,C Eb G B,C Minor major 7th,vi7
+Eb,major,Eb G Bb Db,Eb Major minor 7th,I7
+E,minor,A C E,A Minor,iv
+E,minor,D F# A,D Major,VII
+Cb,major,F Ab Cb Ebb,F Diminished 7,vii°/V7
+Cb,major,Db Fb Ab,Db Minor,ii
+Cb,major,Eb Gb Bb,Eb Minor,iii
+Cb,major,Ab Cb Eb,Ab Minor,vi
+Cb,major,Bb Db Fb,Bb Dim,vii°
+E,minor,F# A# C#,F# Major,V/V
+E,minor,F# A C E,F# Half diminished 7,ii°7
+E,minor,A C E,A Minor,iv
+E,minor,G B D F#,G Major major 7th,III7
+E,minor,C E G,C Major,VI
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# D G#,C# Sus b2,iii
+A,major,D F# A,D Major,IV
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,A C E G#,A Minor major 7th,v7
+D,minor,A C# E,A Major,V
+D,minor,BbDF,Bb Major,VI
+D,minor,AC#EGb,A Major Dimimished 7,V7
+C,major,D F A,D Minor,ii
+C,major,F# A C,F# Dim,vii°/V
+C,major,GBD,G Major,V
+A,minor,A C E G,A Minor 7th,i7
+A,minor,C E G#,C Aug,III#5
+A,minor,D F A,D Minor,iv
+A,minor,E G B,E Minor,v
+A,minor,F G C,F Sus 2,VI
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+E,major,EG#B,E Major,I
+E,major,F#AC#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+C,minor,D F Ab C,D Half diminished 7,ii°7
+C,minor,F Ab C,F Minor,iv
+C,minor,G Bb C,G Dim b5,v
+Db,major,Eb G Bb,Eb Major,V/V
+Db,major,Db F Ab Cb,Db Major minor 7th,I7
+Db,major,Eb G Bb D,Eb Major major 7th,V/V7
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A C,D Major minor 7th,III7
+B,minor,E G B,E Minor,iv
+B,minor,G B D,G Major,VI
+B,minor,F# A C# E,F# Minor 7th,v7
+C,major,G B D F#,G Major major 7th,V7
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+Gb,minor,Gb Bb Db,Gb Major,i
+Gb,minor,Ab Cb Eb,Ab Minor,ii°
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Bb Db F Ab,Bb Minor 7th,III7
+Eb,major,Ab C Eb Gb,Ab Major minor 7th,IV7
+Eb,major,F Ab Cb,F Dim,iib5
+Eb,major,F Ab C Eb,F Minor 7th,ii7
+Eb,major,Bb D F,Bb Major,V
+Eb,major,D F Ab C,D Half diminished 7,vii°7
+D,minor,E G Bbb,E Dim b5,ii°b5
+D,minor,A C E,A Minor,v
+D,minor,F A C E,F Major major 7th,III7
+A,major,A C# E,A Major,I
+A,major,E G# B D#,E Major major 7th,V7
+A,major,B D# F# A#,B Major major 7th,V/V7
+A,major,D F# A,D Major,IV
+A,major,A C# E G,A Major minor 7th,I7
+A,major,F#AC#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+Cb,minor,Eb Gb Bb D,Eb Minor major 7th,III7
+Cb,minor,Db Fb Ab,Db Minor,ii°
+Cb,minor,Eb Gb Bb,Eb Minor,III
+Cb,minor,Fb Ab Cb,Fb Major,iv
+Cb,minor,Ab Cb Eb G,Ab Minor major 7th,VI7
+Cb,minor,Cb Eb Gb Bb,Cb Major major 7th,i7
+G,major,G B D,G Major,I
+G,major,B D F#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,A C E G,A Minor 7th,ii7
+G,major,E G B,E Minor,vi
+G,major,F# A C,F# Dim,vii°
+Bb,major,C Eb G B,C Minor major 7th,ii7
+Bb,major,D F A,D Minor,iii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,F A C,F Major,V
+Bb,major,A C Eb,A Dim,vii°
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,AbCbEb,Ab Minor,ii
+Gb,major,Bb Db F,Bb Minor,iii
+Gb,major,Gb Bb Db F,Gb Major major 7th,I7
+Gb,major,Db F Ab,Db Major,V
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Gb,major,Gb Bb Db F,Gb Major major 7th,I7
+Bb,major,C Eb G,C Minor,ii
+Bb,major,D F A,D Minor,iii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,Eb G Bb Db,Eb Major minor 7th,IV7
+Bb,major,G Bb D,G Minor,vi
+Bb,major,F A C E,F Major major 7th,V7
+C,major,C E G#,C Aug,I#5
+C,major,D F A,D Minor,ii
+C,major,E G B#,E Minor Augmented,iii#5
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,B D F,B Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,C E G Bb,C Major minor 7th,III7
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,E G# B,E Major,V
+A,minor,ACEG#,A Minor major 7th,i7
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,F# A# C##,F# Aug,V/V
+E,major,B D# F# A,B Major minor 7th,V7
+E,major,G# B D# F##,G# Minor major 7th,iii7
+D,minor,E G Bb D,E Half diminished 7,ii°7
+D,minor,F A C,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,Bb D F A,Bb Major major 7th,VI7
+D,minor,Bb D F,Bb Major,VI
+D,minor,G Bb D F#,G Minor major 7th,iv7
+B,major,B D# F#,B Major,I
+B,major,G# B D# F#,G# Minor 7th,vi7
+B,major,G# B D# F#,G# Minor 7th,vi7
+B,major,E G# B,E Major,IV
+B,major,G# B D# F##,G# Minor major 7th,vi7
+B,major,F# A# C# Eb,F# Major Dimimished 7,V7
+B,major,E G# B D#,E Major major 7th,IV7
+F,minor,F Ab C E,F Minor major 7th,i7
+F,minor,Eb G Bb,Eb Major,VII
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,Ab Cb Eb,Ab Minor,ii
+Gb,major,Cb Eb Gb,Cb Major,IV
+Gb,major,Gb Bb Db F,Gb Major major 7th,I7
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Gb,major,F Ab Cb,F Dim,vii°
+D,minor,C E G B,C Major major 7th,VII7
+D,minor,GBbDF,G Minor 7th,iv7
+D,minor,F A C,F Major,III
+D,minor,C E G Bb,C Major minor 7th,VII7
+D,minor,AC#E,A Major,V
+D,minor,C E G Bb,C Major minor 7th,VII7
+D,minor,C E G,C Major,VII
+E,major,F# A C#,F# Minor,ii
+E,major,G#CD#,G# Major,iii
+E,major,AC#E,A Major,IV
+E,major,D# F# A C#,D# Half diminished 7,vii°7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Bb Db F Ab,Bb Minor 7th,iv7
+F,minor,C E G Bbb,C Major Dimimished 7,V7
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+Ab,major,C Eb G#,C Minor Augmented,iii#5
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,F Ab C,F Minor,vi
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,C Eb G,C Minor,iv
+G,minor,Bb D F Ab,Bb Major minor 7th,III7
+G,minor,F A C,F Major,VII
+E,major,E G# B,E Major,I
+E,major,E G# B D,E Major minor 7th,I7
+E,major,G#BD#,G# Minor,iii
+E,major,F A C E,F Major major 7th,bII7
+E,major,B D# F#,B Major,V
+Ab,major,C Eb G Bb,C Minor 7th,iii7
+Ab,major,F Ab C Eb,F Minor 7th,vi7
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,Db F Ab C,Db Major major 7th,IV7
+E,major,E G# B,E Major,I
+E,major,C# E G# B,C# Minor 7th,vi7
+E,major,A C# E,A Major,IV
+E,major,F# A C# E#,F# Minor major 7th,ii7
+G,minor,Eb G Bb D,Eb Major major 7th,VI7
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,A C# E Gb,A Major Dimimished 7,V/V7
+G,minor,D F# A C#,D Major major 7th,V7
+G,minor,Eb G Bb Db,Eb Major minor 7th,VI7
+G,minor,F A C Ebb,F Major Dimimished 7,VII7
+A,major,B D# F# Ab,B Major Dimimished 7,V/V7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,D F# A,D Major,IV
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,G# B D,G# Dim,vii°
+Cb,minor,Cb Eb Gb,Cb Major,i
+Cb,minor,DbFbAb,Db Minor,ii°
+Cb,minor,Eb Gb Bb Db,Eb Minor 7th,III7
+Cb,minor,Fb Ab C,Fb Aug,iv#5
+Cb,minor,Ab Cb Eb,Ab Minor,VI
+D,major,E G B,E Minor,ii
+D,major,F# A C#,F# Minor,iii
+D,major,A C# E,A Major,V
+D,major,E G B D#,E Minor major 7th,ii7
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,F Ab C E,F Minor major 7th,vi7
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,FAbC,F Minor,vi
+Ab,major,CEbGBb,C Minor 7th,iii7
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,B D F#,B Minor,ii
+A,major,EG#B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,G# B Db,G# Dim b5,vii°b5
+B,minor,B D F#,B Minor,i
+B,minor,F# A C# E,F# Minor 7th,v7
+B,minor,E G B,E Minor,iv
+B,minor,GBD,G Major,VI
+B,minor,A C# E,A Major,VII
+Bb,major,Bb D F,Bb Major,I
+Bb,major,C Eb G,C Minor,ii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,F A C,F Major,V
+Bb,major,C Eb G Bb,C Minor 7th,ii7
+Bb,major,Bb D F Ab,Bb Major minor 7th,I7
+A,minor,A C E,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,F A C E,F Major major 7th,VI7
+A,minor,E G Bb,E Dim,vb5
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,GBDF#,G Major major 7th,VII7
+D,major,DF#A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,G B D,G Major,IV
+D,major,AC#E,A Major,V
+D,major,B D F#,B Minor,vi
+D,major,C# E G,C# Dim,vii°
+Bb,major,A C Eb G,A Half diminished 7,vii°7
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,A C Eb,A Dim,vii°
+C,major,C E G Bb,C Major minor 7th,I7
+C,major,G B D F,G Major minor 7th,V7
+C,major,CEGB,C Major major 7th,I7
+C,major,B D F,B Dim,vii°
+C,minor,C Eb G Bb,C Minor 7th,i7
+C,minor,D F Ab C,D Half diminished 7,ii°7
+F,major,F G C,F Sus 2,I
+F,major,G Bb D F#,G Minor major 7th,ii7
+F,major,A C E,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,D F A,D Minor,vi
+F,major,EGBb,E Dim,vii°
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,G B D,G Major,VI
+B,minor,A C# E,A Major,VII
+Ab,major,C Eb G B,C Minor major 7th,iii7
+Ab,major,Bb D F,Bb Major,V/V
+Ab,major,Eb G Bb D,Eb Major major 7th,V7
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,F Ab C#,F Minor Augmented,vi#5
+Ab,major,Db F Ab C,Db Major major 7th,IV7
+C,minor,C Eb G,C Minor,i
+C,minor,C Eb G Bb,C Minor 7th,i7
+C,minor,EbGBb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,Eb G Bb C#,Eb Major minor 7th,III7
+C,major,D F# A,D Major,V/V
+C,major,E G B D#,E Minor major 7th,iii7
+C,major,F A C,F Major,IV
+C,major,D F# A C#,D Major major 7th,V/V7
+C,major,A C E G,A Minor 7th,vi7
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+E,major,E G# B,E Major,I
+E,major,B D# F# A#,B Major major 7th,V7
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F#,B Major,V
+E,major,B D# F# A,B Major minor 7th,V7
+E,major,E G# B D,E Major minor 7th,I7
+D,minor,A C# E Gb,A Major Dimimished 7,V7
+D,minor,F A C,F Major,III
+D,minor,ACEG#,A Minor major 7th,v7
+D,minor,A C E G,A Minor 7th,v7
+F,major,F A C,F Major,I
+F,major,G Bb D,G Minor,ii
+F,major,Bb D F Ab,Bb Major minor 7th,IV7
+F,major,Bb D F,Bb Major,IV
+F,major,D F A C#,D Minor major 7th,vi7
+F,major,F A C Eb,F Major minor 7th,I7
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb C,Eb Major Dimimished 7,III7
+C,minor,F Ab C,F Minor,iv
+C,minor,G Bb C,G Dim b5,v
+C,minor,Eb G Bb C,Eb Major Dimimished 7,III7
+E,major,G# B D# F#,G# Minor 7th,iii7
+E,major,F# A C,F# Dim,iib5
+E,major,F# A# C# E#,F# Major major 7th,V/V7
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,F# A C# E,F# Minor 7th,ii7
+A,minor,A C E,A Minor,i
+A,minor,B D Fb,B Dim b5,ii°b5
+A,minor,C E G Bb,C Major minor 7th,III7
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,C E G Bb,C Major minor 7th,III7
+A,minor,G B D,G Major,VII
+A,major,A C# E,A Major,I
+A,major,G# B D F,G# Diminished 7,vii°7
+A,major,B D F# A,B Minor 7th,ii7
+A,major,G# B D F#,G# Half diminished 7,vii°7
+Bb,major,C Eb G,C Minor,ii
+Bb,major,F A C,F Major,V
+Bb,major,A C Eb G,A Half diminished 7,vii°7
+Bb,major,A C Eb,A Dim,vii°
+F,major,F A C,F Major,I
+F,major,D F A C,D Minor 7th,vi7
+F,major,F A C E,F Major major 7th,I7
+F,major,D F A,D Minor,vi
+F,major,E G Bb,E Dim,vii°
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Bb Db F Ab,Bb Minor 7th,iv7
+F,minor,Db F Ab,Db Major,VI
+F,minor,F Ab C E,F Minor major 7th,i7
+F,major,A C E,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,C E G,C Major,V
+Eb,major,Eb G Bb D,Eb Major major 7th,I7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,G Bb D F,G Minor 7th,iii7
+Eb,major,Bb D F Abb,Bb Major Dimimished 7,V7
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C#EG#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,B D F# A,B Minor 7th,ii7
+C,minor,D F# A,D Major,V/V
+C,minor,Eb G Bb,Eb Major,III
+C,minor,C Eb G B,C Minor major 7th,i7
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,GbBbDbFb,Gb Major minor 7th,IV7
+Db,major,Ab C Eb G,Ab Major major 7th,V7
+Db,major,C Eb Gb,C Dim,vii°
+E,minor,F#ACEb,F# Diminished 7,ii°7
+E,minor,G B D,G Major,III
+E,minor,F# A C E,F# Half diminished 7,ii°7
+E,minor,B D F# A#,B Minor major 7th,v7
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+B,major,D# F# A# C#,D# Minor 7th,iii7
+B,major,C# E G#,C# Minor,ii
+B,major,E G# B#,E Aug,IV#5
+B,major,F# A# C#,F# Major,V
+B,major,G# B D#,G# Minor,vi
+B,major,B D# F# A,B Major minor 7th,I7
+B,minor,BDF#,B Minor,i
+B,minor,C# E# G#,C# Major,V/V
+B,minor,D F# A,D Major,III
+B,minor,EGBD#,E Minor major 7th,iv7
+B,minor,F# A C#,F# Minor,v
+B,minor,G B D,G Major,VI
+B,minor,A C# E,A Major,VII
+Eb,major,F A C Eb,F Major minor 7th,V/V7
+Eb,major,Bb D F Abb,Bb Major Dimimished 7,V7
+Eb,major,C Eb G,C Minor,vi
+Eb,major,Bb D F A,Bb Major major 7th,V7
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,D F# A C,D Major minor 7th,V7
+G,minor,D F# A,D Major,V
+G,minor,A C Eb Gb,A Diminished 7,ii°7
+G,minor,F A C,F Major,VII
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,C# E G# B,C# Minor 7th,ii7
+B,major,A# C# E,A# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,B D# F#,B Major,V
+E,minor,A C E G#,A Minor major 7th,iv7
+F,major,F A C,F Major,I
+F,major,ACE,A Minor,iii
+F,major,D F A,D Minor,vi
+F,major,C E G B,C Major major 7th,V7
+A,minor,A C E,A Minor,i
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,E G# B,E Major,V
+A,minor,A C E G#,A Minor major 7th,i7
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,F# A C#,F# Minor,iii
+D,major,E G B D,E Minor 7th,ii7
+D,major,D F# A C,D Major minor 7th,I7
+D,major,B D F,B Dim,vib5
+D,major,A C# E G#,A Major major 7th,V7
+Cb,minor,Cb Eb Gb,Cb Major,i
+Cb,minor,Db Fb Ab,Db Minor,ii°
+Cb,minor,Fb Ab Cb,Fb Major,iv
+Cb,minor,Bb Db Fb Abb,Bb Diminished 7,VII7
+Cb,minor,Bb Db Fb,Bb Dim,VII
+F,major,D F A C#,D Minor major 7th,vi7
+F,major,C E G B,C Major major 7th,V7
+F,major,A C E,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,C E G,C Major,V
+F,major,DGA,D Sus 4,vi
+F,major,Bb D F A,Bb Major major 7th,IV7
+E,minor,E G C,E Minor Augmented,ib5
+E,minor,F# A C,F# Dim,ii°
+E,minor,G A D,G Sus 2,III
+E,minor,ACE#,A Minor Augmented,iv#5
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,C E G,C Major,VI
+C,major,D F A C#,D Minor major 7th,ii7
+C,major,D F A,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,B D F,B Dim,vii°
+A,minor,ACE,A Minor,i
+A,minor,B D F#,B Minor,ii°#5
+A,minor,B D F A,B Half diminished 7,ii°7
+A,minor,F A C Eb,F Major minor 7th,VI7
+A,major,A C# E,A Major,I
+A,major,G# B D F,G# Diminished 7,vii°7
+A,major,G#BDF,G# Diminished 7,vii°7
+A,major,D F# A,D Major,IV
+A,major,A C# E G,A Major minor 7th,I7
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,C Eb G B,C Minor major 7th,i7
+C,minor,GBbC,G Dim b5,v
+C,minor,Eb G Bb C,Eb Major Dimimished 7,III7
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,F# A C#,F# Minor,vi
+A,major,G#BDF#,G# Half diminished 7,vii°7
+D,minor,D F A,D Minor,i
+D,minor,D F A C#,D Minor major 7th,i7
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,Bb D F,Bb Major,VI
+D,minor,C E G,C Major,VII
+B,major,G# B D# F#,G# Minor 7th,vi7
+B,major,C#EG#,C# Minor,ii
+B,major,D# F# A#,D# Minor,iii
+B,major,E# G# B,E# Dim,vii°/V
+B,major,A# C# E,A# Dim,vii°
+A,minor,C E G B,C Major major 7th,III7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,E G B D,E Minor 7th,v7
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,G B D,G Major,VII
+G,major,B D F# A#,B Minor major 7th,iii7
+G,major,C E G,C Major,IV
+G,major,G B D F,G Major minor 7th,I7
+G,minor,G Bb D,G Minor,i
+G,minor,Bb D F,Bb Major,III
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,F A C,F Major,VII
+B,major,C# E G#,C# Minor,ii
+B,major,E G# B,E Major,IV
+B,major,E G# B D,E Major minor 7th,IV7
+B,major,G# B D# F##,G# Minor major 7th,vi7
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,B D# F# A,B Major minor 7th,V7
+E,minor,D F# A C,D Major minor 7th,VII7
+E,minor,G B D F#,G Major major 7th,III7
+E,minor,B D F#,B Minor,v
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,B D# F# A,B Major minor 7th,V7
+C,major,C E G,C Major,I
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+A,minor,A C E,A Minor,i
+A,minor,E G B D#,E Minor major 7th,v7
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,EG#B,E Major,V
+A,minor,F A C,F Major,VI
+F,major,G Bb D,G Minor,ii
+F,major,Bb D F,Bb Major,IV
+F,major,DFA,D Minor,vi
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,F Ab C Eb,F Minor 7th,i7
+F,major,F A C,F Major,I
+F,major,D F A,D Minor,vi
+B,minor,C# E G# B,C# Minor 7th,ii°#57
+B,minor,A C# E G,A Major minor 7th,VII7
+B,minor,G B D,G Major,VI
+B,minor,G B D F,G Major minor 7th,VI7
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+B,minor,B D F#,B Minor,i
+B,minor,D F# A C#,D Major major 7th,III7
+B,minor,G B D,G Major,VI
+B,minor,E G B D,E Minor 7th,iv7
+F,major,G B D F,G Major minor 7th,V/V7
+F,major,ACE,A Minor,iii
+F,major,F A C Eb,F Major minor 7th,I7
+F,major,C E G,C Major,V
+F,major,F A C Eb,F Major minor 7th,I7
+G,minor,Bb D F,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,D F# A,D Major,V
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,F A C,F Major,VII
+F#,major,F#A#C#,F# Major,I
+F#,major,F# A# C# E,F# Major minor 7th,I7
+F#,major,A# C# E#,A# Minor,iii
+F#,major,B D# F# A,B Major minor 7th,IV7
+F#,major,D#F#A#C#,D# Minor 7th,vi7
+F#,major,D# F# A#,D# Minor,vi
+E,minor,B D# F# A#,B Major major 7th,V7
+E,minor,F# A C E,F# Half diminished 7,ii°7
+E,minor,B D F#,B Minor,v
+E,minor,A C E G,A Minor 7th,iv7
+E,minor,C E G Bb,C Major minor 7th,VI7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,AbCEb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,C Eb G B,C Minor major 7th,v7
+F,minor,Eb G Bb,Eb Major,VII
+Bb,major,Bb D F,Bb Major,I
+Bb,major,A C Eb Gb,A Diminished 7,vii°7
+Bb,major,G Bb D F#,G Minor major 7th,vi7
+Bb,major,D F A C#,D Minor major 7th,iii7
+F#,minor,F# A# C#,F# Major,i
+F#,minor,G# B D#,G# Minor,ii°
+F#,minor,BD#F#,B Major,iv
+F#,minor,D# F# A#,D# Minor,VI
+F#,minor,F# A# C# E,F# Major minor 7th,i7
+B,major,C# E G#,C# Minor,ii
+B,major,E G# B,E Major,IV
+B,major,C# E G# B#,C# Minor major 7th,ii7
+B,major,D#F#A#C#,D# Minor 7th,iii7
+B,major,EG#BD#,E Major major 7th,IV7
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,E G# B D#,E Major major 7th,V7
+A,minor,C E G,C Major,III
+A,minor,E G# B,E Major,V
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+C,major,C E G,C Major,I
+C,major,C E G B,C Major major 7th,I7
+C,major,DFAC#,D Minor major 7th,ii7
+C,major,G B D F#,G Major major 7th,V7
+C,major,G B D,G Major,V
+C,major,G B D F#,G Major major 7th,V7
+C,major,B D F A,B Half diminished 7,vii°7
+Bb,major,FACE,F Major major 7th,V7
+Bb,major,CEbG,C Minor,ii
+Bb,major,A C Eb Gb,A Diminished 7,vii°7
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,G Bb D,G Minor,vi
+D,major,D F# A,D Major,I
+D,major,G B D,G Major,IV
+D,major,B D F#,B Minor,vi
+D,major,A C# E G,A Major minor 7th,V7
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,AC#EGb,A Major Dimimished 7,V7
+D,minor,C E G,C Major,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,A C# E,A Major,IV
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,C# E G#,C# Minor,vi
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb D F,Bb Major,V/V
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Db F Ab Cb,Db Major minor 7th,IV7
+Ab,major,G Bb Db,G Dim,vii°
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,Db F Ab Cb,Db Major minor 7th,V7
+Gb,major,Db F Ab Cb,Db Major minor 7th,V7
+Gb,major,Db F Ab,Db Major,V
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Cb,minor,Cb Eb G,Cb Aug,i#5
+Cb,minor,Db D Ab,Db Sus b2,ii°
+Cb,minor,Eb Gb Bb,Eb Minor,III
+Cb,minor,Fb Ab Cb Eb,Fb Major major 7th,iv7
+Cb,minor,Ab Cb Eb Gb,Ab Minor 7th,VI7
+Cb,minor,Bb Db Fb,Bb Dim,VII
+C,major,E G B,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+G,minor,GBbD,G Minor,i
+G,minor,F A C E,F Major major 7th,VII7
+G,minor,BbDF,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,G Bb D F,G Minor 7th,i7
+G,major,ACEG#,A Minor major 7th,ii7
+G,major,B D F#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,B D F# A,B Minor 7th,iii7
+G,major,G B D F,G Major minor 7th,I7
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,F Ab C Eb,F Minor 7th,ii7
+Eb,major,G C D,G Sus 4,iii
+Eb,major,Bb D F,Bb Major,V
+Eb,major,Ab C Eb Gb,Ab Major minor 7th,IV7
+Eb,major,GBbDF,G Minor 7th,iii7
+G,major,G B D,G Major,I
+G,major,A C E,A Minor,ii
+G,major,CEGB,C Major major 7th,IV7
+G,major,D F# A C,D Major minor 7th,V7
+G,major,C E G B,C Major major 7th,IV7
+G,major,G B D F,G Major minor 7th,I7
+C,minor,Eb G Bb,Eb Major,III
+C,minor,FAbC,F Minor,iv
+E,major,E G# B,E Major,I
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+E,major,B D# F# A,B Major minor 7th,V7
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,Eb G Bb Db,Eb Major minor 7th,V7
+Ab,major,G Bb Db,G Dim,vii°
+E,major,E G# B,E Major,I
+E,major,F#AC#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,EG#BD#,E Major major 7th,I7
+E,major,C# E G# B,C# Minor 7th,vi7
+D,minor,E G Bb,E Dim,ii°
+D,minor,FAC,F Major,III
+D,minor,A C# E,A Major,V
+D,minor,Bb D F#,Bb Aug,VI#5
+D,minor,C E G,C Major,VII
+G,major,B D F#,B Minor,iii
+G,major,C# E G,C# Dim,vii°/V
+G,major,B D F# A,B Minor 7th,iii7
+G,major,C E G Bb,C Major minor 7th,IV7
+G,major,F# A C,F# Dim,vii°
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,C Eb G,C Minor,iv
+G,minor,D F# A,D Major,V
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,D F A C,D Minor 7th,v7
+B,major,B D# G,B Aug,I
+B,major,G# B D# F#,G# Minor 7th,vi7
+B,major,G# B D#,G# Minor,vi
+Cb,minor,Cb Eb Gb,Cb Major,i
+Cb,minor,EbGbBbb,Eb Dim,IIIb5
+Cb,minor,Ab Cb Eb Gb,Ab Minor 7th,VI7
+Cb,minor,Bb Db Fb,Bb Dim,VII
+Bb,major,Bb D F,Bb Major,I
+Bb,major,C Eb G B,C Minor major 7th,ii7
+Bb,major,D F A,D Minor,iii
+Bb,major,F A C,F Major,V
+Bb,major,G Bb D F#,G Minor major 7th,vi7
+Bb,major,A C Eb G,A Half diminished 7,vii°7
+B,minor,B D F#,B Minor,i
+B,minor,C#EG,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C#,F# Major,V
+B,minor,A C# E G#,A Major major 7th,VII7
+D,major,F# A C#,F# Minor,iii
+D,major,G B D#,G Aug,IV#5
+D,major,B D F#,B Minor,vi
+D,major,C# E Gb,C# Dim b5,vii°b5
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+F,major,F A C,F Major,I
+F,major,G Bb D,G Minor,ii
+F,major,A C E,A Minor,iii
+F,major,C D G,C Sus 2,V
+F,major,D F A,D Minor,vi
+F,major,D F A C,D Minor 7th,vi7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,DFA,D Minor,iv
+A,minor,F A C,F Major,VI
+A,minor,G B D F#,G Major major 7th,VII7
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,B D F#,B Minor,ii
+A,major,D F# A,D Major,IV
+A,major,F# A C#,F# Minor,vi
+C#,minor,E# G# B# D#,E# Minor 7th,III7
+C#,minor,A# C# E#,A# Minor,VI
+C#,minor,B# D# F#,B# Dim,VII
+B,major,D# F# A# C#,D# Minor 7th,iii7
+B,major,C#EG#,C# Minor,ii
+B,major,B D# F# A,B Major minor 7th,I7
+B,major,A#C#E,A# Dim,vii°
+C,minor,F Ab C D#,F Minor 7th,iv7
+C,minor,G Bb C,G Dim b5,v
+G,major,C E G,C Major,IV
+G,major,D F# A,D Major,V
+G,major,D F# A C#,D Major major 7th,V7
+G,major,C E G B,C Major major 7th,IV7
+E,minor,EGB,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,B D# F#,B Major,V
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+E,major,F# A C#,F# Minor,ii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+F,minor,F Ab C,F Minor,i
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,Eb G Bb Db,Eb Major minor 7th,VII7
+F,minor,Eb G Bb Dbb,Eb Major Dimimished 7,VII7
+G,major,G B D,G Major,I
+G,major,A C# E,A Major,V/V
+G,major,B D F##,B Minor Augmented,iii#5
+G,major,D F# A Cb,D Major Dimimished 7,V7
+G,major,E G B,E Minor,vi
+G,major,F# A C,F# Dim,vii°
+G,minor,G Bb D,G Minor,i
+G,minor,D F# A C,D Major minor 7th,V7
+G,minor,C Eb G B,C Minor major 7th,iv7
+G,minor,C Eb G,C Minor,iv
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,D F A C,D Minor 7th,v7
+A,major,A C# E,A Major,I
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,E G# B D,E Major minor 7th,V7
+A,major,F# A C# E,F# Minor 7th,vi7
+E,minor,E G B,E Minor,i
+E,minor,F# A C#,F# Minor,ii°#5
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,C E G,C Major,VI
+E,minor,A C E G#,A Minor major 7th,iv7
+C,major,D F# A C#,D Major major 7th,V/V7
+C,major,F A C Eb,F Major minor 7th,IV7
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,G B D Fb,G Major Dimimished 7,V7
+A,minor,E G# B D#,E Major major 7th,V7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,C E G B,C Major major 7th,III7
+A,minor,F A C,F Major,VI
+A,minor,F A C Eb,F Major minor 7th,VI7
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Ab C Eb Gb,Ab Major minor 7th,I7
+Ab,major,F Ab C,F Minor,vi
+Ab,major,G Bb Db,G Dim,vii°
+Eb,major,Fb Ab Cb Eb,Fb Major major 7th,bII7
+Eb,major,Bb D F,Bb Major,V
+Ab,major,F Ab C E,F Minor major 7th,vi7
+Ab,major,Eb G Bb Db,Eb Major minor 7th,V7
+Ab,major,CEbG,C Minor,iii
+Ab,major,Eb G Bb Db,Eb Major minor 7th,V7
+Ab,major,Db F Ab C,Db Major major 7th,IV7
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,CEbG,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,F Ab C,F Minor,vi
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,E G# B D,E Major minor 7th,V7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+D,minor,BbDFAb,Bb Major minor 7th,VI7
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,E G Bb Db,E Diminished 7,ii°7
+D,minor,A C# E,A Major,V
+D,minor,C E G Bb,C Major minor 7th,VII7
+G,major,G B D,G Major,I
+G,major,A C# E,A Major,V/V
+G,major,F# A C E,F# Half diminished 7,vii°7
+G,major,CEGB,C Major major 7th,IV7
+G,major,D F# A,D Major,V
+G,major,G B D F#,G Major major 7th,I7
+G,major,F# A C,F# Dim,vii°
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,D F# A,D Major,V
+G,minor,F A C E,F Major major 7th,VII7
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,F Ab C Eb,F Minor 7th,vi7
+Ab,major,G Bb Db F,G Half diminished 7,vii°7
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+Ab,major,G Bb Db,G Dim,vii°
+G,minor,G Bb Db,G Dim,ib5
+G,minor,C Eb F,C Dim b5,iv
+G,minor,D F A,D Minor,v
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,F A C,F Major,VII
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,Eb Gb Bb D,Eb Minor major 7th,vi7
+Gb,major,Gb Bb Db F,Gb Major major 7th,I7
+Gb,major,Db F A,Db Aug,V#5
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Gb,major,F Ab Cb,F Dim,vii°
+A,minor,A C D,A Dim b5,i
+A,minor,B D F,B Dim,ii°
+A,minor,D F A,D Minor,iv
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,FAC,F Major,VI
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+C,major,C E G,C Major,I
+C,major,EGB,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+C,minor,G Bb C,G Dim b5,v
+Cb,major,Db E Ab,Db Minor,ii
+Cb,major,Eb Gb Bb,Eb Minor,iii
+Cb,major,FbAbCb,Fb Major,IV
+Cb,major,Gb Bb Db,Gb Major,V
+Cb,major,Bb Db Fb,Bb Dim,vii°
+D,minor,D F A C#,D Minor major 7th,i7
+D,minor,CEGB,C Major major 7th,VII7
+D,minor,F A C E,F Major major 7th,III7
+D,minor,Bb D F,Bb Major,VI
+D,minor,D F A C#,D Minor major 7th,i7
+G,major,A C E G,A Minor 7th,ii7
+G,major,B D F#,B Minor,iii
+G,major,F# A C,F# Dim,vii°
+G,minor,A C Eb,A Dim,ii°
+G,minor,CEbG,C Minor,iv
+G,minor,D F# A,D Major,V
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,F A C,F Major,VII
+G,major,G B D,G Major,I
+G,major,ACE,A Minor,ii
+G,major,B D F#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,E G B D,E Minor 7th,vi7
+G,major,E G B,E Minor,vi
+A,minor,C E G,C Major,III
+A,minor,E G B,E Minor,v
+A,minor,EGBD,E Minor 7th,v7
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,F# A C#,F# Minor,vi
+F,minor,Ab C Eb,Ab Major,III
+F,minor,C E G Bb,C Major minor 7th,V7
+F,minor,C E G,C Major,V
+F,minor,F Ab C E,F Minor major 7th,i7
+F,minor,Eb G Bb,Eb Major,VII
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,E G# B D#,E Major major 7th,I7
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+E,major,A C# E G,A Major minor 7th,IV7
+B,minor,B D F,B Dim,ib5
+B,minor,C# E G,C# Dim,ii°
+B,minor,E G B,E Minor,iv
+B,minor,C# E G Bb,C# Diminished 7,ii°7
+C,major,D F A,D Minor,ii
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,B D F A,B Half diminished 7,vii°7
+E,minor,EGB,E Minor,i
+E,minor,B D F# A#,B Minor major 7th,v7
+E,minor,A C E,A Minor,iv
+E,minor,DF#ACb,D Major Dimimished 7,VII7
+E,minor,E G Bb Db,E Diminished 7,ib57
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+B,major,G# B D# F#,G# Minor 7th,vi7
+B,major,C#E#G#B,C# Major minor 7th,V/V7
+B,major,D# F# A#,D# Minor,iii
+B,major,EG#B,E Major,IV
+B,major,F# A# C#,F# Major,V
+B,major,G# B D# F##,G# Minor major 7th,vi7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Bb Db F A,Bb Minor major 7th,iv7
+F,minor,C Eb G,C Minor,v
+F,minor,G Bb Db F,G Half diminished 7,ii°7
+F,minor,Eb G Bb D,Eb Major major 7th,VII7
+Db,major,C Eb Gb Bb,C Half diminished 7,vii°7
+Db,major,EbGbBb,Eb Minor,ii
+Db,major,F Ab C,F Minor,iii
+Db,major,Ab C Eb Gb,Ab Major minor 7th,V7
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,C Eb Gb,C Dim,iiib5
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,G Bb Db,G Dim,vii°
+B,major,B D# F#,B Major,I
+B,major,C#EG#,C# Minor,ii
+B,major,D# F# A#,D# Minor,iii
+B,major,E# G# B,E# Dim,vii°/V
+B,major,F# A# C##,F# Aug,V#5
+B,major,G# B D#,G# Minor,vi
+B,major,A# C# E G,A# Diminished 7,vii°7
+B,minor,C# E G,C# Dim,ii°
+B,minor,AC#EGb,A Major Dimimished 7,VII7
+B,minor,E G B,E Minor,iv
+B,minor,B D F# A#,B Minor major 7th,i7
+B,minor,G B D,G Major,VI
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,C# E G#,C# Minor,vi
+Ab,major,AbCEbGb,Ab Major minor 7th,I7
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,FAbC,F Minor,vi
+Ab,major,BbDbFA,Bb Minor major 7th,ii7
+C,major,E G Bb D,E Half diminished 7,iiib57
+C,major,G B D F#,G Major major 7th,V7
+C,major,F A C Eb,F Major minor 7th,IV7
+C,major,B D F,B Dim,vii°
+F,minor,F Ab C,F Minor,i
+F,minor,G B D,G Major,V/V
+F,minor,Ab C Eb,Ab Major,III
+F,minor,C Eb G,C Minor,v
+F,minor,EbGBb,Eb Major,VII
+Gb,major,Bb Db F,Bb Minor,iii
+Gb,major,CbEbGb,Cb Major,IV
+Gb,major,EbGbBbDb,Eb Minor 7th,vi7
+Gb,major,Eb Gb Bb,Eb Minor,vi
+C#,minor,A# C# E# G#,A# Minor 7th,VI7
+C#,minor,C# E# G# B#,C# Major major 7th,i7
+C#,minor,E# G# B#,E# Minor,III
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,E# G# B# D##,E# Minor major 7th,III7
+C#,major,F## A# C# E,F## Diminished 7,vii°/V7
+C#,major,D# F# A#,D# Minor,ii
+C#,major,E# G# B#,E# Minor,iii
+C#,major,D# F# A# C##,D# Minor major 7th,ii7
+C#,major,A# C# E#,A# Minor,vi
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,E G Bb Db,E Diminished 7,ii°7
+D,minor,G Bb D F#,G Minor major 7th,iv7
+D,minor,E G Bb D,E Half diminished 7,ii°7
+D,minor,C E G,C Major,VII
+E,major,E G# B D#,E Major major 7th,I7
+E,major,D# F# A#,D# Minor,vii°#5
+Bb,major,C Eb G,C Minor,ii
+Bb,major,D F A,D Minor,iii
+Bb,major,A C Eb Gb,A Diminished 7,vii°7
+Bb,major,G Bb D,G Minor,vi
+Bb,major,Bb D F Ab,Bb Major minor 7th,I7
+Db,major,Gb Bb Db Fb,Gb Major minor 7th,IV7
+Db,major,Eb Gb Bb Db,Eb Minor 7th,ii7
+Db,major,F Ab C,F Minor,iii
+Db,major,Ab C Eb,Ab Major,V
+Db,major,BbDbF,Bb Minor,vi
+Gb,minor,Gb Bb Db,Gb Major,i
+Gb,minor,F Ab Cb Ebb,F Diminished 7,VII7
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Eb Gb Bb,Eb Minor,VI
+F,major,FAC,F Major,I
+F,major,G Bb D,G Minor,ii
+F,major,A C E,A Minor,iii
+F,major,C E G Bbb,C Major Dimimished 7,V7
+F,major,C E G,C Major,V
+F,major,D F A,D Minor,vi
+F,major,E G Bb Db,E Diminished 7,vii°7
+D,minor,D F A,D Minor,i
+D,minor,Bb D F A,Bb Major major 7th,VI7
+D,minor,C E G Bbb,C Major Dimimished 7,VII7
+D,minor,F A C E,F Major major 7th,III7
+D,minor,G Bb D F#,G Minor major 7th,iv7
+D,minor,C E G,C Major,VII
+A,major,A C# E,A Major,I
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+Eb,major,F A C,F Major,V/V
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,C Eb G,C Minor,vi
+B,major,D# A A#,D# Sus #4,iii
+B,major,E G# B,E Major,IV
+B,major,B D# F# A,B Major minor 7th,I7
+B,major,G# B D#,G# Minor,vi
+B,major,A# C# E G#,A# Half diminished 7,vii°7
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,E G B#,E Minor Augmented,iv#5
+B,minor,F#A#C#,F# Major,V
+B,minor,A C# E,A Major,VII
+A,major,A C# E,A Major,I
+A,major,C# E G#,C# Minor,iii
+A,major,D F A,D Minor,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+G,minor,A C Eb,A Dim,ii°
+G,minor,Bb D F,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,D F A,D Minor,v
+G,minor,F A C,F Major,VII
+B,major,C# E G#,C# Minor,ii
+B,major,D# F# A# C#,D# Minor 7th,iii7
+B,major,E G# B,E Major,IV
+B,major,F# A# C#,F# Major,V
+B,major,A# C# E G,A# Diminished 7,vii°7
+B,major,A# C# E,A# Dim,vii°
+F#,minor,F# A# C#,F# Major,i
+F#,minor,E# G# B D,E# Diminished 7,VII7
+F#,minor,A# C# E#,A# Minor,III
+F#,minor,C# E# G#,C# Major,v
+F#,minor,D# F# A#,D# Minor,VI
+G,major,G B D,G Major,I
+G,major,G B D F#,G Major major 7th,I7
+G,major,B D F#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,B D F# A#,B Minor major 7th,iii7
+G,major,E G Bb,E Dim,vib5
+G,major,F# A C E,F# Half diminished 7,vii°7
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,Eb G Bb C,Eb Major Dimimished 7,III7
+C,minor,Eb G Bb C,Eb Major Dimimished 7,III7
+C,major,C F G,C Sus 4,I
+C,major,D F A,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,A C E,A Minor,vi
+C,major,BDF,B Dim,vii°
+D,minor,D F A,D Minor,i
+D,minor,G C D,G Sus 4,iv
+D,minor,EGBbD,E Half diminished 7,ii°7
+B,major,C# E G#,C# Minor,ii
+B,major,C# E G# B#,C# Minor major 7th,ii7
+B,major,E G# B,E Major,IV
+B,major,F# A# C#,F# Major,V
+Db,major,Db F Ab,Db Major,I
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,F Ab C,F Minor,iii
+Db,major,Eb Gb Bb Db,Eb Minor 7th,ii7
+Db,major,AbCEb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,Gb Bb Db Fb,Gb Major minor 7th,IV7
+E,major,E G# B,E Major,I
+E,major,A C# E G,A Major minor 7th,IV7
+E,major,G# B D#,G# Minor,iii
+E,major,C#EG#,C# Minor,vi
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,A C# E,A Major,V
+D,minor,C E G,C Major,VII
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,F# A C# E#,F# Minor major 7th,ii7
+E,major,G#BD#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,C# E G,C# Dim,vib5
+E,minor,B D# F# Ab,B Major Dimimished 7,V7
+E,minor,F#AC,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,ACE,A Minor,iv
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,F# A C#,F# Minor,iii
+D,major,A C# E,A Major,V
+D,major,B D F,B Dim,vib5
+D,major,C# E G,C# Dim,vii°
+C,minor,Eb G Bb,Eb Major,III
+C,minor,G Bb C,G Dim b5,v
+C#,major,C# E# G#,C# Major,I
+C#,major,D# F## A#,D# Major,V/V
+C#,major,G# B# D# F,G# Major Dimimished 7,V7
+C#,major,G#B#D#,G# Major,V
+C#,major,G# B# D# F#,G# Major minor 7th,V7
+C#,major,D# F# A# C#,D# Minor 7th,ii7
+E,minor,G B D F#,G Major major 7th,III7
+E,minor,A C E G,A Minor 7th,iv7
+E,minor,B D# F#,B Major,V
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,G B D,G Major,IV
+D,major,AC#E,A Major,V
+D,major,B D F#,B Minor,vi
+D,major,C# E G,C# Dim,vii°
+C,minor,EbGBbC#,Eb Major minor 7th,III7
+C,minor,C Eb G B,C Minor major 7th,i7
+C,minor,Eb G Bb,Eb Major,III
+C,minor,C Eb G B,C Minor major 7th,i7
+C,minor,C Eb G Bb,C Minor 7th,i7
+Db,major,C Eb Gb Bbb,C Diminished 7,vii°7
+Db,major,Eb G Bb,Eb Major,V/V
+Db,major,F Ab C,F Minor,iii
+Db,major,Gb Bb Db,Gb Major,IV
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+F,minor,F Ab C,F Minor,i
+F,minor,AbCEb,Ab Major,III
+F,minor,C E G Bbb,C Major Dimimished 7,V7
+F,minor,C E G B,C Major major 7th,V7
+F,minor,Db F Ab,Db Major,VI
+F,minor,DbFAbC,Db Major major 7th,VI7
+Cb,major,Db Fb Ab,Db Minor,ii
+Cb,major,Fb Ab C,Fb Aug,IV#5
+Cb,major,Gb Bb Db Fb,Gb Major minor 7th,V7
+Cb,major,Db Fb Ab Cb,Db Minor 7th,ii7
+Cb,major,Fb Ab Cb Ebb,Fb Major minor 7th,IV7
+E,minor,E G B,E Minor,i
+E,minor,B D# F# A,B Major minor 7th,V7
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+Eb,major,F A C Eb,F Major minor 7th,V/V7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,C Eb G,C Minor,vi
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,Ab C Eb G,Ab Major major 7th,IV7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,F Ab C Eb,F Minor 7th,ii7
+Eb,major,FAbCE,F Minor major 7th,ii7
+Eb,major,C Eb G Bb,C Minor 7th,vi7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,AbCEbG,Ab Major major 7th,IV7
+Eb,major,Bb D F Abb,Bb Major Dimimished 7,V7
+Eb,major,CEbGB,C Minor major 7th,vi7
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+A,major,A C# E,A Major,I
+A,major,G# B D,G# Dim,vii°
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb C F,Bb Sus 2,ii
+Ab,major,CEbG,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,F Ab C,F Minor,vi
+D,major,DF#A,D Major,I
+D,major,E G# B,E Major,V/V
+D,major,F# C C#,F# Sus #4,iii
+D,major,G B D#,G Aug,IV#5
+D,major,A C# E,A Major,V
+D,major,B D F# A,B Minor 7th,vi7
+D,major,C# E G,C# Dim,vii°
+D,minor,D F A,D Minor,i
+D,minor,A C# E G,A Major minor 7th,V7
+D,minor,F A C,F Major,III
+D,minor,A C# E,A Major,V
+D,minor,Bb D F,Bb Major,VI
+D,minor,G Bb D F,G Minor 7th,iv7
+D,major,AC#EGb,A Major Dimimished 7,V7
+D,major,F# A C# E,F# Minor 7th,iii7
+D,major,C# E G B,C# Half diminished 7,vii°7
+D,major,G B D,G Major,IV
+D,major,B D F#,B Minor,vi
+B,minor,C# E G,C# Dim,ii°
+B,minor,F# A C# E,F# Minor 7th,v7
+B,minor,E G B,E Minor,iv
+B,minor,B D F# A,B Minor 7th,i7
+B,minor,E G B D,E Minor 7th,iv7
+B,minor,A C# E,A Major,VII
+A,major,A C# E,A Major,I
+A,major,B D# F#,B Major,V/V
+A,major,C# E G#,C# Minor,iii
+A,major,E G# B D,E Major minor 7th,V7
+A,major,F# A C#,F# Minor,vi
+A,major,E G# B Db,E Major Dimimished 7,V7
+E,minor,E G B,E Minor,i
+E,minor,G B D,G Major,III
+E,minor,B D F#,B Minor,v
+E,minor,D F# A,D Major,VII
+G,major,E G B D,E Minor 7th,vi7
+G,major,D F# A,D Major,V
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D F#,G Major major 7th,III7
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,G Bb D,G Minor,vi
+Cb,minor,CbEbGbBb,Cb Major major 7th,i7
+Cb,minor,Ab Cb Eb,Ab Minor,VI
+E,major,G# B D# F#,G# Minor 7th,iii7
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D,G# Dim,iiib5
+E,major,ACE,A Minor,IV
+E,major,D# F# A C#,D# Half diminished 7,vii°7
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Eb G Bb Dbb,Eb Major Dimimished 7,VII7
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab C,Db Major major 7th,VI7
+F,minor,Eb G Bb,Eb Major,VII
+F,major,F A C E,F Major major 7th,I7
+F,major,ACEG#,A Minor major 7th,iii7
+F,major,G Bb D F#,G Minor major 7th,ii7
+F,major,C E G,C Major,V
+F,major,ACEG,A Minor 7th,iii7
+F,major,DFAC#,D Minor major 7th,vi7
+Eb,major,C Eb Gb Bb,C Half diminished 7,vib57
+Eb,major,F Ab C Eb,F Minor 7th,ii7
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,D F A,D Minor,vii°#5
+G,major,A C E G,A Minor 7th,ii7
+G,major,A C E G#,A Minor major 7th,ii7
+G,major,B D F#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,D F# A,D Major,V
+G,major,E G B,E Minor,vi
+G,major,F# A C,F# Dim,vii°
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,G B D,G Major,III
+E,minor,A C E G,A Minor 7th,iv7
+G,major,G B D,G Major,I
+G,major,A C E,A Minor,ii
+G,major,C E G,C Major,IV
+G,major,F# A C E,F# Half diminished 7,vii°7
+G,major,C E G Bb,C Major minor 7th,IV7
+G,major,F# A C Eb,F# Diminished 7,vii°7
+E,minor,CEGBb,C Major minor 7th,VI7
+E,minor,G B D,G Major,III
+E,minor,D F# A,D Major,VII
+F#,major,F# A# C# E,F# Major minor 7th,I7
+F#,major,B D# F#,B Major,IV
+F#,major,E# G# B,E# Dim,vii°
+F,minor,F Ab C,F Minor,i
+F,minor,G B D,G Major,V/V
+F,minor,C Eb G,C Minor,v
+F,minor,Eb G Bb,Eb Major,VII
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,F Ab C,F Minor,ii
+Eb,major,G Bb C,G Dim b5,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,Bb D F,Bb Major,V
+C,minor,C Eb G,C Minor,i
+C,minor,F B C,F Sus #4,iv
+Cb,major,Eb Gb Bb D,Eb Minor major 7th,iii7
+Cb,major,Db Fb Ab,Db Minor,ii
+Cb,major,Fb Ab Cb,Fb Major,IV
+Cb,major,Ab Cb Eb,Ab Minor,vi
+Cb,major,Bb Db Fb,Bb Dim,vii°
+C,minor,C Eb G Bb,C Minor 7th,i7
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,G# B D,G# Dim,vii°
+C,minor,D F A,D Minor,ii°#5
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+E,major,A C# E G,A Major minor 7th,IV7
+E,major,B D# F# A,B Major minor 7th,V7
+E,major,E G# B D#,E Major major 7th,I7
+E,major,F# A# C# E,F# Major minor 7th,V/V7
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,ACEb,A Dim,ii°
+G,minor,Bb D F,Bb Major,III
+G,minor,D F A C,D Minor 7th,v7
+G,minor,GBbDF,G Minor 7th,i7
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,EbGBbD,Eb Major major 7th,VI7
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,B D F#,B Minor,ii
+A,major,E G# B#,E Aug,V#5
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+A,minor,E G# B D,E Major minor 7th,V7
+A,minor,B D F Ab,B Diminished 7,ii°7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,F A C E,F Major major 7th,VI7
+A,minor,B D F A,B Half diminished 7,ii°7
+D,major,E G B,E Minor,ii
+D,major,F# A C#,F# Minor,iii
+D,major,A C# E,A Major,V
+D,major,B D F#,B Minor,vi
+D,major,A C# E G,A Major minor 7th,V7
+C#,minor,D# F# A#,D# Minor,ii°
+C#,minor,E# G# C,E# Minor,III
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,A# C# E#,A# Minor,VI
+C#,minor,C# E# G# B#,C# Major major 7th,i7
+Bb,major,Bb D F,Bb Major,I
+Bb,major,D F A,D Minor,iii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,F A C,F Major,V
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C#,F Aug,III#5
+D,minor,G Bb D#,G Minor Augmented,iv#5
+D,minor,A C E G,A Minor 7th,v7
+D,minor,BbDF,Bb Major,VI
+D,minor,C E G,C Major,VII
+E,major,E G# B,E Major,I
+E,major,F#AC#,F# Minor,ii
+E,major,B D# F#,B Major,V
+E,major,AC#EG#,A Major major 7th,IV7
+E,major,BD#F#A#,B Major major 7th,V7
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,C Eb G,C Minor,iv
+G,minor,A C Eb Gb,A Diminished 7,ii°7
+E,major,A C# E,A Major,IV
+E,major,BEF#,B Sus 4,V
+E,major,E G# B D#,E Major major 7th,I7
+Bb,major,C E G#,C Aug,V/V
+Bb,major,D F A,D Minor,iii
+Bb,major,Eb G Bb Db,Eb Major minor 7th,IV7
+Bb,major,C Eb G Bb,C Minor 7th,ii7
+Bb,major,GBbD,G Minor,vi
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,D# F# A#,D# Minor,iii
+B,major,E G# B,E Major,IV
+B,major,F# A# C# E,F# Major minor 7th,V7
+B,major,G# B D#,G# Minor,vi
+B,major,F# A# C# Eb,F# Major Dimimished 7,V7
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,Bb D F,Bb Major,VI
+D,minor,C E G,C Major,VII
+F,major,F A C,F Major,I
+F,major,A C E,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,A C E G#,A Minor major 7th,iii7
+F,major,D F A,D Minor,vi
+F#,minor,F# A# C#,F# Major,i
+F#,minor,B D# F#,B Major,iv
+F#,minor,E# G# B,E# Dim,VII
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,F# C C#,F# Sus #4,iii
+D,major,E G B D,E Minor 7th,ii7
+D,major,A C# E,A Major,V
+D,minor,ACEG#,A Minor major 7th,v7
+D,minor,D F A C#,D Minor major 7th,i7
+D,minor,E G Bb Db,E Diminished 7,ii°7
+D,minor,CEG,C Major,VII
+C,major,C E G,C Major,I
+C,major,E G B,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,B D F A,B Half diminished 7,vii°7
+C,major,C E G B,C Major major 7th,I7
+A,minor,ACE,A Minor,i
+A,minor,G B D F,G Major minor 7th,VII7
+A,minor,D F A,D Minor,iv
+A,minor,EGB,E Minor,v
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+F#,major,G#BD#F#,G# Minor 7th,ii7
+F#,major,C# E# G#,C# Major,V
+F#,major,D#GA#,D# Major,vi
+D,minor,D F A,D Minor,i
+D,minor,A C# E G#,A Major major 7th,V7
+D,minor,G Bb D,G Minor,iv
+D,minor,A C# E,A Major,V
+D,minor,E G Bb Db,E Diminished 7,ii°7
+G,major,A C E,A Minor,ii
+G,major,B D F#,B Minor,iii
+G,major,D F A,D Minor,V
+G,major,DF#AC#,D Major major 7th,V7
+G,major,F# A C,F# Dim,vii°
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,G B D,G Major,III
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,A C E G#,A Minor major 7th,iv7
+E,minor,D F# A,D Major,VII
+E,major,B D# F# A,B Major minor 7th,V7
+E,major,F# A C##,F# Minor Augmented,ii#5
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F# A,B Major minor 7th,V7
+E,major,G#BD#F##,G# Minor major 7th,iii7
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,E G B D,E Minor 7th,i7
+E,minor,B D# F# A#,B Major major 7th,V7
+E,minor,E G B D#,E Minor major 7th,i7
+A,major,EG#BD,E Major minor 7th,V7
+A,major,G# B D F#,G# Half diminished 7,vii°7
+A,major,C#EG#B,C# Minor 7th,iii7
+A,major,D F# A C#,D Major major 7th,IV7
+A,major,E G# B D#,E Major major 7th,V7
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G B,Eb Aug,V#5
+Ab,major,Ab C Eb G,Ab Major major 7th,I7
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,B D# F# A#,B Major major 7th,I7
+B,major,D# F# A# C##,D# Minor major 7th,iii7
+B,major,B D# F# A,B Major minor 7th,I7
+B,major,G# B D#,G# Minor,vi
+F,minor,F Ab C#,F Minor Augmented,i#5
+F,minor,GBbDb,G Dim,ii°
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F,minor,Ab C Eb G,Ab Major major 7th,III7
+Db,major,Ab C Eb Gb,Ab Major minor 7th,V7
+Db,major,EbGbBb,Eb Minor,ii
+Db,major,F Ab C,F Minor,iii
+Db,major,Ab C Eb G,Ab Major major 7th,V7
+Db,major,C Eb Gb,C Dim,vii°
+B,minor,BDF#,B Minor,i
+B,minor,C# E G#,C# Minor,ii°#5
+B,minor,F# A C# E,F# Minor 7th,v7
+B,minor,GBDF#,G Major major 7th,VI7
+B,minor,A C# E,A Major,VII
+E,major,G# B D# F##,G# Minor major 7th,iii7
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+Db,major,Db F Ab,Db Major,I
+Db,major,Eb Gb B,Eb Minor Augmented,ii#5
+Db,major,F Ab C#,F Minor Augmented,iii#5
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,C Eb Gb Bb,C Half diminished 7,vii°7
+Gb,major,Ab Cb Eb,Ab Minor,ii
+Gb,major,Db F Ab C,Db Major major 7th,V7
+Gb,major,Cb Eb Gb,Cb Major,IV
+Gb,major,Ab Cb Eb Gb,Ab Minor 7th,ii7
+Gb,major,Cb Eb Gb Bbb,Cb Major minor 7th,IV7
+Gb,major,F Ab Cb,F Dim,vii°
+F,minor,G Bb Db,G Dim,ii°
+F,minor,C E G B,C Major major 7th,V7
+F,minor,Bb Db F#,Bb Minor Augmented,iv#5
+F,minor,F Ab C Eb,F Minor 7th,i7
+F,minor,Eb G Bb Db,Eb Major minor 7th,VII7
+F,minor,Eb G Bb,Eb Major,VII
+D,major,D F# A C,D Major minor 7th,I7
+D,major,C# E G Bb,C# Diminished 7,vii°7
+D,major,G B D#,G Aug,IV#5
+D,major,E G# B D#,E Major major 7th,V/V7
+D,major,F#AC#E,F# Minor 7th,iii7
+E,minor,E G B,E Minor,i
+E,minor,F# A# C#,F# Major,V/V
+E,minor,F#A#C#Eb,F# Major Dimimished 7,V/V7
+E,minor,A C E,A Minor,iv
+E,minor,C E G,C Major,VI
+E,minor,DF#A,D Major,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,C# D G#,C# Sus b2,vi
+E,major,E G# B D,E Major minor 7th,I7
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C E,F Major major 7th,III7
+D,minor,Bb D F Ab,Bb Major minor 7th,VI7
+D,minor,A C E,A Minor,v
+Gb,major,AbCEb,Ab Major,V/V
+Gb,major,Eb Gb Bb D,Eb Minor major 7th,vi7
+Gb,major,Db F Ab,Db Major,V
+Gb,major,Db F Ab C,Db Major major 7th,V7
+Gb,major,EbGbBbD,Eb Minor major 7th,vi7
+A,minor,F A C E,F Major major 7th,VI7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,E G A,E Dim b5,v
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,Ab Cb Eb,Ab Minor,ii
+Gb,major,Bb Db F,Bb Minor,iii
+Gb,major,Cb Eb Gb,Cb Major,IV
+Gb,major,Db F Ab,Db Major,V
+Gb,major,FAbCb,F Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,A C E,A Minor,iv
+E,minor,B D F# A#,B Minor major 7th,v7
+E,minor,E G B D,E Minor 7th,i7
+Cb,major,Db Fb Ab,Db Minor,ii
+Cb,major,Eb Gb Bb,Eb Minor,iii
+Cb,major,Fb Ab Cb,Fb Major,IV
+Cb,major,Db Fb Ab Cb,Db Minor 7th,ii7
+Cb,major,Bb Db Fb,Bb Dim,vii°
+G,minor,G Bb D,G Minor,i
+G,minor,F A C E,F Major major 7th,VII7
+G,minor,G Bb D F#,G Minor major 7th,i7
+Cb,major,Cb Eb Gb,Cb Major,I
+Cb,major,DbFbAb,Db Minor,ii
+Cb,major,Eb Gb Bb,Eb Minor,iii
+Cb,major,Db Fb Ab Cb,Db Minor 7th,ii7
+Cb,major,Db Fb Ab Cb,Db Minor 7th,ii7
+Cb,major,Ab Cb Eb,Ab Minor,vi
+E,minor,B D F# A#,B Minor major 7th,v7
+E,minor,F# A C E,F# Half diminished 7,ii°7
+E,minor,A C E G#,A Minor major 7th,iv7
+E,minor,A C E,A Minor,iv
+E,minor,C E G#,C Aug,VI#5
+E,minor,D F# A,D Major,VII
+E,major,F# A C#,F# Minor,ii
+E,major,F# A# C# Eb,F# Major Dimimished 7,V/V7
+E,major,B D# F#,B Major,V
+Eb,major,F Ab C E,F Minor major 7th,ii7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Eb G Bb D,Eb Major major 7th,I7
+Eb,major,Bb D F,Bb Major,V
+Eb,major,C Eb G,C Minor,vi
+Eb,major,GBbDF#,G Minor major 7th,iii7
+F,major,D F A C#,D Minor major 7th,vi7
+F,major,BbDFAb,Bb Major minor 7th,IV7
+F,major,G Bb D F#,G Minor major 7th,ii7
+F,major,E G Bb D,E Half diminished 7,vii°7
+F,major,C E G,C Major,V
+G,minor,G Bb D,G Minor,i
+G,minor,Bb D F,Bb Major,III
+G,minor,CEbF,C Dim b5,iv
+G,minor,D F# A,D Major,V
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,F A C#,F Aug,VII#5
+E,major,E G# B,E Major,I
+E,major,F# A# C#,F# Major,V/V
+E,major,A# C# E G#,A# Half diminished 7,vii°/V7
+E,major,C# E G# B#,C# Minor major 7th,vi7
+E,major,C# E G#,C# Minor,vi
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,F# A C# E#,F# Minor major 7th,v7
+B,minor,EGB,E Minor,iv
+B,minor,F# A C##,F# Minor Augmented,v#5
+B,minor,G B D,G Major,VI
+D,major,DF#A,D Major,I
+D,major,F# A C#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,A C# E,A Major,V
+D,major,B D F#,B Minor,vi
+D,major,C# E G,C# Dim,vii°
+Db,major,Ab C Eb Gbb,Ab Major Dimimished 7,V7
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,Ab C Eb Gb,Ab Major minor 7th,V7
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,C Eb Gb,C Dim,vii°
+D,major,D F# A,D Major,I
+D,major,E G B D,E Minor 7th,ii7
+D,major,A C# E Gb,A Major Dimimished 7,V7
+D,major,B D F# A#,B Minor major 7th,vi7
+D,major,F# A C# E#,F# Minor major 7th,iii7
+D,major,C# E G,C# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+E,minor,ACEG,A Minor 7th,iv7
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+Ab,major,Bb Db F A,Bb Minor major 7th,ii7
+Ab,major,Db F Ab C,Db Major major 7th,IV7
+A,minor,ACE,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,CEG,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,E G# B D#,E Major major 7th,V7
+A,minor,DFAC#,D Minor major 7th,iv7
+F#,major,G# B D#,G# Minor,ii
+F#,major,A#CE#,A# Sus 2,iii
+F#,major,A# C# E# G##,A# Minor major 7th,iii7
+F#,major,C# E# G#,C# Major,V
+F#,major,A# C# E# G##,A# Minor major 7th,iii7
+C,minor,C Eb G,C Minor,i
+C,minor,D F# A,D Major,V/V
+C,minor,C Eb G B,C Minor major 7th,i7
+C,minor,F Ab C,F Minor,iv
+C,minor,D F Ab C,D Half diminished 7,ii°7
+Db,major,Db F Ab,Db Major,I
+Db,major,Ab C Eb Gbb,Ab Major Dimimished 7,V7
+Db,major,F Ab C,F Minor,iii
+Db,major,Gb C Db,Gb Sus #4,IV
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,CEbGb,C Dim,vii°
+E,minor,F# A D,F# Minor Augmented,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,D F# A,D Major,VII
+C,major,C E G,C Major,I
+C,major,E G B D,E Minor 7th,iii7
+C,major,E G Bb,E Dim,iiib5
+C,major,D F A C#,D Minor major 7th,ii7
+C,major,A C E,A Minor,vi
+C,major,E G B D,E Minor 7th,iii7
+C#,minor,C# E# G#,C# Major,i
+C#,minor,E# G# B#,E# Minor,III
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,A# C# E#,A# Minor,VI
+C#,minor,B# D# F#,B# Dim,VII
+F,major,Bb D F Ab,Bb Major minor 7th,IV7
+F,major,G Bb D,G Minor,ii
+F,major,CEG,C Major,V
+F,major,Bb D F Ab,Bb Major minor 7th,IV7
+B,minor,B D F#,B Minor,i
+B,minor,C# E# G#,C# Major,V/V
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F#AC,F# Dim,v
+B,minor,G B D,G Major,VI
+B,minor,D F# A C,D Major minor 7th,III7
+D,major,E G B D#,E Minor major 7th,ii7
+D,major,G B D,G Major,IV
+D,major,B D F#,B Minor,vi
+D,major,C#EG,C# Dim,vii°
+B,minor,F# A# C# E,F# Major minor 7th,V7
+B,minor,F# A# C# E#,F# Major major 7th,V7
+B,minor,D F# A,D Major,III
+B,minor,G B D,G Major,VI
+B,minor,A C# E,A Major,VII
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,F#AC#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,B D F#,B Minor,vi
+D,major,D F# A C#,D Major major 7th,I7
+D,minor,F A C,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,A C# E,A Major,V
+D,minor,C E G,C Major,VII
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,Db F Ab Cb,Db Major minor 7th,V7
+Gb,major,Bb Db F,Bb Minor,iii
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Gb,major,Bb Db F Ab,Bb Minor 7th,iii7
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,F# A C# E#,F# Minor major 7th,v7
+B,minor,E G B,E Minor,iv
+B,minor,G B D F#,G Major major 7th,VI7
+B,minor,B D F# A,B Minor 7th,i7
+B,minor,G B D F#,G Major major 7th,VI7
+A,major,A C# E,A Major,I
+A,major,D F# A C,D Major minor 7th,IV7
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,G B D,G Major,III
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+Cb,major,Cb Eb Gb,Cb Major,I
+Cb,major,Eb Gb Bb Db,Eb Minor 7th,iii7
+Cb,major,Bb Db Fb Ab,Bb Half diminished 7,vii°7
+Cb,major,Db Fb Ab C,Db Minor major 7th,ii7
+Cb,major,Db Fb Ab C,Db Minor major 7th,ii7
+Cb,major,Fb Ab Cb Ebb,Fb Major minor 7th,IV7
+E,minor,D F# A C#,D Major major 7th,VII7
+E,minor,F# A C,F# Dim,ii°
+E,minor,D F# A C,D Major minor 7th,VII7
+E,minor,A C E,A Minor,iv
+E,minor,C E G Bb,C Major minor 7th,VI7
+E,minor,C E G,C Major,VI
+E,minor,C E G Bb,C Major minor 7th,VI7
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,F# A C#,F# Minor,iii
+D,major,C# E G B,C# Half diminished 7,vii°7
+D,major,A C# E,A Major,V
+C#,minor,A# C# E G#,A# Half diminished 7,VIb57
+C#,minor,D# F# A#,D# Minor,ii°
+C#,minor,F# A# C# E,F# Major minor 7th,iv7
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,C# E# G# B#,C# Major major 7th,i7
+D,major,E G B,E Minor,ii
+D,major,F# A C#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,C# E G Bb,C# Diminished 7,vii°7
+D,major,C# E G,C# Dim,vii°
+A,minor,D F A,D Minor,iv
+A,minor,F A C,F Major,VI
+A,minor,A C E G#,A Minor major 7th,i7
+D,major,DF#A,D Major,I
+D,major,E G B D,E Minor 7th,ii7
+D,major,F# A C#,F# Minor,iii
+D,major,A C# E,A Major,V
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,E G# B,E Major,V
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,D F# A C#,D Major major 7th,IV7
+A,major,A C# E G,A Major minor 7th,I7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+G,minor,G Bb D,G Minor,i
+G,minor,ACEb,A Dim,ii°
+G,minor,Eb G Bb Db,Eb Major minor 7th,VI7
+G,minor,D F A C,D Minor 7th,v7
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,ACEbG,A Half diminished 7,ii°7
+C,major,C E G,C Major,I
+C,major,E G Bb,E Dim,iiib5
+C,major,A C E G#,A Minor major 7th,vi7
+C,major,B D F Ab,B Diminished 7,vii°7
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,F A C,F Major,V/V
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,C Eb G Bb,C Minor 7th,vi7
+C#,major,C# E# G#,C# Major,I
+C#,major,A# C# E# G##,A# Minor major 7th,vi7
+C#,major,F# A# C# E#,F# Major major 7th,IV7
+C#,major,B# D# F# A,B# Diminished 7,vii°7
+C#,major,B# D# F## A##,B# Minor major 7th,vii°#57
+C#,major,B# D# F#,B# Dim,vii°
+E,minor,A C E,A Minor,iv
+E,minor,B D F# A#,B Minor major 7th,v7
+D,major,C# E G Bb,C# Diminished 7,vii°7
+D,major,EG#B,E Major,V/V
+D,major,G B D F,G Major minor 7th,IV7
+D,major,C# E G B,C# Half diminished 7,vii°7
+D,major,B D F# A,B Minor 7th,vi7
+D,major,BDF#,B Minor,vi
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,F#AC,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,BDF#,B Minor,v
+E,minor,D F# A,D Major,VII
+C,major,C E G,C Major,I
+C,major,E G B,E Minor,iii
+C,major,G B D,G Major,V
+C,major,ACE,A Minor,vi
+C,major,BDF,B Dim,vii°
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,Db F Ab C,Db Major major 7th,I7
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Bb,major,Bb D F Ab,Bb Major minor 7th,I7
+Bb,major,D F A,D Minor,iii
+Bb,major,C Eb G B,C Minor major 7th,ii7
+Bb,major,A C Eb,A Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,G B D F,G Major minor 7th,VII7
+A,minor,C E G,C Major,III
+A,minor,F A C,F Major,VI
+A,minor,GBD,G Major,VII
+G,major,C E G B,C Major major 7th,IV7
+G,major,G B D F,G Major minor 7th,I7
+G,major,B D F#,B Minor,iii
+G,major,D F# A,D Major,V
+G,major,E G B,E Minor,vi
+G,major,G B D F,G Major minor 7th,I7
+A,minor,A C E,A Minor,i
+A,minor,GBDFb,G Major Dimimished 7,VII7
+A,minor,E G# B D#,E Major major 7th,V7
+A,minor,C E G B,C Major major 7th,III7
+A,minor,G B D,G Major,VII
+B,major,B D# F#,B Major,I
+B,major,G# B D# F#,G# Minor 7th,vi7
+B,major,D# F# A#,D# Minor,iii
+B,major,EG#B,E Major,IV
+B,major,F# A# C# E#,F# Major major 7th,V7
+B,major,G# B D# F##,G# Minor major 7th,vi7
+B,major,D# F# A# C#,D# Minor 7th,iii7
+E,minor,C E G Bb,C Major minor 7th,VI7
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,A C E G,A Minor 7th,iv7
+E,minor,F#ACE,F# Half diminished 7,ii°7
+E,minor,E G B D#,E Minor major 7th,i7
+D,major,D F# A,D Major,I
+D,major,EFB,E Sus b2,ii
+D,major,E G# B D,E Major minor 7th,V/V7
+D,major,F# A C# E,F# Minor 7th,iii7
+D,major,C# E Gb,C# Dim b5,vii°b5
+E,minor,E G B D#,E Minor major 7th,i7
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+E,minor,D F# A C,D Major minor 7th,VII7
+Ab,major,Eb G Bb D,Eb Major major 7th,V7
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+E,minor,B D F# A#,B Minor major 7th,v7
+E,minor,F#AC,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,CEGBb,C Major minor 7th,VI7
+E,minor,D F# A#,D Aug,VII#5
+A,major,G# B D F#,G# Half diminished 7,vii°7
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+C,minor,C Eb G,C Minor,i
+C,minor,F Ab C D#,F Minor 7th,iv7
+C,minor,F Ab C,F Minor,iv
+Db,major,EbGBb,Eb Major,V/V
+Db,major,F Ab C,F Minor,iii
+Db,major,Ab C Eb,Ab Major,V
+Db,major,BbDbFb,Bb Dim,vib5
+Db,major,C Eb Gb,C Dim,vii°
+F,minor,F Ab C,F Minor,i
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Db F Ab C,Db Major major 7th,VI7
+F,minor,Db F Ab,Db Major,VI
+F,minor,EbGBb,Eb Major,VII
+G,major,GBD,G Major,I
+G,major,A C E,A Minor,ii
+G,major,B D F#,B Minor,iii
+G,major,D F# A,D Major,V
+G,major,G B D F#,G Major major 7th,I7
+B,minor,E G B D#,E Minor major 7th,iv7
+B,minor,C# E G,C# Dim,ii°
+B,minor,C# E G B,C# Half diminished 7,ii°7
+B,minor,B D F# A,B Minor 7th,i7
+B,minor,A C# E G#,A Major major 7th,VII7
+F,major,E G Bb D,E Half diminished 7,vii°7
+F,major,Bb D F,Bb Major,IV
+F,major,Bb D F A,Bb Major major 7th,IV7
+F,major,E G Bb,E Dim,vii°
+Ab,major,F Ab C E,F Minor major 7th,vi7
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,FAbCbEb,F Half diminished 7,vib57
+Ab,major,G Bb Db,G Dim,vii°
+B,major,B D# F#,B Major,I
+B,major,C# E# G#,C# Major,V/V
+B,major,D# F# A#,D# Minor,iii
+B,major,E# G# B D#,E# Half diminished 7,vii°/V7
+B,major,D# F# A# C#,D# Minor 7th,iii7
+B,major,G# B D# F#,G# Minor 7th,vi7
+B,major,D# F# A# C##,D# Minor major 7th,iii7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,Db F Ab,Db Major,VI
+F,minor,EbGBb,Eb Major,VII
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,Eb G Bb Dbb,Eb Major Dimimished 7,V7
+Ab,major,Eb G Bb,Eb Major,V
+Ab,major,F Ab C,F Minor,vi
+Ab,major,G Bb Db,G Dim,vii°
+D,minor,D F A,D Minor,i
+D,minor,FAC,F Major,III
+D,minor,G Bb D F#,G Minor major 7th,iv7
+D,minor,A C E,A Minor,v
+D,minor,A C# E G,A Major minor 7th,V7
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,F Ab C,F Minor,ii
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,Bb D F,Bb Major,V
+Eb,major,C Eb G,C Minor,vi
+C#,minor,C# E# G##,C# Aug,i#5
+C#,minor,DF#A,D Major,bII
+C#,minor,A# C# E# G#,A# Minor 7th,VI7
+C#,minor,G# B# D#,G# Major,v
+C#,minor,A# C# E#,A# Minor,VI
+C#,minor,B# D# F#,B# Dim,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,F# A C# E,F# Minor 7th,ii7
+E,major,A C# E,A Major,IV
+E,major,E G# B D#,E Major major 7th,I7
+E,major,F# A# C# E#,F# Major major 7th,V/V7
+Cb,minor,Cb Eb Gb,Cb Major,i
+Cb,minor,Cb Eb Gb Bb,Cb Major major 7th,i7
+Cb,minor,Eb Gb Bb,Eb Minor,III
+Cb,minor,Fb Ab Cb,Fb Major,iv
+Cb,minor,Bb Db Fb Ab,Bb Half diminished 7,VII7
+Cb,minor,Ab Cb Eb,Ab Minor,VI
+Cb,minor,Bb Db Fb,Bb Dim,VII
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+B,minor,A C# E G#,A Major major 7th,VII7
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A C#,F# Minor,v
+B,minor,A C# E Gb,A Major Dimimished 7,VII7
+F,major,F A C,F Major,I
+F,major,F A C Eb,F Major minor 7th,I7
+F,major,C E G Bb,C Major minor 7th,V7
+F,major,E G Bb Db,E Diminished 7,vii°7
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,F A C E,F Major major 7th,VII7
+G,minor,G Bb D F,G Minor 7th,i7
+G,minor,Bb D F A,Bb Major major 7th,III7
+A,major,A C# E,A Major,I
+A,major,C# E G#,C# Minor,iii
+A,major,E G# B,E Major,V
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,E G# B D,E Major minor 7th,V7
+E,minor,E G B,E Minor,i
+E,minor,B D# F# A,B Major minor 7th,V7
+E,minor,A C E G,A Minor 7th,iv7
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+A,major,A C# E,A Major,I
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,E G# B Db,E Major Dimimished 7,V7
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E G,A Minor 7th,v7
+D,minor,G Bb D F,G Minor 7th,iv7
+D,minor,C E G,C Major,VII
+D,major,G B D F,G Major minor 7th,IV7
+D,major,F# A C#,F# Minor,iii
+D,major,A C# E,A Major,V
+D,major,DF#AC,D Major minor 7th,I7
+D,major,C# E G,C# Dim,vii°
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,B D# F#,B Major,V/V
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,G B D,G Major,VII
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,F Ab C E,F Minor major 7th,ii7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,Bb D F Abb,Bb Major Dimimished 7,V7
+A,minor,A C E#,A Minor Augmented,i#5
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+A,minor,C E G,C Major,III
+A,minor,DFA,D Minor,iv
+A,minor,FAC,F Major,VI
+C,major,C E G,C Major,I
+C,major,Db F Ab,Db Major,bII
+C,major,E G B,E Minor,iii
+C,major,F A C E,F Major major 7th,IV7
+C,major,B D F#,B Minor,vii°#5
+C#,minor,D# F# A#,D# Minor,ii°
+C#,minor,C# E# G# B,C# Major minor 7th,i7
+C#,minor,F# A# C#,F# Major,iv
+C#,minor,A# C# E# G##,A# Minor major 7th,VI7
+C#,minor,B# D# F#,B# Dim,VII
+C,major,D F# A,D Major,V/V
+C,major,E G B,E Minor,iii
+C,major,G B D,G Major,V
+C,major,D F# A Cb,D Major Dimimished 7,V/V7
+C,major,B D F,B Dim,vii°
+Db,major,DbFAbC,Db Major major 7th,I7
+Db,major,Gb Bb Db Fb,Gb Major minor 7th,IV7
+Db,major,Gb Bb Db,Gb Major,IV
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,C Eb Gb Bbb,C Diminished 7,vii°7
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+C,minor,D F Ab C,D Half diminished 7,ii°7
+C,minor,F Ab C,F Minor,iv
+D,major,C#EGBb,C# Diminished 7,vii°7
+D,major,A C# E G#,A Major major 7th,V7
+D,major,F# A C#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,E G# B D,E Major minor 7th,V/V7
+B,minor,B D F#,B Minor,i
+B,minor,AC#EGb,A Major Dimimished 7,VII7
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A C#,F# Minor,v
+B,minor,G B D,G Major,VI
+B,minor,A C# E,A Major,VII
+Db,major,Ab C Eb Gb,Ab Major minor 7th,V7
+Db,major,Ab C Eb Gb,Ab Major minor 7th,V7
+Db,major,F Ab C,F Minor,iii
+Db,major,GbBbDb,Gb Major,IV
+Db,major,AbCEb,Ab Major,V
+Db,major,DbFAbCb,Db Major minor 7th,I7
+Db,major,C Eb Gb,C Dim,vii°
+E,minor,F# A C E,F# Half diminished 7,ii°7
+E,minor,G B D,G Major,III
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,BDF#,B Minor,v
+E,minor,C E G,C Major,VI
+E,minor,E G B D,E Minor 7th,i7
+A,major,F# A C# E,F# Minor 7th,vi7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,F#AC#E#,F# Minor major 7th,vi7
+A,major,AC#EG,A Major minor 7th,I7
+A,major,B D F# A#,B Minor major 7th,ii7
+Bb,major,BbDF,Bb Major,I
+Bb,major,D F A,D Minor,iii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,G Bb D F,G Minor 7th,vi7
+Bb,major,C Eb G Bb,C Minor 7th,ii7
+A,major,C#EG#B,C# Minor 7th,iii7
+A,major,B D F#,B Minor,ii
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,E G# B Db,E Major Dimimished 7,V7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,DF#AC#,D Major major 7th,VII7
+E,minor,A C E,A Minor,iv
+E,minor,BD#F#,B Major,V
+E,minor,C F G,C Sus 4,VI
+E,major,E G# B,E Major,I
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+E,minor,F#AC,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E#,A Minor Augmented,iv#5
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+F,major,F A C,F Major,I
+F,major,G Bb D,G Minor,ii
+F,major,F A C Eb,F Major minor 7th,I7
+F,major,C E G,C Major,V
+F,major,D F A,D Minor,vi
+F,major,G Bb D F#,G Minor major 7th,ii7
+A,minor,A C E,A Minor,i
+A,minor,A C E G,A Minor 7th,i7
+A,minor,D F A,D Minor,iv
+A,minor,E G# B,E Major,V
+A,minor,A C E G#,A Minor major 7th,i7
+A,minor,C E G Bb,C Major minor 7th,III7
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,D# F# A#,D# Minor,iii
+B,major,E G# B,E Major,IV
+B,major,E# G# B D#,E# Half diminished 7,vii°/V7
+B,major,B D# F# A,B Major minor 7th,I7
+B,major,A# C# E,A# Dim,vii°
+B,minor,C# E# G#,C# Major,V/V
+B,minor,D F A,D Minor,III
+B,minor,B D F# A#,B Minor major 7th,i7
+B,minor,GBD,G Major,VI
+B,minor,D F# A C,D Major minor 7th,III7
+Eb,major,F Ab C,F Minor,ii
+Eb,major,Eb G Bb Db,Eb Major minor 7th,I7
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,C Eb G B,C Minor major 7th,vi7
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,Ab C Eb G,Ab Major major 7th,V7
+Db,major,Gb Bb Db,Gb Major,IV
+Db,major,Bb Db F,Bb Minor,vi
+F#,major,F# A# C# E,F# Major minor 7th,I7
+F#,major,A# C# E#,A# Minor,iii
+F#,major,B D# F#,B Major,IV
+F#,major,C# E# G#,C# Major,V
+F#,major,D#F#A#,D# Minor,vi
+F#,major,C# E# G# B,C# Major minor 7th,V7
+G,minor,D F# A C#,D Major major 7th,V7
+G,minor,G Bb D F,G Minor 7th,i7
+G,minor,D F# A C,D Major minor 7th,V7
+G,minor,C Eb G,C Minor,iv
+G,minor,D F# A,D Major,V
+G,minor,Eb G Bb,Eb Major,VI
+B,major,D# F# A# C#,D# Minor 7th,iii7
+B,major,F# A# C# Eb,F# Major Dimimished 7,V7
+B,major,E G# B,E Major,IV
+B,major,F#A#C#,F# Major,V
+B,major,E G# B D,E Major minor 7th,IV7
+B,major,F# A# C# E#,F# Major major 7th,V7
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,G B D F,G Major minor 7th,VII7
+A,minor,C E G,C Major,III
+A,minor,A C E G#,A Minor major 7th,i7
+A,minor,F A C,F Major,VI
+D,major,B D F# A,B Minor 7th,vi7
+D,major,EGB,E Minor,ii
+D,major,F# A C#,F# Minor,iii
+D,major,A C E,A Minor,V
+B,minor,B D F#,B Minor,i
+B,minor,C# E# G# B#,C# Major major 7th,V/V7
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,G B D,G Major,VI
+B,minor,A C# E,A Major,VII
+Db,major,Gb Bb Db F,Gb Major major 7th,IV7
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,Ab C Eb G,Ab Major major 7th,V7
+Db,major,AbCEb,Ab Major,V
+Db,major,C Eb Gb Bb,C Half diminished 7,vii°7
+Db,major,F Ab C,F Minor,iii
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,Ab C Eb,Ab Major,V
+Db,major,Bb Db F,Bb Minor,vi
+Db,major,C Eb F,C Dim b5,vii°
+Cb,major,Eb Gb Bb,Eb Minor,iii
+Cb,major,Cb Eb Gb Bb,Cb Major major 7th,I7
+Eb,major,Eb G Bb Db,Eb Major minor 7th,I7
+Eb,major,Ab C Eb Gb,Ab Major minor 7th,IV7
+Eb,major,Ab C Eb Gb,Ab Major minor 7th,IV7
+Eb,major,C Eb G,C Minor,vi
+Eb,major,G Bb D F,G Minor 7th,iii7
+A,major,A C# E,A Major,I
+A,major,B D F##,B Minor Augmented,ii#5
+A,major,E G# B,E Major,V
+A,major,B D F# A,B Minor 7th,ii7
+A,major,G# B D,G# Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,C E G B,C Major major 7th,III7
+A,minor,C E G,C Major,III
+A,minor,BDFA,B Half diminished 7,ii°7
+A,minor,F A C,F Major,VI
+A,minor,E G# B D#,E Major major 7th,V7
+F#,major,F# A# C#,F# Major,I
+F#,major,G# B D#,G# Minor,ii
+F#,major,A# C# E#,A# Minor,iii
+F#,major,C# E# G#,C# Major,V
+F#,major,D# F# A#,D# Minor,vi
+F#,major,E# G# B#,E# Minor,vii°#5
+E,minor,E G B,E Minor,i
+E,minor,F# A D,F# Minor Augmented,ii°b5
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,B D# F# A,B Major minor 7th,V7
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,B D# F#,B Major,V/V
+A,major,G# B D F#,G# Half diminished 7,vii°7
+A,major,E G# B,E Major,V
+A,major,D F# A C#,D Major major 7th,IV7
+A,major,G# B D,G# Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,D F# A C,D Major minor 7th,VII7
+E,minor,EGBD#,E Minor major 7th,i7
+E,minor,B D# F#,B Major,V
+E,minor,C E G,C Major,VI
+E,minor,D F# A,D Major,VII
+B,major,C# E G#,C# Minor,ii
+B,major,E G# B,E Major,IV
+B,major,F# A# C##,F# Aug,V#5
+B,major,G# B D#,G# Minor,vi
+B,major,A# C# E,A# Dim,vii°
+G,minor,D F# A C,D Major minor 7th,V7
+G,minor,Bb D F,Bb Major,III
+G,minor,D F# A#,D Aug,V
+G,minor,G Bb D F,G Minor 7th,i7
+G,minor,F A C,F Major,VII
+A,major,C# E G# B#,C# Minor major 7th,iii7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+A,major,G# B Db,G# Dim b5,vii°b5
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,G Bb C,G Dim b5,v
+C,minor,C Eb Gb Bb,C Half diminished 7,ib57
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,FAbCbEbb,F Diminished 7,vii°7
+Gb,major,Bb Db F,Bb Minor,iii
+Gb,major,Cb Eb Gb,Cb Major,IV
+Gb,major,BbDbFA,Bb Minor major 7th,iii7
+Gb,major,Eb Gb Bb,Eb Minor,vi
+Gb,major,F Ab Cb,F Dim,vii°
+F,minor,F Ab C E,F Minor major 7th,i7
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,Bb D F,Bb Major,V
+Eb,major,Bb D F Abb,Bb Major Dimimished 7,V7
+A,minor,A C E,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,C E G#,C Aug,III#5
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+G,major,G B D,G Major,I
+G,major,B D F#,B Minor,iii
+G,major,D F# A C#,D Major major 7th,V7
+G,major,E G B D#,E Minor major 7th,vi7
+G,major,B D F# A,B Minor 7th,iii7
+G,major,F# A C,F# Dim,vii°
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,A C E G,A Minor 7th,v7
+D,minor,G Bb D,G Minor,iv
+D,minor,A C E,A Minor,v
+D,minor,Bb D F,Bb Major,VI
+D,minor,C E G,C Major,VII
+Bb,major,D F A C,D Minor 7th,iii7
+Bb,major,C Eb G,C Minor,ii
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,F A C,F Major,V
+Bb,major,G Bb D F#,G Minor major 7th,vi7
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,G B D F#,G Major major 7th,III7
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+A,major,A C# E,A Major,I
+A,major,E G# B D,E Major minor 7th,V7
+A,major,C# E G#,C# Minor,iii
+A,major,B D F# A#,B Minor major 7th,ii7
+A,major,EG#B,E Major,V
+A,major,E G# B D#,E Major major 7th,V7
+A,major,G# B D,G# Dim,vii°
+C,minor,Eb G Bb,Eb Major,III
+C,minor,G Bb C,G Dim b5,v
+B,major,C# E G#,C# Minor,ii
+B,major,D# F# A#,D# Minor,iii
+B,major,F# A# C#,F# Major,V
+B,minor,C# E G Bb,C# Diminished 7,ii°7
+B,minor,D F# A,D Major,III
+B,minor,D F# A C#,D Major major 7th,III7
+B,minor,F# A# C# Eb,F# Major Dimimished 7,V7
+F,major,F A C,F Major,I
+F,major,C E G B,C Major major 7th,V7
+F,major,Bb D F,Bb Major,IV
+F,major,E G Bb,E Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,CEG,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,EGBb,E Dim,vb5
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Eb G Bb Db,Eb Major minor 7th,I7
+Eb,major,BbDF,Bb Major,V
+Eb,major,Bb D F Abb,Bb Major Dimimished 7,V7
+B,major,C# E G#,C# Minor,ii
+B,major,E G# B D,E Major minor 7th,IV7
+B,major,E G# B,E Major,IV
+B,major,A# C# E G#,A# Half diminished 7,vii°7
+B,major,G# B D#,G# Minor,vi
+A,minor,A C E G#,A Minor major 7th,i7
+A,minor,C E G,C Major,III
+A,minor,E G# B,E Major,V
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+C,major,C E G,C Major,I
+C,major,ACEbG,A Half diminished 7,vib57
+C,major,E G B D#,E Minor major 7th,iii7
+C,major,F A C#,F Aug,IV#5
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,DFA,D Minor,iv
+A,minor,E G B,E Minor,v
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+F,major,F A C#,F Aug,I#5
+F,major,G Bb D,G Minor,ii
+F,major,D F A C#,D Minor major 7th,vi7
+F,major,Bb D F A,Bb Major major 7th,IV7
+F,major,C E G Bb,C Major minor 7th,V7
+B,minor,C# E G,C# Dim,ii°
+B,minor,F# A# C#,F# Major,V
+B,minor,G B D,G Major,VI
+B,minor,E G B D#,E Minor major 7th,iv7
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+A,minor,A C E,A Minor,i
+A,minor,C E G B,C Major major 7th,III7
+A,minor,C E G,C Major,III
+A,minor,D F A C,D Minor 7th,iv7
+A,minor,A C E G,A Minor 7th,i7
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+A,major,A C# E,A Major,I
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,F# A C,F# Dim,vi
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,D F Ab C,D Half diminished 7,ii°7
+Cb,major,Db Fb Ab,Db Minor,ii
+Cb,major,Ab Cb Eb Gb,Ab Minor 7th,vi7
+Cb,major,Bb Db Fb Abb,Bb Diminished 7,vii°7
+Cb,major,Gb Bb Db,Gb Major,V
+Cb,major,Ab Cb Eb,Ab Minor,vi
+F#,minor,F#A#C#,F# Major,i
+F#,minor,G# B D#,G# Minor,ii°
+F#,minor,A# C# E#,A# Minor,III
+F#,minor,B D# F#,B Major,iv
+F#,minor,D# F# A#,D# Minor,VI
+F#,minor,E# G# B,E# Dim,VII
+A,major,A C# E,A Major,I
+A,major,BDF#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,G# B D,G# Dim,vii°
+F,minor,Eb G Bb D,Eb Major major 7th,VII7
+F,minor,GBbDb,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,C Eb G B,C Minor major 7th,v7
+F,minor,Db F Ab Cb,Db Major minor 7th,VI7
+D,major,G B D F,G Major minor 7th,IV7
+D,major,F# A C#,F# Minor,iii
+D,major,AC#E,A Major,V
+D,major,B D F#,B Minor,vi
+D,major,C# E G,C# Dim,vii°
+B,minor,B D F#,B Minor,i
+B,minor,D F# A C,D Major minor 7th,III7
+B,minor,A C# E G#,A Major major 7th,VII7
+B,minor,F# A# C# E#,F# Major major 7th,V7
+B,minor,G B D,G Major,VI
+B,minor,A C# E,A Major,VII
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F#,B Major,V
+E,major,A C# E G#,A Major major 7th,IV7
+E,minor,CEGBb,C Major minor 7th,VI7
+E,minor,E G B D,E Minor 7th,i7
+E,minor,G B D F#,G Major major 7th,III7
+E,minor,D F# A,D Major,VII
+B,major,D# F# A#,D# Minor,iii
+B,major,E G# B,E Major,IV
+B,major,F# A# C#,F# Major,V
+B,major,C# E# G# B#,C# Major major 7th,V/V7
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,G Bb C,G Dim b5,v
+Gb,major,Gb Bb Db,Gb Major,I
+Gb,major,Ab Cb Eb,Ab Minor,ii
+Gb,major,Bb Db F,Bb Minor,iii
+Gb,major,Cb Eb Gb,Cb Major,IV
+Gb,major,Eb Gb Bb,Eb Minor,vi
+A,minor,ACE,A Minor,i
+A,minor,B D F,B Dim,ii°
+A,minor,CEG,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,GBDFb,G Major Dimimished 7,VII7
+A,minor,F A C,F Major,VI
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,G# B D F#,G# Half diminished 7,vii°7
+A,major,F# A C#,F# Minor,vi
+A,major,G#BD,G# Dim,vii°
+A,minor,B D F A,B Half diminished 7,ii°7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,B D F A,B Half diminished 7,ii°7
+A,minor,E G# B,E Major,V
+A,minor,G B D,G Major,VII
+C#,major,C# E# G#,C# Major,I
+C#,major,G# B# D# F#,G# Major minor 7th,V7
+C#,major,C# E# G# B,C# Major minor 7th,I7
+C#,major,A# C# E# G##,A# Minor major 7th,vi7
+C#,major,B# D# F#,B# Dim,vii°
+D,minor,D F A,D Minor,i
+D,minor,F A C,F Major,III
+D,minor,G Bb D F#,G Minor major 7th,iv7
+D,minor,Bb D F,Bb Major,VI
+D,minor,G Bb D F#,G Minor major 7th,iv7
+F,major,F A C,F Major,I
+F,major,G Bb D F,G Minor 7th,ii7
+F,major,Bb D F,Bb Major,IV
+F,major,C E G,C Major,V
+F,major,C E G B,C Major major 7th,V7
+F,major,E G Bb,E Dim,vii°
+Cb,minor,Eb Gb Bb D,Eb Minor major 7th,III7
+Cb,minor,Cb Eb Gb Bb,Cb Major major 7th,i7
+Cb,minor,Db Fb Ab C,Db Minor major 7th,ii°7
+A,major,A C# E,A Major,I
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,F# A C#,F# Minor,vi
+A,major,F# A C# E#,F# Minor major 7th,vi7
+F,minor,Db F Ab Cb,Db Major minor 7th,VI7
+F,minor,Db F Ab Cb,Db Major minor 7th,VI7
+F,minor,Ab C Eb G,Ab Major major 7th,III7
+F,minor,Db F Ab Cb,Db Major minor 7th,VI7
+F,minor,Db F Ab,Db Major,VI
+C#,major,B#D#F#A#,B# Half diminished 7,vii°7
+C#,major,D# F# A# C#,D# Minor 7th,ii7
+C#,major,B# D# F#,B# Dim,vii°
+E,minor,E G Bb,E Dim,ib5
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+G,major,F# A C E,F# Half diminished 7,vii°7
+G,major,DF#A,D Major,V
+G,major,E G B,E Minor,vi
+G,major,F# A C,F# Dim,vii°
+D,minor,D F A,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,C E G Bb,C Major minor 7th,VII7
+D,minor,G Bb D F#,G Minor major 7th,iv7
+D,minor,A C# E,A Major,V
+D,minor,Bb D F,Bb Major,VI
+D,minor,C E G,C Major,VII
+Ab,major,Ab C Eb,Ab Major,I
+Ab,major,G Bb Db,G Dim,vii°
+A,minor,ACE,A Minor,i
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,C E G B,C Major major 7th,III7
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+B,major,BD#F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,D#F#A#,D# Minor,iii
+B,major,F# A# C#,F# Major,V
+B,major,A#C#EG,A# Diminished 7,vii°7
+G,minor,G Bb D,G Minor,i
+G,minor,F A C Eb,F Major minor 7th,VII7
+G,minor,A C Eb Gb,A Diminished 7,ii°7
+G,minor,D F# A,D Major,V
+G,minor,F A C Ebb,F Major Dimimished 7,VII7
+G,major,B D F#,B Minor,iii
+A,minor,A C Eb,A Dim,ib5
+A,minor,B D F,B Dim,ii°
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+A,major,B D F# A,B Minor 7th,ii7
+A,major,F# A C# E,F# Minor 7th,vi7
+A,major,B D F# A,B Minor 7th,ii7
+A,major,E G# B,E Major,V
+A,major,B D F# A#,B Minor major 7th,ii7
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A#,D Aug,III#5
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C#,F# Major,V
+B,minor,E G B D#,E Minor major 7th,iv7
+E,major,F# A C#,F# Minor,ii
+E,major,B D# F# A,B Major minor 7th,V7
+E,major,E G# B D#,E Major major 7th,I7
+E,major,G# B D# F##,G# Minor major 7th,iii7
+E,major,F# A C# E#,F# Minor major 7th,ii7
+B,minor,D F# A C#,D Major major 7th,III7
+B,minor,C# E G Bb,C# Diminished 7,ii°7
+B,minor,E G B,E Minor,iv
+B,minor,F#AC#,F# Minor,v
+B,minor,C# E# G# Bb,C# Major Dimimished 7,V/V7
+B,minor,C# E G B,C# Half diminished 7,ii°7
+F,major,G Bb D,G Minor,ii
+F,major,F A C Eb,F Major minor 7th,I7
+F,major,B D F Ab,B Diminished 7,vii°/V7
+F,major,D F A,D Minor,vi
+F,major,E G Bb,E Dim,vii°
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C E#,A Minor Augmented,iv#5
+E,minor,C E G B,C Major major 7th,VI7
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+E,minor,D F# A,D Major,VII
+Bb,major,Bb D F,Bb Major,I
+Bb,major,C Eb G,C Minor,ii
+Bb,major,D F A,D Minor,iii
+Bb,major,Eb G Bb Db,Eb Major minor 7th,IV7
+Bb,major,F A C,F Major,V
+B,minor,C# E G Bb,C# Diminished 7,ii°7
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C#,F# Major,V
+B,minor,G B D,G Major,VI
+B,minor,A C# E,A Major,VII
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,E G# B Db,E Major Dimimished 7,V7
+A,major,E G# B,E Major,V
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Db Fb,G Diminished 7,ii°7
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+E,major,E G# B,E Major,I
+E,major,A C# E G#,A Major major 7th,IV7
+E,major,G# B D#,G# Minor,iii
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+D,minor,D F A,D Minor,i
+D,minor,EGBb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,G C D,G Sus 4,iv
+D,minor,A C E,A Minor,v
+D,minor,Bb D F,Bb Major,VI
+D,minor,CEG,C Major,VII
+Eb,major,F Ab C E,F Minor major 7th,ii7
+Eb,major,Ab C Eb G,Ab Major major 7th,IV7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,CEbG,C Minor,vi
+Eb,major,C Eb G B,C Minor major 7th,vi7
+E,minor,E G B,E Minor,i
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C E,A Minor,iv
+E,minor,A C E G#,A Minor major 7th,iv7
+Bb,major,DFA,D Minor,iii
+Bb,major,D F A C,D Minor 7th,iii7
+Bb,major,C Eb G B,C Minor major 7th,ii7
+Bb,major,A C Eb,A Dim,vii°
+F#,minor,F# A# C#,F# Major,i
+F#,minor,D#F#A#C#,D# Minor 7th,VI7
+F#,minor,B D# F# A,B Major minor 7th,iv7
+F#,minor,C# E# G#,C# Major,v
+F#,minor,A# C# E# G##,A# Minor major 7th,III7
+C,major,C E G,C Major,I
+C,major,G B D F,G Major minor 7th,V7
+C,major,E G B D#,E Minor major 7th,iii7
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+F#,minor,A#C#E#G#,A# Minor 7th,III7
+F#,minor,G# B D#,G# Minor,ii°
+F#,minor,C# E# G# B#,C# Major major 7th,v7
+F#,minor,B D# F# A#,B Major major 7th,iv7
+B,major,B D# F#,B Major,I
+B,major,F# A# C##,F# Aug,V#5
+G,minor,G Bb D,G Minor,i
+G,minor,AC#E,A Major,V/V
+G,minor,C Eb G,C Minor,iv
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,C Eb G Bb,C Minor 7th,iv7
+A,major,A C# E,A Major,I
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,F# A C#,F# Minor,vi
+A,major,D F# A C#,D Major major 7th,IV7
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C D,A Dim b5,iv
+E,minor,B D# F#,B Major,V
+E,minor,C E G,C Major,VI
+Cb,major,Ab Cb Eb G,Ab Minor major 7th,vi7
+Cb,major,Ab Cb Eb G,Ab Minor major 7th,vi7
+Cb,major,Fb Ab Cb Ebb,Fb Major minor 7th,IV7
+Cb,major,Fb Ab Cb Eb,Fb Major major 7th,IV7
+Gb,minor,GbBbDb,Gb Major,i
+Gb,minor,Ab Cb Eb,Ab Minor,ii°
+Gb,minor,Bb Db F Ab,Bb Minor 7th,III7
+Gb,minor,Eb Gb Bb,Eb Minor,VI
+Gb,minor,Bb Db F Ab,Bb Minor 7th,III7
+E,major,E G# B,E Major,I
+E,major,F# A# C#,F# Major,V/V
+E,major,G# B D#,G# Minor,iii
+E,major,F# A C# E,F# Minor 7th,ii7
+E,major,G# B D# F##,G# Minor major 7th,iii7
+E,major,F# A C# E,F# Minor 7th,ii7
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+D,major,B D F# A,B Minor 7th,vi7
+D,major,BDF#A#,B Minor major 7th,vi7
+D,major,F#AC#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,A C# E G#,A Major major 7th,V7
+D,major,B D F#,B Minor,vi
+D,major,F# A C# E#,F# Minor major 7th,iii7
+B,minor,B D F#,B Minor,i
+B,minor,D F# A,D Major,III
+B,minor,A C# E G,A Major minor 7th,VII7
+B,minor,G B D,G Major,VI
+B,minor,G B D F#,G Major major 7th,VI7
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G#BD#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+D,major,F# A C#,F# Minor,iii
+D,major,G B D,G Major,IV
+D,major,A C# E,A Major,V
+D,major,B D F#,B Minor,vi
+D,major,C# E G,C# Dim,vii°
+E,minor,F# A C,F# Dim,ii°
+E,minor,A C E,A Minor,iv
+E,minor,D F# A C#,D Major major 7th,VII7
+E,minor,A C E G,A Minor 7th,iv7
+A,major,Bb D F,Bb Major,bII
+A,major,D F# A,D Major,IV
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+C#,minor,C# E# G#,C# Major,i
+C#,minor,D# F# A#,D# Minor,ii°
+C#,minor,E# G# B#,E# Minor,III
+C#,minor,G#B#D#F##,G# Major major 7th,v7
+C#,minor,A#C#E#,A# Minor,VI
+C#,minor,B# D# F#,B# Dim,VII
+C,major,D F A,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,F# A C,F# Dim,vii°/V
+C,major,GBD,G Major,V
+C,major,B D F,B Dim,vii°
+Bb,major,C Eb G,C Minor,ii
+Bb,major,D F A,D Minor,iii
+Bb,major,F A C,F Major,V
+Bb,major,G Bb D#,G Minor Augmented,vi#5
+Bb,major,A C Eb,A Dim,vii°
+B,major,B D# F#,B Major,I
+B,major,A# C# E G,A# Diminished 7,vii°7
+B,major,E G# B,E Major,IV
+B,major,G# B D#,G# Minor,vi
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,FAbC,F Minor,iv
+C,minor,G Bb C,G Dim b5,v
+E,major,B D# F# A#,B Major major 7th,V7
+E,major,F# A C#,F# Minor,ii
+E,major,G# B D#,G# Minor,iii
+E,major,A C# E G#,A Major major 7th,IV7
+E,major,B D# F# A,B Major minor 7th,V7
+Gb,minor,Gb Bb Db,Gb Major,i
+Gb,minor,Ab Cb Eb,Ab Minor,ii°
+Gb,minor,F Ab Cb Ebb,F Diminished 7,VII7
+Gb,minor,Cb Eb Gb,Cb Major,iv
+Gb,minor,Db F# Ab,Db Sus 4,V
+Gb,minor,Gb Bb Db Fb,Gb Major minor 7th,i7
+Gb,minor,F Ab Cb,F Dim,VII
+Db,major,Eb G Bb,Eb Major,V/V
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,Bb Db F,Bb Minor,vi
+B,minor,BDF#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,F# A# C#,F# Major,V
+B,minor,F# A# C# Eb,F# Major Dimimished 7,V7
+B,minor,A C# E,A Major,VII
+G,major,G B D,G Major,I
+G,major,A C E,A Minor,ii
+G,major,B D F#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,D F# A,D Major,V
+G,major,F# A C,F# Dim,vii°
+F#,minor,E# G# B D#,E# Half diminished 7,VII7
+F#,minor,B D# F# A,B Major minor 7th,iv7
+F#,minor,A# C# E#,A# Minor,III
+F#,minor,B D# F#,B Major,iv
+F#,minor,B D# F# A#,B Major major 7th,iv7
+G,major,B D F#,B Minor,iii
+G,major,D F# A C,D Major minor 7th,V7
+G,major,GBDF#,G Major major 7th,I7
+G,major,E G B,E Minor,vi
+C,minor,CEbG,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,G Bb C,G Dim b5,v
+A,major,G# B D F,G# Diminished 7,vii°7
+A,major,A C# E G#,A Major major 7th,I7
+A,major,E G# B Db,E Major Dimimished 7,V7
+A,major,F# A C# E#,F# Minor major 7th,vi7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb D,G Minor,ii°#5
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb Gb,C Dim,vb5
+F,minor,G Bb Db F,G Half diminished 7,ii°7
+F,minor,EbGBb,Eb Major,VII
+D,major,D F# A,D Major,I
+D,major,E G B,E Minor,ii
+D,major,F#AC#,F# Minor,iii
+D,major,B D F#,B Minor,vi
+D,major,G B D F#,G Major major 7th,IV7
+G,minor,D F# A Cb,D Major Dimimished 7,V7
+G,minor,F A C Eb,F Major minor 7th,VII7
+G,minor,Bb D F,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,G Bb D F,G Minor 7th,i7
+G,major,G B D,G Major,I
+G,major,B D F#,B Minor,iii
+G,major,D F# A Cb,D Major Dimimished 7,V7
+G,major,B D F# A,B Minor 7th,iii7
+G,major,E G B,E Minor,vi
+G,major,F#AC,F# Dim,vii°
+C,minor,C Eb G,C Minor,i
+C,minor,F Ab Cb,F Dim,ivb5
+G,major,G B D,G Major,I
+G,major,EGBD,E Minor 7th,vi7
+G,major,A C E G,A Minor 7th,ii7
+G,major,D F# A Cb,D Major Dimimished 7,V7
+G,major,C E G B,C Major major 7th,IV7
+G,major,F#AC,F# Dim,vii°
+Bb,major,C Eb G,C Minor,ii
+Bb,major,D F A,D Minor,iii
+Bb,major,F A C Ebb,F Major Dimimished 7,V7
+Bb,major,FACE,F Major major 7th,V7
+Bb,major,D F A C#,D Minor major 7th,iii7
+C,major,C E G,C Major,I
+C,major,D F A,D Minor,ii
+C,major,F# A C,F# Dim,vii°/V
+C,major,G B D,G Major,V
+C,major,DF#ACb,D Major Dimimished 7,V/V7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Dbb,G Dim b5,ii°b5
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,DbFAb,Db Major,VI
+B,major,E G# B D#,E Major major 7th,IV7
+B,major,D# F# A#,D# Minor,iii
+B,major,F# A# C#,F# Major,V
+B,major,G#BD#,G# Minor,vi
+B,major,G# B D# F##,G# Minor major 7th,vi7
+A,minor,E G B D,E Minor 7th,v7
+A,minor,B D F,B Dim,ii°
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+C,major,C F G,C Sus 4,I
+C,major,DF#A,D Major,V/V
+C,major,F A C,F Major,IV
+C,major,DF#AC,D Major minor 7th,V/V7
+C,major,A C E,A Minor,vi
+C,major,B D F,B Dim,vii°
+Eb,major,G Bb D,G Minor,iii
+Eb,major,G Bb D F,G Minor 7th,iii7
+Eb,major,Bb D F A,Bb Major major 7th,V7
+Eb,major,G Bb D F,G Minor 7th,iii7
+Cb,major,CbEbGb,Cb Major,I
+Cb,major,Db Fb Ab,Db Minor,ii
+Cb,major,EbGbBb,Eb Minor,iii
+Cb,major,Fb Ab Cb,Fb Major,IV
+Cb,major,Gb Bb Db,Gb Major,V
+C,minor,D F# A,D Major,V/V
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,G Bb C,G Dim b5,v
+F,major,F A C#,F Aug,I#5
+F,major,G B D,G Major,V/V
+F,major,A C E,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,C E G,C Major,V
+F,major,DFA,D Minor,vi
+F,major,E G Bb Db,E Diminished 7,vii°7
+D,minor,DFA,D Minor,i
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C,F Major,III
+D,minor,G Bb D,G Minor,iv
+D,minor,A C# E Gb,A Major Dimimished 7,V7
+D,minor,Bb D F,Bb Major,VI
+D,minor,BbDFA,Bb Major major 7th,VI7
+D,major,A C# E G#,A Major major 7th,V7
+D,major,B D F# A#,B Minor major 7th,vi7
+D,major,G B D,G Major,IV
+D,major,B D F#,B Minor,vi
+D,major,A C# E G#,A Major major 7th,V7
+F,minor,F Ab C,F Minor,i
+F,minor,G B D,G Major,V/V
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,F Ab C Eb,F Minor 7th,i7
+C,major,C E G,C Major,I
+C,major,D F A,D Minor,ii
+C,major,E G B,E Minor,iii
+C,major,F A C#,F Aug,IV#5
+C,major,D F A C#,D Minor major 7th,ii7
+C,major,B D E,B Dim b5,vii°
+Cb,minor,Bb Db Fb Ab,Bb Half diminished 7,VII7
+Cb,minor,Eb Gb A,Eb Dim,III
+Cb,minor,Fb Ab Cb,Fb Major,iv
+Cb,minor,Gb Bb Db,Gb Major,v
+Cb,minor,AbCbEbG,Ab Minor major 7th,VI7
+C,major,G B D F,G Major minor 7th,V7
+C,major,D F A,D Minor,ii
+C,major,C E G B,C Major major 7th,I7
+C,major,F A C,F Major,IV
+C,major,ACE,A Minor,vi
+C,major,B D F,B Dim,vii°
+B,minor,D F# A,D Major,III
+B,minor,F#A#C#,F# Major,V
+B,minor,AC#EG#,A Major major 7th,VII7
+B,minor,E G B D#,E Minor major 7th,iv7
+Cb,major,EbGbBbD,Eb Minor major 7th,iii7
+Cb,major,Gb Bb Db Fb,Gb Major minor 7th,V7
+E,minor,E G B,E Minor,i
+E,minor,B D F# A,B Minor 7th,v7
+E,minor,A C E,A Minor,iv
+E,minor,G B D F,G Major minor 7th,III7
+E,minor,C E G,C Major,VI
+E,minor,C E G Bb,C Major minor 7th,VI7
+Cb,major,Db F Ab,Db Major,V/V
+Cb,major,Eb Gb Bb,Eb Minor,iii
+Cb,major,Fb Ab Cb,Fb Major,IV
+Cb,major,Gb Bb Db,Gb Major,V
+Cb,major,Ab Cb Eb,Ab Minor,vi
+Cb,major,Bb Db Fb,Bb Dim,vii°
+B,minor,B D F#,B Minor,i
+B,minor,C# E G,C# Dim,ii°
+B,minor,A C# E G,A Major minor 7th,VII7
+B,minor,B D F# A,B Minor 7th,i7
+B,minor,F# A C#,F# Minor,v
+B,minor,A C# E G#,A Major major 7th,VII7
+B,minor,A C# E Gb,A Major Dimimished 7,VII7
+E,major,G#BD#,G# Minor,iii
+E,major,E G# B D#,E Major major 7th,I7
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+C,minor,C Eb G,C Minor,i
+D,major,G B D F,G Major minor 7th,IV7
+D,major,E G B D,E Minor 7th,ii7
+D,major,F# A C#,F# Minor,iii
+D,major,A C# E,A Major,V
+D,major,G B D F#,G Major major 7th,IV7
+D,major,C# E G,C# Dim,vii°
+Db,major,F Ab C E,F Minor major 7th,iii7
+Db,major,Eb Gb Bbb,Eb Dim,iib5
+Db,major,F Ab C E,F Minor major 7th,iii7
+Db,major,GbBbDb,Gb Major,IV
+Db,major,C Eb Gb,C Dim,vii°
+Eb,major,Eb G Bb,Eb Major,I
+Eb,major,G Bb D F#,G Minor major 7th,iii7
+Eb,major,G Bb D,G Minor,iii
+Eb,major,Ab C Eb,Ab Major,IV
+Eb,major,Bb D F,Bb Major,V
+Eb,major,C Eb G,C Minor,vi
+Eb,major,D F Ab C,D Half diminished 7,vii°7
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+F,major,F A C,F Major,I
+F,major,ACE,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,D F A,D Minor,vi
+F,major,Bb D F A,Bb Major major 7th,IV7
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
+C,minor,F Ab C,F Minor,iv
+C,minor,C Eb G B,C Minor major 7th,i7
+F#,major,F#A#C#E,F# Major minor 7th,I7
+F#,major,A# C# E#,A# Minor,iii
+F#,major,C# E# G#,C# Major,V
+F#,major,D# F# A#,D# Minor,vi
+F#,major,C# E# G# B#,C# Major major 7th,V7
+Db,major,Eb Gb Bb,Eb Minor,ii
+Db,major,F Ab Cb,F Dim,iiib5
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,C Eb Gb,C Dim,vii°
+A,major,A C# E,A Major,I
+A,major,E G# B D,E Major minor 7th,V7
+A,major,C# E G,C# Dim,iii
+A,major,D F# A,D Major,IV
+A,major,E G# C,E Aug,V
+A,major,F# A C#,F# Minor,vi
+A,major,E G# B D#,E Major major 7th,V7
+B,minor,B D F#,B Minor,i
+B,minor,D F# A C,D Major minor 7th,III7
+B,minor,D F# A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,A C# E,A Major,VII
+C,major,D F A,D Minor,ii
+C,major,EGB,E Minor,iii
+C,major,F A C,F Major,IV
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+A,minor,B D# F# A,B Major minor 7th,V/V7
+A,minor,F A C Eb,F Major minor 7th,VI7
+A,minor,E G# B,E Major,V
+A,minor,F A C,F Major,VI
+A,minor,G B D,G Major,VII
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,G# C D#,G# Major,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F# Ab,B Major Dimimished 7,V7
+E,major,F#AC#E,F# Minor 7th,ii7
+F,minor,F Ab C,F Minor,i
+F,minor,G Bb Dbb,G Dim b5,ii°b5
+F,minor,Ab C Eb,Ab Major,III
+F,minor,C D G,C Sus 2,v
+F,minor,Db F Ab,Db Major,VI
+G,major,G B D,G Major,I
+G,major,A C E,A Minor,ii
+G,major,BDF#,B Minor,iii
+G,major,C E G,C Major,IV
+G,major,E G B,E Minor,vi
+G,major,D F# A C,D Major minor 7th,V7
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,Ab C Eb Gb,Ab Major minor 7th,III7
+A,major,G# B D F,G# Diminished 7,vii°7
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,C# E G# B,C# Minor 7th,iii7
+A,major,E G# B D,E Major minor 7th,V7
+G,minor,G Bb D,G Minor,i
+G,minor,A C Eb,A Dim,ii°
+G,minor,Bb D F,Bb Major,III
+G,minor,A C Eb G,A Half diminished 7,ii°7
+G,minor,Eb G Bb,Eb Major,VI
+G,minor,F A C E,F Major major 7th,VII7
+A,major,B D F#,B Minor,V/V
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,G# B D,G# Dim,vii°
+G,minor,C Eb G B,C Minor major 7th,iv7
+G,minor,D F A C#,D Minor major 7th,v7
+G,minor,C Eb G,C Minor,iv
+G,minor,Eb G Bb Db,Eb Major minor 7th,VI7
+G,minor,Eb G Bb D,Eb Major major 7th,VI7
+G,major,G B D F,G Major minor 7th,I7
+G,major,B C F#,B Sus b2,iii
+G,major,C E G,C Major,IV
+G,major,E G B D,E Minor 7th,vi7
+G,major,E G B,E Minor,vi
+G,major,F#AC,F# Dim,vii°
+G,minor,G Bb D,G Minor,i
+G,minor,EbGBbDb,Eb Major minor 7th,VI7
+G,minor,Bb D F,Bb Major,III
+G,minor,C Eb G Bb,C Minor 7th,iv7
+F,major,G Bb D,G Minor,ii
+F,major,DFAC,D Minor 7th,vi7
+F,major,C E G,C Major,V
+F,major,D F A C#,D Minor major 7th,vi7
+F,major,E G Bb,E Dim,vii°
+A,minor,A C E G,A Minor 7th,i7
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,EFB,E Sus b2,v
+A,minor,D F A C#,D Minor major 7th,iv7
+G,major,A C E G,A Minor 7th,ii7
+G,major,B D F#,B Minor,iii
+G,major,C E G Bb,C Major minor 7th,IV7
+G,major,E G B D,E Minor 7th,vi7
+G,major,F#ACE,F# Half diminished 7,vii°7
+F,minor,Db F Ab C,Db Major major 7th,VI7
+F,minor,Eb G Bb Dbb,Eb Major Dimimished 7,VII7
+F,minor,Bb Db F Ab,Bb Minor 7th,iv7
+F,minor,Eb G Bb Dbb,Eb Major Dimimished 7,VII7
+F,minor,C Eb G,C Minor,v
+C,major,C E G,C Major,I
+C,major,D F A,D Minor,ii
+C,major,A C E G#,A Minor major 7th,vi7
+C,major,F# A C,F# Dim,vii°/V
+C,major,G B D,G Major,V
+C,major,A C E,A Minor,vi
+C,major,B D F Ab,B Diminished 7,vii°7
+E,minor,G B D,G Major,III
+E,minor,BD#F#,B Major,V
+E,minor,F# A C Eb,F# Diminished 7,ii°7
+B,major,B D# F#,B Major,I
+B,major,C# E G#,C# Minor,ii
+B,major,D#F#A#,D# Minor,iii
+B,major,G# B D# F##,G# Minor major 7th,vi7
+B,major,F# A# C#,F# Major,V
+B,major,G# B D#,G# Minor,vi
+B,major,A# C# E,A# Dim,vii°
+E,minor,C E G B,C Major major 7th,VI7
+G,major,D F# A C,D Major minor 7th,V7
+G,major,A C E,A Minor,ii
+G,major,A C E G#,A Minor major 7th,ii7
+G,major,G B D F#,G Major major 7th,I7
+G,major,E G B,E Minor,vi
+G,major,G B D F,G Major minor 7th,I7
+E,minor,A C E G#,A Minor major 7th,iv7
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+E,minor,E G B D,E Minor 7th,i7
+E,minor,D F# A,D Major,VII
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,E G# B D#,E Major major 7th,V7
+A,major,F# A C# E,F# Minor 7th,vi7
+A,major,F# A C#,F# Minor,vi
+A,major,E G# B D,E Major minor 7th,V7
+A,minor,A C E,A Minor,i
+A,minor,C E G,C Major,III
+A,minor,D F A,D Minor,iv
+A,minor,G B D F#,G Major major 7th,VII7
+A,minor,F A C,F Major,VI
+A,minor,F A C Eb,F Major minor 7th,VI7
+A,major,D F# A C#,D Major major 7th,IV7
+A,major,B D F#,B Minor,ii
+A,major,DF#AC#,D Major major 7th,IV7
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+A,major,D F# A C,D Major minor 7th,IV7
+E,minor,E G B,E Minor,i
+E,minor,D F# A Cb,D Major Dimimished 7,VII7
+E,minor,G B D,G Major,III
+E,minor,ACE,A Minor,iv
+E,minor,B C F#,B Sus b2,V
+E,minor,C E G,C Major,VI
+B,major,B D# F#,B Major,I
+B,major,D# F# A##,D# Minor Augmented,iii#5
+B,major,F# A# C#,F# Major,V
+B,major,G# B D#,G# Minor,vi
+B,major,E G# B D#,E Major major 7th,IV7
+Ab,major,Bb Db F,Bb Minor,ii
+Ab,major,C Eb G,C Minor,iii
+Ab,major,Db F Ab,Db Major,IV
+Ab,major,Db F Ab Cb,Db Major minor 7th,IV7
+Ab,major,Ab C Eb G,Ab Major major 7th,I7
+Ab,major,F Ab C E,F Minor major 7th,vi7
+D,major,G B D F#,G Major major 7th,IV7
+D,major,A C# E G#,A Major major 7th,V7
+D,major,B D F#,B Minor,vi
+A,minor,BDFA,B Half diminished 7,ii°7
+A,minor,D F A,D Minor,iv
+A,minor,E G# B,E Major,V
+A,minor,D F A C#,D Minor major 7th,iv7
+C,major,C E G,C Major,I
+C,major,F A C E,F Major major 7th,IV7
+C,major,C E G B,C Major major 7th,I7
+C,major,G B D,G Major,V
+C,major,BDF,B Dim,vii°
+G,minor,Bb D F,Bb Major,III
+G,minor,CEbG,C Minor,iv
+G,minor,D F A,D Minor,v
+G,minor,Eb G Bb,Eb Major,VI
+C,major,CEG,C Major,I
+C,major,D F A,D Minor,V/V
+C,major,E G B,E Minor,iii
+C,major,G B D,G Major,V
+C,major,B D F,B Dim,vii°
+A,minor,C E G,C Major,III
+A,minor,D F A C#,D Minor major 7th,iv7
+A,minor,E G# B,E Major,V
+A,minor,FAC,F Major,VI
+A,minor,G B D,G Major,VII
+Db,major,DbFAbCb,Db Major minor 7th,I7
+Db,major,Gb Bb Db,Gb Major,IV
+Db,major,C Eb Gb Bb,C Half diminished 7,vii°7
+Db,major,C Eb Gb,C Dim,vii°
+B,minor,C# E G B,C# Half diminished 7,ii°7
+B,minor,DF#A,D Major,III
+B,minor,E G B,E Minor,iv
+B,minor,GBD,G Major,VI
+B,minor,B D F# A#,B Minor major 7th,i7
+F,major,F A C#,F Aug,I#5
+F,major,D F A,D Minor,vi
+F,major,E G Bb,E Dim,vii°
+E,minor,A C E G#,A Minor major 7th,iv7
+E,minor,F# A C,F# Dim,ii°
+E,minor,G B D,G Major,III
+E,minor,A C E,A Minor,iv
+E,minor,B D F#,B Minor,v
+E,minor,C E G,C Major,VI
+E,minor,D E A,D Sus 2,VII
+B,major,E G# B D#,E Major major 7th,IV7
+B,major,D# F# A#,D# Minor,iii
+B,major,F# A# C#,F# Major,V
+D,minor,F A C Eb,F Major minor 7th,III7
+D,minor,F A C Eb,F Major minor 7th,III7
+D,minor,D F A C,D Minor 7th,i7
+D,minor,A C E,A Minor,v
+D,minor,Bb D F,Bb Major,VI
+D,minor,Bb D F A,Bb Major major 7th,VI7
+A,major,A C# E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+C,minor,Eb G Bb,Eb Major,III
+C,minor,FAbC,F Minor,iv
+F#,major,A# C# E#,A# Minor,iii
+F#,major,A#C#E#G##,A# Minor major 7th,iii7
+F#,major,C# E# G#,C# Major,V
+F#,major,E# G# B,E# Dim,vii°
+Db,major,Db F Ab,Db Major,I
+Db,major,F Ab C,F Minor,iii
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,Bb Db F Ab,Bb Minor 7th,vi7
+Db,major,C Eb Gb,C Dim,vii°
+G,major,AC#EGb,A Major Dimimished 7,V/V7
+G,major,E G B D#,E Minor major 7th,vi7
+G,major,D F# A C,D Major minor 7th,V7
+F,minor,Eb G Bb D,Eb Major major 7th,VII7
+F,minor,G Bb Db,G Dim,ii°
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F,minor,Eb G Bb,Eb Major,VII
+F,major,F A C,F Major,I
+F,major,C E G B,C Major major 7th,V7
+F,major,A C E,A Minor,iii
+F,major,Bb D F,Bb Major,IV
+F,major,C E G,C Major,V
+F,major,G Bb D F#,G Minor major 7th,ii7
+F,major,E G Bb,E Dim,vii°
+Db,major,Db F Ab,Db Major,I
+Db,major,F Ab C,F Minor,iii
+Db,major,Eb Gb Bb Db,Eb Minor 7th,ii7
+Db,major,Bb Db F A,Bb Minor major 7th,vi7
+Db,major,Gb Bb Db F,Gb Major major 7th,IV7
+B,major,G# B D# F##,G# Minor major 7th,vi7
+B,major,C# E G##,C# Minor Augmented,ii#5
+B,major,C#EG#B#,C# Minor major 7th,ii7
+B,major,E G# B,E Major,IV
+B,major,F# A# C#,F# Major,V
+B,major,B D# F# A#,B Major major 7th,I7
+F,minor,F Ab C,F Minor,i
+F,minor,Ab C Eb,Ab Major,III
+F,minor,Bb Db F,Bb Minor,iv
+F,minor,CEbG,C Minor,v
+F,minor,G Bb Db Fb,G Diminished 7,ii°7
+F,minor,Eb G Bb,Eb Major,VII
+A,major,G# B D F#,G# Half diminished 7,vii°7
+A,major,E G# B D#,E Major major 7th,V7
+A,major,A C# E G,A Major minor 7th,I7
+A,major,D F# A C#,D Major major 7th,IV7
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+F,minor,GBbDb,G Dim,ii°
+F,minor,G B D Fb,G Major Dimimished 7,V/V7
+F,minor,C E G Bb,C Major minor 7th,V7
+F,minor,Db F Ab,Db Major,VI
+F,minor,C E G B,C Major major 7th,V7
+D,major,D F# A#,D Aug,I#5
+D,major,E G B,E Minor,ii
+D,major,D F# A C,D Major minor 7th,I7
+D,major,A C# E,A Major,V
+D,major,B D F#,B Minor,vi
+D,major,C# E G Bb,C# Diminished 7,vii°7
+F,minor,C Eb G,C Minor,v
+F,minor,Db F Ab,Db Major,VI
+F,minor,EbGBbDb,Eb Major minor 7th,VII7
+A,major,AC#E,A Major,I
+A,major,B D F#,B Minor,ii
+A,major,C# E G#,C# Minor,iii
+A,major,D F# A,D Major,IV
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+G,minor,EbGBbDb,Eb Major minor 7th,VI7
+G,minor,A C Eb,A Dim,ii°
+G,minor,Bb D F,Bb Major,III
+G,minor,C Eb G,C Minor,iv
+G,minor,D F A#,D Minor Augmented,v#5
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,FAC,F Major,VII
+E,major,A C# E,A Major,IV
+E,major,G# B D# F##,G# Minor major 7th,iii7
+E,major,A C# E G#,A Major major 7th,IV7
+D,minor,F A C E,F Major major 7th,III7
+D,minor,C E G Bb,C Major minor 7th,VII7
+D,minor,G Bb D,G Minor,iv
+D,minor,C E G B,C Major major 7th,VII7
+E,major,E G# B,E Major,I
+E,major,F#AC#,F# Minor,ii
+E,major,G# B D,G# Dim,iiib5
+E,major,AC#E,A Major,IV
+E,major,B D# F# A#,B Major major 7th,V7
+G,minor,A C Eb Gb,A Diminished 7,ii°7
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,Eb G Bb Db,Eb Major minor 7th,VI7
+G,minor,D F A,D Minor,v
+G,minor,Bb D F A,Bb Major major 7th,III7
+G,minor,A C# E G,A Major minor 7th,V/V7
+E,major,E G# B,E Major,I
+E,major,F# A C#,F# Minor,ii
+E,major,E G# B D#,E Major major 7th,I7
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+D,minor,E G Bb,E Dim,ii°
+D,minor,F A C Eb,F Major minor 7th,III7
+D,minor,BbDF,Bb Major,VI
+D,minor,D F A C#,D Minor major 7th,i7
+E,major,E G# B,E Major,I
+E,major,G#BD#,G# Minor,iii
+E,major,A C# E,A Major,IV
+E,major,B D# F#,B Major,V
+E,major,C# E G#,C# Minor,vi
+A,minor,B D F,B Dim,ii°
+A,minor,GBDF,G Major minor 7th,VII7
+A,minor,G B D Fb,G Major Dimimished 7,VII7
+A,minor,E G# B,E Major,V
+A,minor,D F A C,D Minor 7th,iv7
+Bb,major,Bb D F,Bb Major,I
+Bb,major,D F A C#,D Minor major 7th,iii7
+Bb,major,Eb G Bb,Eb Major,IV
+Bb,major,FAC,F Major,V
+Bb,major,GBbD,G Minor,vi
+Bb,major,G Bb D F,G Minor 7th,vi7
+A,minor,A C E,A Minor,i
+A,minor,E G# B D#,E Major major 7th,V7
+A,minor,D F A,D Minor,iv
+A,minor,F A C,F Major,VI
+A,major,A C# E,A Major,I
+A,major,EG#BD#,E Major major 7th,V7
+A,major,E G# B,E Major,V
+A,major,F# A C#,F# Minor,vi
+C,minor,C Eb G,C Minor,i
+C,minor,Eb G Bb,Eb Major,III
