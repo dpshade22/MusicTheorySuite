@@ -5,7 +5,12 @@ from chordSolverML import (
     notesPredictionDF,
 )
 import streamlit as st
-
+from joblib import dump, load
+import streamlit as st
+import pandas as pd
+import numpy as np
+from streamlit.proto.Radio_pb2 import Radio
+from PIL import Image
 
 chordPipe, chordScore = chordPredictionDF()
 romanPipe, romanScore = romanPredictionDF()
@@ -222,7 +227,7 @@ elif predictions == "Notes":
     else:
         f"""
         ---
-        > ### Chord: {chord_prediction}
+        ### Chord: {chord_prediction}
         ### Notes: {notes_prediction}
         """
 

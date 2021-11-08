@@ -4,6 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import make_column_transformer
+import joblib
 
 from joblib import dump, load
 import streamlit as st
@@ -11,8 +12,6 @@ import pandas as pd
 import numpy as np
 from streamlit.proto.Radio_pb2 import Radio
 from PIL import Image
-
-# st.set_page_config(layout="wide")
 
 
 dtreeModel = DecisionTreeClassifier()
