@@ -318,12 +318,12 @@ class Key:
                 romanNumeral += "7"
                 value = [f"{bot} {mid} {top} {sev}", f"{romanNumeral}"]
             elif tempRand > 0.95:
-                mid = random.choice(self.allNotes)
+                mid = random.choice(self.allNotes)[0]
 
                 k = f"{self.root} {self.quality}"
                 value = [f"{bot} {mid} {top}", romanNumeral]
             elif tempRand > 0.9:
-                top = random.choice(self.allNotes)
+                top = random.choice(self.allNotes)[0]
 
                 k = f"{self.root} {self.quality}"
                 value = [f"{bot} {mid} {top}", romanNumeral]
@@ -389,7 +389,7 @@ def generateDataset(num):
 
             notesList = notesStr.split()
 
-            if random.random() < 0.3:
+            if random.random() < 0.1:
                 notesStr = notesStr.replace(" ", "")
 
             currChord = Chord(tempKey.root)
@@ -405,9 +405,7 @@ def generateDataset(num):
                         notesList[0], notesList[1], notesList[2]
                     )
             except:
-                chordName = currChord.createTriad(
-                    notesList[0], notesList[1], notesList[2]
-                )
+                continue
 
             df["Key"].append(tempKey.root)
             df["Quality"].append(tempKey.quality)
@@ -425,6 +423,6 @@ def generateDataset(num):
     return df
 
 
-df = pd.DataFrame(generateDataset(10000))
+df = pd.DataFrame(generateDataset(50000))
 
-df.to_csv("./DataAndModels/data10000", index=False)
+df.to_csv("./DataAndModels/data50000", index=False)

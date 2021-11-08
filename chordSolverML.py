@@ -15,23 +15,26 @@ from streamlit.proto.Radio_pb2 import Radio
 @st.cache
 def loadData(vars):
     if vars == "Chord":
-        df = pd.read_csv(
-            "./DataAndModels/data1000", usecols=["Key", "Quality", "Notes", "Chord"]
-        )
+        df = pd.read_csv("./DataAndModels/data50000", usecols=["Key", "Notes", "Chord"])
     if vars == "Roman":
         df = pd.read_csv(
-            "./DataAndModels/data1000",
-            usecols=["Key", "Quality", "Notes", "RomanNumeral"],
+            "./DataAndModels/data50000",
+            usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Key":
         df = pd.read_csv(
-            "./DataAndModels/data1000",
+            "./DataAndModels/data50000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Notes":
         df = pd.read_csv(
-            "./DataAndModels/data1000",
+            "./DataAndModels/data50000",
             usecols=["Chord", "Key", "Quality", "Notes", "RomanNumeral"],
+        )
+    if vars == "Quality":
+        df = pd.read_csv(
+            "./DataAndModels/data5000",
+            usecols=["Key", "Quality", "Chord", "RomanNumeral"],
         )
 
     return df
@@ -76,20 +79,20 @@ def chordPredictionDF():
     X = df.drop(columns=["Chord"])
     y = df["Chord"]
 
-    X_train, y_train, X_test, y_test = train_test_split(
-        X, y, random_state=0, shuffle=True
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, random_state=4, shuffle=True
     )
 
     pipe = make_pipeline(
-        getCategoircalDataTransformed(["Key", "Quality", "Notes"]),
+        getCategoircalDataTransformed(["Key", "Notes"]),
         chordModel,
     )
 
-    pipe.fit(X, y)
+    pipe.fit(X_train, y_train)
 
-    chordScore = pipe.score(y_train, y_test)
+    score = pipe.score(X_test, y_test)
 
-    return pipe, chordScore
+    return pipe, score
 
 
 @st.cache
@@ -98,20 +101,20 @@ def romanPredictionDF():
     X = df.drop(columns=["RomanNumeral"])
     y = df["RomanNumeral"]
 
-    X_train, y_train, X_test, y_test = train_test_split(
-        X, y, random_state=0, shuffle=True
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, random_state=4, shuffle=True
     )
 
     pipe = make_pipeline(
-        getCategoircalDataTransformed(["Key", "Quality", "Notes"]),
+        getCategoircalDataTransformed(["Key", "Notes"]),
         romanModel,
     )
 
-    pipe.fit(X, y)
+    pipe.fit(X_train, y_train)
 
-    romanScore = pipe.score(y_train, y_test)
+    score = pipe.score(X_test, y_test)
 
-    return pipe, romanScore
+    return pipe, score
 
 
 @st.cache
@@ -120,8 +123,8 @@ def keyPredictionDF():
     X = df.drop(columns=["Key"])
     y = df["Key"]
 
-    X_train, y_train, X_test, y_test = train_test_split(
-        X, y, random_state=0, shuffle=True
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, random_state=4, shuffle=True
     )
 
     pipe = make_pipeline(
@@ -129,11 +132,11 @@ def keyPredictionDF():
         keyModel,
     )
 
-    pipe.fit(X, y)
+    pipe.fit(X_train, y_train)
 
-    romanScore = pipe.score(y_train, y_test)
+    score = pipe.score(X_test, y_test)
 
-    return pipe, romanScore
+    return pipe, score
 
 
 @st.cache
@@ -142,8 +145,8 @@ def notesPredictionDF():
     X = df.drop(columns=["Notes"])
     y = df["Notes"]
 
-    X_train, y_train, X_test, y_test = train_test_split(
-        X, y, random_state=0, shuffle=True
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, random_state=4, shuffle=True
     )
 
     pipe = make_pipeline(
@@ -151,18 +154,40 @@ def notesPredictionDF():
         notesModel,
     )
 
-    pipe.fit(X, y)
+    pipe.fit(X_train, y_train)
 
-    romanScore = pipe.score(y_train, y_test)
+    score = pipe.score(X_test, y_test)
 
-    return pipe, romanScore
+    return pipe, score
+
+
+@st.cache
+def qualityPredictionDF():
+    df = loadData("Notes")
+    X = df.drop(columns=["Notes"])
+    y = df["Notes"]
+
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, random_state=4, shuffle=True
+    )
+
+    pipe = make_pipeline(
+        getCategoircalDataTransformed(["Key", "Quality", "Chord", "RomanNumeral"]),
+        notesModel,
+    )
+
+    pipe.fit(X_train, y_train)
+
+    score = pipe.score(X_test, y_test)
+
+    return pipe, score
 
 
 chordPipe, chordScore = chordPredictionDF()
 romanPipe, romanScore = romanPredictionDF()
 keyPipe, keyScore = keyPredictionDF()
 notesPipe, notesScore = notesPredictionDF()
-
+qualityPipe, qualityScore = qualityPredictionDF()
 
 f"""
 # Chord Solver 2.0 (ML)
@@ -176,15 +201,15 @@ f"""
 # > Chord Prediction Accuracy = {100*chordScore}%
 # > Roman Numeral Prediction Accuracy = {100*romanScore}%
 
-predictions = st.multiselect(
+predictions = st.selectbox(
     label="What would you like to predict?",
-    options=["Key", "Notes", "Chord", "Roman Numeral"],
-    default=["Chord", "Roman Numeral"],
+    options=["Key", "Notes", "Chord", "Roman Numeral", "Quality"],
+    index=2,
 )
 
 col1, col2, col3 = st.columns(3)
 col4, col5 = st.columns(2)
-options = [
+keys = [
     "C",
     "D",
     "E",
@@ -211,26 +236,29 @@ options = [
 if len(predictions) == 0:
     "# ^ Select something to predict"
 
-elif predictions[0] in ["Chord", "Roman Numeral"]:
+elif predictions in ["Chord", "Roman Numeral"]:
 
-    with col1:
-        KEY = st.selectbox("Key", options)
-    with col2:
-        QUALITY = st.selectbox("Major or Minor", ["major", "minor"], index=0)
-    with col3:
+    with col4:
+        KEY = st.selectbox("Key", keys)
+    with col5:
         NOTES = st.text_input("Enter Notes", value="C E G")
         NOTES = NOTES.title()
 
-    y = pd.DataFrame({"Key": [KEY], "Quality": [QUALITY], "Notes": [NOTES]})
+    y = pd.DataFrame({"Key": [KEY], "Notes": [NOTES]})
 
     f"""
     ---
     ### Predictions
+
+    Accuracy: {round(chordScore*100, 2)}%\n
+    Accuracy: {round(romanScore*100, 2)}%
+
     > ### Chord Name: {chordPipe.predict(y)[0]}
     > ### Roman Numeral: {romanPipe.predict(y)[0]}
+    
     """
 
-elif predictions == ["Key"]:
+elif predictions == "Key":
 
     with col1:
         NOTES = st.text_input("Enter Notes", value="C E G")
@@ -258,30 +286,112 @@ elif predictions == ["Key"]:
     with col3:
         ALTERSHARP5 = st.checkbox(label="#5")
         ALTERFLAT5 = st.checkbox(label="b5")
+        SEVENTH = st.checkbox(label="7")
     if ALTERSHARP5:
-        ROMAN += "#5"
+        ROMAN += "^{#5}"
     elif ALTERFLAT5:
-        ROMAN += "b5"
-
-    print(ROMAN)
+        ROMAN += "^{b5}"
+    elif SEVENTH:
+        ROMAN += "^7"
 
     key_y = pd.DataFrame({"Notes": [NOTES], "RomanNumeral": [ROMAN]})
+    key_prediction = keyPipe.predict(key_y)[0]
+
+    if ROMAN in [
+        "i",
+        "ii°",
+        "III",
+        "iv",
+        "v",
+        "VI",
+        "VII",
+    ]:
+        key_prediction += " Minor"
+    else:
+        key_prediction += " Major"
+
+    chord_y = pd.DataFrame(
+        {"Key": [key_prediction], "Notes": [NOTES], "RomanNumeral": [ROMAN]}
+    )
+    chord_prediction = chordPipe.predict(chord_y)[0]
 
     f"""
     ---
-    ### Predictions
-    > ### Key: {keyPipe.predict(key_y)[0]}
+    ### Prediction Accuracy: {round(keyScore*100, 2)}%
+    > ### Chord Name: {chord_prediction}
+    > ### Key: {key_prediction}
+
     """
 
 elif predictions == "Notes":
 
-    notes_y = pd.DataFrame({"Key": [], "Quality": [], "RomanNumeral": []})
+    method = st.radio(label="Method", options=["Chord Name", "Key & Roman Numeral"])
+
+    CHORD = "C Major"
+    ROMAN = "I"
+    KEY = "C Major"
+    QUALITY = "Major"
+
+    if method == "Chord Name":
+        CHORD = st.text_input("Enter Chord Name", value="C Major")
+        CHORD = CHORD.title()
+    else:
+        with col4:
+            KEY = st.selectbox("Key", keys, index=0)
+        with col5:
+            ROMAN = st.selectbox(
+                label="Roman Numeral",
+                options=[
+                    "I",
+                    "ii",
+                    "iii",
+                    "IV",
+                    "V",
+                    "vi",
+                    "vii°",
+                    "i",
+                    "ii°",
+                    "III",
+                    "iv",
+                    "v",
+                    "VI",
+                    "VII",
+                ],
+                index=0,
+            )
+
+        KEY = f"$${KEY}$$"
+
+        if ROMAN in [
+            "i",
+            "ii°",
+            "III",
+            "iv",
+            "v",
+            "VI",
+            "VII",
+        ]:
+            KEY += " $$Minor$$"
+            QUALITY = " $$Minor$$"
+        else:
+            KEY += " $$Major$$"
+            QUALITY = " $$Major$$"
+
+        ROMAN = f"$${ROMAN}$$"
+
+    notes_y = pd.DataFrame(
+        {"Key": [KEY], "Quality": [QUALITY], "Chord": [CHORD], "RomanNumeral": [ROMAN]}
+    )
+    notes_prediction = notesPipe.predict(notes_y)[0]
+
+    chord_y = pd.DataFrame({"Key": [KEY], "Notes": [notes_prediction]})
+    chord_prediction = chordPipe.predict(chord_y)[0]
 
     f"""
     ---
-    ### Predictions
-    > ### Chord Name: {chordPipe.predict(notes_y)[0]}
-    > ### Notes: {notesPipe.predict(notes_y)[0]}
+    ### Prediction Accuracy: {round(notesScore*100, 2)}%
+    > ### Chord Name: {chord_prediction}
+    > ### Notes: {notes_prediction}
     """
 
 # with col3:

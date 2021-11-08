@@ -198,16 +198,19 @@ class Chord:
                     self.fifth = thisGo[i]
                     self.chord.append(self.fifth)
 
-        return [f"{self.root} {chordName}", self.chord]
+        return f"{self.root} {chordName}"
 
     def identTriad(self, root, third, fifth):
-
         self.bottom = distOfNotes(root, third)
         self.top = distOfNotes(third, fifth)
 
         chordName = triadChordTypes.get(self.bottom).get(self.top)
 
+        if chordName is None:
+            chordName = self.createTriad(root, third, fifth)
+
         chord = f"{root.title()} {chordName}"
+
         return chord
 
     def identSev(self, root, third, fifth, seventh):
@@ -217,18 +220,20 @@ class Chord:
         self.seventh = distOfNotes(fifth, seventh)
 
         chordName = seventhChordTypes.get(self.bottom).get(self.top).get(self.seventh)
+
+        if chordName is None:
+            chordName = self.createSeventh(root, third, fifth, seventh)
+
         chord = f"{root.title()} {chordName}"
 
         return chord
 
-    def createSeventh(self):
-        self.bottom, self.top, self.tiptop = (
-            random.choice(intervalsList),
-            random.choice(intervalsList),
-            random.choice(intervalsList),
-        )
-
-        chordName = None
+    def createSeventh(self, root, third, fifth, seventh):
+        self.root = root
+        try:
+            chordName = triadChordTypes.get(self.bottom).get(self.top)
+        except:
+            chordName = None
 
         while chordName is None:
             self.bottom, self.top, self.tiptop = (
@@ -237,15 +242,27 @@ class Chord:
                 random.choice(intervalsList),
             )
             try:
-                chordName = (
-                    seventhChordTypes.get(self.bottom).get(self.top).get(self.tiptop)
-                )
+                self.bottom = distOfNotes(self.root, third)
+                chordName = triadChordTypes.get(self.bottom).get(self.top)
             except:
-                self.bottom, self.top, self.tiptop = (
-                    random.choice(intervalsList),
+                third = random.choice(allNotes)
+
+                self.bottom, self.top = (
                     random.choice(intervalsList),
                     random.choice(intervalsList),
                 )
+
+            try:
+                self.top = distOfNotes(self.third, fifth)
+                chordName = triadChordTypes.get(self.bottom).get(self.top)
+            except:
+                fifth = random.choice(allNotes)
+
+            try:
+                self.seventh = distOfNotes(self.fifth, seventh)
+                chordName = triadChordTypes.get(self.bottom).get(self.seventh)
+            except:
+                seventh = random.choice(allNotes)
 
         self.chord.append(self.root)
 
@@ -268,7 +285,7 @@ class Chord:
                     self.seventh = thisGo[i]
                     self.chord.append(self.seventh)
 
-        return [f"{self.root} {chordName}", self.chord]
+        return f"{self.root} {chordName}"
 
 
 chordsDF = {"Chord": [], "Notes": []}
