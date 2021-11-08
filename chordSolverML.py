@@ -1,4 +1,6 @@
+import joblib
 from sklearn import neighbors
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import OneHotEncoder
@@ -9,8 +11,13 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from streamlit.proto.Radio_pb2 import Radio
+from PIL import Image
+
+# st.set_page_config(layout="wide")
 
 
+dtreeModel = DecisionTreeClassifier()
+joblib.dump(dtreeModel, "dtreeModel.joblib")
 # Build pandas dataframe
 @st.cache
 def loadData(vars):
@@ -29,12 +36,17 @@ def loadData(vars):
     if vars == "Notes":
         df = pd.read_csv(
             "./DataAndModels/data10000",
-            usecols=["Chord", "Key", "Quality", "Notes", "RomanNumeral"],
+            usecols=["Key", "Notes", "RomanNumeral"],
+        )
+    if vars == "ChordNotes":
+        df = pd.read_csv(
+            "./DataAndModels/data10000",
+            usecols=["Chord", "Notes"],
         )
     if vars == "Quality":
         df = pd.read_csv(
             "./DataAndModels/data10000",
-            usecols=["Key", "Quality", "Chord", "RomanNumeral"],
+            usecols=["Notes", "Quality"],
         )
 
     return df
@@ -44,11 +56,12 @@ def loadData(vars):
 # Scikit Learn Classification
 ohe = OneHotEncoder(sparse=False, handle_unknown="ignore")
 # model = neighbors.KNeighborsClassifier(15)
-chordModel = load("./DataAndModels/model.joblib")
-romanModel = load("./DataAndModels/model.joblib")
-keyModel = load("./DataAndModels/model.joblib")
-notesModel = load("./DataAndModels/model.joblib")
-qualityModel = load("./DataAndModels/model.joblib")
+chordModel = load("./DataAndModels/dtreeModel.joblib")
+romanModel = load("./DataAndModels/dtreeModel.joblib")
+keyModel = load("./DataAndModels/dtreeModel.joblib")
+notesModel = load("./DataAndModels/dtreeModel.joblib")
+chordNotesModel = load("./DataAndModels/dtreeModel.joblib")
+qualityModel = load("./DataAndModels/dtreeModel.joblib")
 ## Column Transformation and Model
 
 
@@ -150,30 +163,8 @@ def notesPredictionDF():
     )
 
     pipe = make_pipeline(
-        getCategoircalDataTransformed(["Key", "Quality", "Chord", "RomanNumeral"]),
+        getCategoircalDataTransformed(["Key", "RomanNumeral"]),
         notesModel,
-    )
-
-    pipe.fit(X_train, y_train)
-
-    score = pipe.score(X_test, y_test)
-
-    return pipe, score
-
-
-@st.cache
-def qualityPredictionDF():
-    df = loadData("Quality")
-    X = df.drop(columns=["Quality"])
-    y = df["Quality"]
-
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, random_state=4, shuffle=True
-    )
-
-    pipe = make_pipeline(
-        getCategoircalDataTransformed(["Key", "Quality", "Chord", "RomanNumeral"]),
-        qualityModel,
     )
 
     pipe.fit(X_train, y_train)
@@ -187,81 +178,96 @@ chordPipe, chordScore = chordPredictionDF()
 romanPipe, romanScore = romanPredictionDF()
 keyPipe, keyScore = keyPredictionDF()
 notesPipe, notesScore = notesPredictionDF()
-qualityPipe, qualityScore = qualityPredictionDF()
+
+image = Image.open("./musicToolSuite.png")
+
+st.image(image, use_column_width=True)
 
 f"""
-# Chord Solver 2.0 (ML)
-> **_Note:_** 
-
-> The results are **_NOT_** perfect. The more accurate you are at your input, the more accurate the machine will be.
-
-----------------------------------------------------------------
-## Predict Roman Numeral
+    # Chord Solver 2.0 (ML)
 """
+
+moreInfo = st.checkbox("More Info")
+prediction = st.checkbox("Prediction Accuracy")
+
+if moreInfo:
+    """
+    > The results are **_NOT_** perfect. There currently isn't a good dataset for music theory, so I did my best to create my own.
+
+    > In the meantime, the more accurate your input is, the more accurate the results will be.
+
+    ----------------------------------------------------------------
+    ## Predict Roman Numeral
+    """
 # > Chord Prediction Accuracy = {100*chordScore}%
 # > Roman Numeral Prediction Accuracy = {100*romanScore}%
 
 predictions = st.selectbox(
     label="What would you like to predict?",
-    options=["Key", "Notes", "Chord", "Roman Numeral", "Quality"],
+    options=["Chord & Roman Numeral", "Key", "Notes"],
     index=2,
 )
 
 col1, col2, col3 = st.columns(3)
 col4, col5 = st.columns(2)
 keys = [
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "A",
-    "B",
     "Cb",
-    "Db",
-    "Eb",
-    "Fb",
-    "Gb",
-    "Ab",
-    "Bb",
+    "C",
     "C#",
+    "Db",
+    "D",
     "D#",
+    "Eb",
+    "E",
     "E#",
+    "Fb",
+    "F",
     "F#",
+    "Gb",
+    "G",
     "G#",
+    "Ab",
+    "A",
     "A#",
+    "Bb",
+    "B",
     "B#",
 ]
 
 if len(predictions) == 0:
     "# ^ Select something to predict"
 
-elif predictions in ["Chord", "Roman Numeral"]:
+elif predictions in ["Chord & Roman Numeral"]:
 
-    with col4:
-        KEY = st.selectbox("Key", keys)
-    with col5:
-        NOTES = st.text_input("Enter Notes", value="C E G")
+    row2Col1, row2Col2 = st.columns(2)
+
+    with row2Col1:
+        KEY = st.selectbox("Key", keys, index=0)
+    with row2Col2:
+        NOTES = st.text_input("Enter Notes", value="")
         NOTES = NOTES.title()
 
-    y = pd.DataFrame({"Key": [KEY], "Notes": [NOTES]})
+    if NOTES != "" and KEY is not None:
 
-    f"""
-    ---
-    ### Predictions
+        y = pd.DataFrame({"Key": [KEY], "Notes": [NOTES]})
 
-    Accuracy: {round(chordScore*100, 2)}%\n
-    Accuracy: {round(romanScore*100, 2)}%
-
-    > ### Chord Name: {chordPipe.predict(y)[0]}
-    > ### Roman Numeral: {romanPipe.predict(y)[0]}
-    
-    """
+        if prediction:
+            f"""
+            ---
+            ### Predictions Accuracy: {round(chordScore*100, 2)}% & {round(romanScore*100, 2)}%
+            > ### Chord Name: {chordPipe.predict(y)[0]}
+            > ### Roman Numeral: {romanPipe.predict(y)[0]}
+            """
+        else:
+            f"""
+            ### Chord Name: {chordPipe.predict(y)[0]}
+            ### Roman Numeral: {romanPipe.predict(y)[0]}
+            """
 
 elif predictions == "Key":
 
     with col1:
-        NOTES = st.text_input("Enter Notes", value="C E G")
+        NOTES = st.text_input("Enter Notes", value="")
         NOTES = NOTES.title()
     with col2:
         ROMAN = st.selectbox(
@@ -306,112 +312,88 @@ elif predictions == "Key":
         "VI",
         "VII",
     ]:
-        key_prediction += " Minor"
+        key_prediction += " minor"
     else:
-        key_prediction += " Major"
+        key_prediction += " major"
 
-    chord_y = pd.DataFrame(
-        {"Key": [key_prediction], "Notes": [NOTES], "RomanNumeral": [ROMAN]}
-    )
-    chord_prediction = chordPipe.predict(chord_y)[0]
+    if NOTES != "":
+        chord_y = pd.DataFrame(
+            {"Key": [key_prediction], "Notes": [NOTES], "RomanNumeral": [ROMAN]}
+        )
+        chord_prediction = chordPipe.predict(chord_y)[0]
 
-    f"""
-    ---
-    ### Prediction Accuracy: {round(keyScore*100, 2)}%
-    > ### Chord Name: {chord_prediction}
-    > ### Key: {key_prediction}
-
-    """
+        if prediction:
+            f"""
+            ---
+            ### Prediction Accuracy: {round(keyScore*100, 2)}%
+            > ### Chord Name: {chord_prediction}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Key: {key_prediction}
+            """
+        else:
+            f"""
+            ---
+            ### Chord Name: {chord_prediction} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Key: {key_prediction}
+            """
 
 elif predictions == "Notes":
 
-    method = st.radio(label="Method", options=["Chord Name", "Key & Roman Numeral"])
+    # method = st.radio(label="Method", options=["Chord Name", "Key & Roman Numeral"])
 
-    CHORD: str
-    KEY: str
-    QUALITY: str
+    KEY = "C"
 
-    if method == "Chord Name":
+    colX, colY = st.columns(2)
 
-        CHORD = st.text_input("Enter Chord Name", value="C Major")
-        CHORD = CHORD.title()
+    with colX:
+        KEY = st.selectbox("Key", keys, index=0)
 
-    else:
-        KEY = "C Major"
-        QUALITY = "Major"
-
-        colX, colY = st.columns(2)
-
-        with colX:
-            KEY = st.selectbox("Key", keys, index=0)
-        with colY:
-            ROMAN = st.selectbox(
-                label="Roman Numeral",
-                options=[
-                    "I",
-                    "ii",
-                    "iii",
-                    "IV",
-                    "V",
-                    "vi",
-                    "vii°",
-                    "i",
-                    "ii°",
-                    "III",
-                    "iv",
-                    "v",
-                    "VI",
-                    "VII",
-                ],
-                index=0,
-            )
-
-        KEY = f"$${KEY}$$"
-
-        if ROMAN in [
-            "i",
-            "ii°",
-            "III",
-            "iv",
-            "v",
-            "VI",
-            "VII",
-        ]:
-            KEY += " $$Minor$$"
-            QUALITY = " $$Minor$$"
-        else:
-            KEY += " $$Major$$"
-            QUALITY = " $$Major$$"
-
-        ROMAN = f"$${ROMAN}$$"
+    with colY:
+        ROMAN = st.selectbox(
+            label="Roman Numeral",
+            options=[
+                "I",
+                "ii",
+                "iii",
+                "IV",
+                "V",
+                "vi",
+                "vii°",
+                "i",
+                "ii°",
+                "III",
+                "iv",
+                "v",
+                "VI",
+                "VII",
+            ],
+            index=0,
+        )
 
     notes_y = pd.DataFrame(
-        {"Key": [KEY], "Quality": [QUALITY], "Chord": [CHORD], "RomanNumeral": [ROMAN]}
+        {
+            "Key": [KEY],
+            "RomanNumeral": [ROMAN],
+        }
     )
+
+    #     CHORD = CHORD.title()
     notes_prediction = notesPipe.predict(notes_y)[0]
 
     chord_y = pd.DataFrame({"Key": [KEY], "Notes": [notes_prediction]})
+
     chord_prediction = chordPipe.predict(chord_y)[0]
 
-    f"""
-    ---
-    ### Prediction Accuracy: {round(notesScore*100, 2)}%
-    > ### Chord Name: {chord_prediction}
-    > ### Notes: {notes_prediction}
-    """
-if predictions == "Quality":
-
-    quality_y = pd.DataFrame(
-        {"Key": [], "Quality": [], "Chord": [], "RomanNumeral": []}
-    )
-
-    quality_prediction = qualityPipe.predict(quality_y)
-
-    f"""
-    ---
-    ### Prediction Accuracy: {round(chordScore*100, 2)}%
-    > ### Chord Name: {chord_prediction}
-    """
+    if prediction:
+        f"""
+        ---
+        ### Prediction Accuracy: {round(notesScore*100, 2)}%
+        > ### Chord: {chord_prediction}
+        > ### Notes: {notes_prediction}
+        """
+    else:
+        f"""
+        ---
+        > ### Chord: {chord_prediction}
+        ### Notes: {notes_prediction}
+        """
 
 # with col3:
 #     RN = st.text_input("Enter Roman Numeral", value="I")
