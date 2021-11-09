@@ -10,7 +10,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from streamlit.proto.Radio_pb2 import Radio
-from PIL import Image
 
 chordPipe, chordScore = chordPredictionDF()
 romanPipe, romanScore = romanPredictionDF()
@@ -128,13 +127,13 @@ elif predictions == "Key":
             ],
         )
     with col3:
-        altered = st.radio("Altered", ["#5", "b5", "7"])
-    if altered:
-        ROMAN += "#5"
-    elif altered:
-        ROMAN += "b5"
-    elif altered:
-        ROMAN += "7"
+        altered = st.radio("Altered", ["None", "#5", "b5", "7"])
+    if altered == "#5":
+        ROMAN += "^{\#5}"
+    elif altered == "b5":
+        ROMAN += "^{ b5}"
+    elif altered == "7":
+        ROMAN += "^7"
 
     print(ROMAN)
 
@@ -164,12 +163,12 @@ elif predictions == "Key":
             f"""
             ---
             ### Prediction Accuracy: {round(keyScore*100, 2)}%
-            > ### Chord Name: {chord_prediction}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Key: {key_prediction}
+            > ### {chord_prediction} is the &nbsp;&nbsp; ${ROMAN}$     </pre>chord of {key_prediction}
             """
         else:
             f"""
             ---
-            ### Chord Name: {chord_prediction} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Key: {key_prediction}
+            > ### {chord_prediction} is the ${ROMAN}$ chord of {key_prediction}
             """
 
 elif predictions == "Notes":
@@ -205,7 +204,7 @@ elif predictions == "Notes":
             index=0,
         )
     with colZ:
-        altered = st.radio("Altered", ["#5", "b5", "7"])
+        altered = st.radio("Altered", ["None", "#5", "b5", "7"])
 
     if altered == "#5":
         ROMAN += "#5"

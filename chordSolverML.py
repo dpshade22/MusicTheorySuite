@@ -11,10 +11,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from streamlit.proto.Radio_pb2 import Radio
-from PIL import Image
 
-
-dtreeModel = DecisionTreeClassifier()
 
 # Build pandas dataframe
 @st.cache
@@ -23,17 +20,17 @@ def loadData(vars):
         df = pd.read_csv("./DataAndModels/data10000", usecols=["Key", "Notes", "Chord"])
     if vars == "Roman":
         df = pd.read_csv(
-            "./DataAndModels/data50000",
+            "./DataAndModels/data10000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Key":
         df = pd.read_csv(
-            "./DataAndModels/data50000",
+            "./DataAndModels/data10000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
     if vars == "Notes":
         df = pd.read_csv(
-            "./DataAndModels/data50000",
+            "./DataAndModels/data10000",
             usecols=["Key", "Notes", "RomanNumeral"],
         )
 
