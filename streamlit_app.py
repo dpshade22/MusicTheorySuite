@@ -29,7 +29,7 @@ if moreInfo:
     """
     > The results are **_NOT_** perfect. There currently isn't a good dataset for music theory, so I did my best to create my own.
 
-    > In the meantime, the more accurate your input is, the more accurate the results will be.
+    > In the meantime, the more accurate your input is, the more accurate the results will be. Put spaces between the notes.
 
     ----------------------------------------------------------------
     ## Predict Roman Numeral
@@ -92,12 +92,12 @@ elif predictions in ["Chord & Roman Numeral"]:
             f"""
             ---
             ### Predictions Accuracy: {round(chordScore*100, 2)}% & {round(romanScore*100, 2)}%
-            > ### Chord Name: {chordPipe.predict(y)[0]} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Roman Numeral: {romanPipe.predict(y)[0]}
+            > ### Chord Name: {chordPipe.predict(y)[0]} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Roman Numeral: ${romanPipe.predict(y)[0]}$
             """
         else:
             f"""
             ---
-            ### Chord Name: {chordPipe.predict(y)[0]} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Roman Numeral: {romanPipe.predict(y)[0]}
+            ### Chord Name: {chordPipe.predict(y)[0]} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Roman Numeral: ${romanPipe.predict(y)[0]}$
             ###
             """
 
