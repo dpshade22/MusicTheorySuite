@@ -40,7 +40,7 @@ if moreInfo:
 predictions = st.selectbox(
     label="What would you like to predict?",
     options=["Chord & Roman Numeral", "Key", "Notes"],
-    index=2,
+    index=0,
 )
 
 "---"
@@ -79,7 +79,7 @@ elif predictions in ["Chord & Roman Numeral"]:
     row2Col1, row2Col2 = st.columns(2)
 
     with row2Col1:
-        KEY = st.selectbox("Key", keys, index=0)
+        KEY = st.selectbox("Key", keys, index=1)
     with row2Col2:
         NOTES = st.text_input("Enter Notes", value="")
         NOTES = NOTES.title()
@@ -180,7 +180,7 @@ elif predictions == "Notes":
     colX, colY, colZ = st.columns(3)
 
     with colX:
-        KEY = st.selectbox("Key", keys, index=0)
+        KEY = st.selectbox("Key", keys, index=1)
 
     with colY:
         ROMAN = st.selectbox(
