@@ -123,9 +123,6 @@ if page == "Music Tools v3":
     elif predictions == "Key":
 
         with col1:
-            NOTES = st.text_input("Enter Notes", value="")
-            NOTES = NOTES.title()
-        with col2:
             ROMAN = st.selectbox(
                 label="Roman Numeral",
                 options=[
@@ -145,6 +142,9 @@ if page == "Music Tools v3":
                     "VII",
                 ],
             )
+        with col2:
+            NOTES = st.text_input("Enter Notes", value="")
+            NOTES = NOTES.title()
         with col3:
             altered = st.radio("Altered", ["None", "♯5", "♭5", "7"])
 
@@ -178,6 +178,12 @@ if page == "Music Tools v3":
                 chord_prediction += " ${ ♭5}$"
             elif altered == "7":
                 ROMAN += "^7"
+
+            chord_prediction = chord_prediction.replace("b", "$♭$")
+            chord_prediction = chord_prediction.replace("#", "$♯$")
+
+            key_prediction = key_prediction.replace("b", "$♭$")
+            key_prediction = key_prediction.replace("#", "$♯$")
 
             if prediction:
                 f"""
@@ -235,6 +241,9 @@ if page == "Music Tools v3":
 
         print(ROMAN)
 
+        KEY = KEY.replace("♭", "b")
+        KEY = KEY.replace("♯", "#")
+
         notes_y = pd.DataFrame(
             {
                 "Key": [KEY],
@@ -247,6 +256,12 @@ if page == "Music Tools v3":
         chord_y = pd.DataFrame({"Key": [KEY], "Notes": [notes_prediction]})
 
         chord_prediction = chordPipe.predict(chord_y)[0]
+
+        chord_prediction = chord_prediction.replace("b", "$♭$")
+        chord_prediction = chord_prediction.replace("#", "$♯$")
+
+        notes_prediction = notes_prediction.replace("b", "$♭$")
+        notes_prediction = notes_prediction.replace("#", "$♯$")
 
         if prediction:
             f"""
