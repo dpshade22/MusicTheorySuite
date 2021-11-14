@@ -230,6 +230,7 @@ class Chord:
 
     def createSeventh(self, root, third, fifth, seventh):
         self.root = root
+
         try:
             chordName = triadChordTypes.get(self.bottom).get(self.top)
         except:

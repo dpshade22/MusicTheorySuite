@@ -223,6 +223,11 @@ class Key:
             scale = self.getMinorScale()
 
         scale += scale[1:]
+        for i in scale:
+            if "#" in i:
+                i.replace("#", "♯")
+            elif "b" in i:
+                i.replace("b", "♭")
 
         for i in range(len(romansList)):
 
@@ -238,8 +243,8 @@ class Key:
 
             romanNumeral = romansList[i]
 
-            sharpFive = romanNumeral + "#5"
-            flatFive = romanNumeral + "b5"
+            sharpFive = romanNumeral + "♯5"
+            flatFive = romanNumeral + "♭5"
             addNine = romanNumeral + "+9"
 
             alteredChords = [sharpFive, flatFive, addNine, "None"]
@@ -280,18 +285,18 @@ class Key:
                     romanNumeral = "vii°/V"
 
             if romansList[i] == "ii" or romansList[i] == "ii°":
-                neo = ["bII", "V/V", "E"]
+                neo = ["♭II", "V/V", "E"]
                 prob = [3, 15, 95]
 
                 neoOrNot = random.choices(neo, prob)
 
-                if neoOrNot[0] == "bII":
+                if neoOrNot[0] == "♭II":
                     botNdx = self.allNotes.index(bot)
                     topNdx = self.allNotes.index(top)
                     bot = self.allNotes[botNdx - 1]
                     top = self.allNotes[topNdx - 1]
 
-                    romanNumeral = "bII"
+                    romanNumeral = "♭II"
 
                 elif neoOrNot[0] == "V/V":
                     if romansList[i] == "ii":
@@ -414,6 +419,14 @@ def generateDataset(num):
                 or chordStripped[0] == chordStripped[1]
             ):
                 continue
+
+            if "b" in tempKey.root or "#" in tempKey.root:
+                tempKey.root.replace("#", "♯")
+                tempKey.root.replace("b", "♭")
+                print(tempKey.root)
+            elif "b" in notesStr or "#" in notesStr:
+                notesStr.replace("#", "♯")
+                notesStr.replace("b", "♭")
 
             df["Key"].append(tempKey.root)
             df["Quality"].append(tempKey.quality)
