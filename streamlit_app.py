@@ -15,7 +15,7 @@ import streamlit.components.v1 as components
 st.set_page_config(
     layout="wide",
     page_title="Music Theory Suite",
-    page_icon="./Assets/chord_solver.jpg",
+    page_icon="./Assets/musicTheoryLogo.jpeg",
 )
 
 chordPipe, chordScore = chordPredictionDF()
@@ -31,7 +31,7 @@ page = st.sidebar.radio(
 if page == "Music Tools v3":
     # Display details of page 1
 
-    st.image("./Assets/musicToolSuite.png", width=750, clamp=True)
+    st.image("./Assets/mustheorysuite.png", width=750, clamp=True)
 
     f"""
     # Music Tools - v3
@@ -289,7 +289,7 @@ if page == "Music Tools v1 & v2":
     "# Chord Solver Website "
 
     "[Click here to go to website](http://www.chordsolver.com/) \n"
-
+    st.components.v1.iframe(src="http://chordsolver.com", height=550, scrolling=True)
 
 if page == "About":
 
