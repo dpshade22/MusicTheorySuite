@@ -31,7 +31,7 @@ page = st.sidebar.radio(
 if page == "Music Tools v3":
     # Display details of page 1
 
-    st.image("./Assets/mustheorysuite.png", width=750, clamp=True)
+    st.image("./Assets/mustheorysuite.jpeg", width=750, clamp=True)
 
     f"""
     # Music Tools - v3
